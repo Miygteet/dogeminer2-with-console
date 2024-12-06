@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive JavaScript Console</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+
+        /* Style for the button to open the console */
+        #openConsoleButton {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+
+        #openConsoleButton:hover {
+            background-color: #0056b3;
+        }
+
+        /* Console styles */
+        .console {
+            display: none; /* Hide the console initially */
+            background-color: black;
+            padding: 20px;
+            border-radius: 5px;
+            height: 400px;
+            overflow-y: auto;
+            margin-top: 20px;
+        }
+
+        .input-container {
+            display: flex;
+            margin-top: 20px;
+        }
+
+        .console-input {
+            width: 100%;
+            padding: 10px;
+            background-color: #333;
+            border: none;
+            color: white;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+
+        .button {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 10px;
+            margin-left: 10px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .button:hover {
+            background-color: #0056b3;
+        }
+
+        .output {
+            padding: 10px;
+            background-color: #2d2d2d;
+            margin-bottom: 10px;
+            border-radius: 5px;
+        }
+
+        .error {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Button to toggle the console visibility -->
+    <button id="openConsoleButton">Open Console</button>
+
+    <!-- Console container (initially hidden) -->
+    <div class="console" id="consoleOutput"></div>
+    <div class="input-container">
+        <input type="text" id="userInput" class="console-input" placeholder="Type your JavaScript command..." />
+        <button class="button" onclick="executeCommand()">Run</button>
+    </div>
+
+    <script>
+        // References to the HTML elements
+        const consoleOutput = document.getElementById('consoleOutput');
+        const userInput = document.getElementById('userInput');
+        const openConsoleButton = document.getElementById('openConsoleButton');
+
+        // Function to toggle the console visibility
+        openConsoleButton.addEventListener('click', function () {
+            // Toggle the console's display property
+            if (consoleOutput.style.display === 'none') {
+                consoleOutput.style.display = 'block';
+                openConsoleButton.textContent = 'Close Console';
+            } else {
+                consoleOutput.style.display = 'none';
+                openConsoleButton.textContent = 'Open Console';
+            }
+        });
+
+        // Function to execute the user's input
+        function executeCommand() {
+            const input = userInput.value.trim();
+            
+            if (input === '') return;
+            
+            // Display the user's input in the console
+            printToConsole(`>>> ${input}`, 'input');
+            
+            try {
+                // Execute the command and display the result
+                const result = eval(input);  // Dangerous in production, use with care
+                printToConsole(result);
+            } catch (error) {
+                // If there's an error, show the error message
+                printToConsole(error.message, 'error');
+            }
+            
+            // Clear the input field
+            userInput.value = '';
+            userInput.focus();
+        }
+
+        // Function to append output to the console area
+        function printToConsole(message, type = 'output') {
+            const outputDiv = document.createElement('div');
+            outputDiv.classList.add(type);
+            if (type === 'error') {
+                outputDiv.classList.add('error');
+            }
+            outputDiv.textContent = message;
+            consoleOutput.appendChild(outputDiv);
+            consoleOutput.scrollTop = consoleOutput.scrollHeight;  // Auto-scroll to the latest output
+        }
+    </script>
+
+</body>
+</html>
