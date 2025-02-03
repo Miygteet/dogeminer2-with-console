@@ -1,0 +1,139 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f0f0f0;
+    }
+    #consoleWrapper {
+      display: none; /* Initially hidden */
+      flex-direction: column;
+      height: 100vh;
+    }
+    #console {
+      background: #1e1e1e;
+      color: #dcdcdc;
+      padding: 10px;
+      height: 90vh;
+      overflow-y: auto;
+      font-family: monospace;
+    }
+    #inputBox {
+      display: flex;
+      border-top: 2px solid #333;
+      background: #fff;
+    }
+    #inputBox input {
+      flex: 1;
+      padding: 10px;
+      border: none;
+      outline: none;
+      font-size: 16px;
+    }
+    #inputBox button {
+      padding: 10px 20px;
+      background: #007acc;
+      color: white;
+      border: none;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    #inputBox button:hover {
+      background: #005a9c;
+    }
+    #toggleConsole {
+      position: fixed;
+      top: 10px;
+      right: 10px;
+      padding: 10px 20px;
+      background: #007acc;
+      color: white;
+      border: none;
+      cursor: pointer;
+      font-size: 16px;
+      z-index: 1000;
+      opacity: 100%;
+    }
+    #toggleConsole:hover {
+      background: #005a9c;
+    }
+    #toggleConsole:disabled {
+      cursor: not-allowed;
+      background: #007acc;
+      opacity: 50%;
+    }
+  </style>
+</head>
+<body>
+  <button id="toggleConsole">Open Console Logger</button>
+
+  <div id="consoleWrapper">
+    <div id="console"></div>
+    <div id="inputBox">
+      <input id="userInput" type="text" placeholder="Type a message..."/>
+      <button id="sendBtn">Send</button>
+    </div>
+  </div>
+
+  <script>
+    const consoleWrapper = document.getElementById("consoleWrapper");
+    const toggleConsoleBtn = document.getElementById("toggleConsole");
+    const consoleDiv = document.getElementById("console");
+    const userInput = document.getElementById("userInput");
+    const sendBtn = document.getElementById("sendBtn");
+
+    // Function to toggle the visibility of the console
+    toggleConsoleBtn.addEventListener("click", () => {
+      const isVisible = consoleWrapper.style.display === "flex";
+      consoleWrapper.style.display = isVisible ? "none" : "flex";
+      toggleConsoleBtn.textContent = isVisible ? "Open Console Logger" : "Close Console Logger";
+    });
+
+    // Function to log messages to the custom console
+    function logMessage(message, type = "log") {
+      const messageElement = document.createElement("div");
+      messageElement.textContent = `[${type.toUpperCase()}] ${message}`;
+      messageElement.style.color = type === "error" ? "red" : "inherit";
+      consoleDiv.appendChild(messageElement);
+      consoleDiv.scrollTop = consoleDiv.scrollHeight; // Auto-scroll to the bottom
+    }
+
+    // Override the default console methods
+    const originalConsoleLog = console.log;
+    const originalConsoleError = console.error;
+
+    console.log = function (...args) {
+      originalConsoleLog.apply(console, args);
+      logMessage(args.join(" "), "log");
+    };
+
+    console.error = function (...args) {
+      originalConsoleError.apply(console, args);
+      logMessage(args.join(" "), "error");
+    };
+
+    // Capture user input
+    sendBtn.addEventListener("click", () => {
+      const message = userInput.value.trim();
+      if (message) {
+        logMessage(message, "user");
+        userInput.value = "";
+      }
+    });
+
+    userInput.addEventListener("keypress", (e) => {
+      if (e.key === "Enter") {
+        sendBtn.click();
+      }
+    });
+
+    // Example usage
+    console.log("Console initialized.");
+    console.error("This is a sample error.");
+  </script>
+</body>
+</html>
