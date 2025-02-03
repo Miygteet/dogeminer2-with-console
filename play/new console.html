@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Console</title>
+    <style>
+        #console {
+            width: 100%;
+            height: 200px;
+            border: 1px solid black;
+            overflow-y: auto;
+            padding: 10px;
+            background-color: black;
+            color: white;
+        }
+        button {
+            margin: 5px;
+        }
+    </style>
+</head>
+<body>
+    <button onclick="myConsole.open()">Open Console</button>
+    <button onclick="myConsole.close()">Close Console</button>
+    <div id="console"></div>
+    
+    <script>
+        class Console {
+            constructor() {
+                this.history = [];
+                this.isOpen = false;
+                this.consoleElement = document.getElementById('console');
+            }
+
+            log(message) {
+                this.history.push({ type: 'log', message });
+                if (this.isOpen) this.displayMessage(message, 'white');
+            }
+
+            error(message) {
+                this.history.push({ type: 'error', message });
+                if (this.isOpen) this.displayMessage(message, 'red');
+            }
+
+            warn(message) {
+                this.history.push({ type: 'warn', message });
+                if (this.isOpen) this.displayMessage(message, 'yellow');
+            }
+
+            clear() {
+                this.history = [];
+                if (this.isOpen) this.consoleElement.innerHTML = '';
+            }
+
+            getHistory() {
+                return this.history;
+            }
+
+            open() {
+                this.isOpen = true;
+                this.displayMessage("Console opened.", 'green');
+            }
+
+            close() {
+                this.isOpen = false;
+                this.displayMessage("Console closed.", 'gray');
+            }
+
+            displayMessage(message, color) {
+                const messageElement = document.createElement('div');
+                messageElement.style.color = color;
+                messageElement.textContent = message;
+                this.consoleElement.appendChild(messageElement);
+            }
+        }
+
+        const myConsole = new Console();
+        myConsole.open();
+        myConsole.log("Hello, World!");
+        myConsole.error("This is an error!");
+        myConsole.warn("This is a warning!");
+        myConsole.close();
+    </script>
+</body>
+</html>
