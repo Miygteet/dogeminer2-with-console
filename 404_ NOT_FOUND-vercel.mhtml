@@ -1,0 +1,2887 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://octodoodle.vercel.app/
+Subject: 404: NOT_FOUND
+Date: Mon, 3 Feb 2025 15:27:24 -0500
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--vVLRoY6PHEa8g2rKwngdF4Z1QofAdXr8fXYaNvHes7----"
+
+
+------MultipartBoundary--vVLRoY6PHEa8g2rKwngdF4Z1QofAdXr8fXYaNvHes7----
+Content-Type: text/html
+Content-ID: <frame-51CADE4F7EE8417998F1CDC768A10F9A@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://octodoodle.vercel.app/
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-c7b326f0-c61b-46be-b751-b551fe5dd730@mhtml.blink" /><l=
+ink rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-202c578b-4627-4fa8=
+-85ed-33846b3b2929@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css=
+" href=3D"cid:css-64cdfbc5-ffea-4e8d-a160-48b564e72e2c@mhtml.blink" /><link=
+ rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-499b422d-f7ca-48f1-9c=
+73-dfbaa85ebfdc@mhtml.blink" /><meta name=3D"viewport" content=3D"width=3Dd=
+evice-width,initial-scale=3D1"><meta name=3D"theme-color" content=3D"#000">=
+<title>404: NOT_FOUND</title><link media=3D"print" type=3D"text/css" rel=3D=
+"stylesheet" href=3D"blob:https://octodoodle.vercel.app/1415547a-bf5e-4c01-=
+a64c-96ed046c7870"><link media=3D"screen" type=3D"text/css" rel=3D"styleshe=
+et" href=3D"blob:https://octodoodle.vercel.app/c79618ef-0f76-45fb-9af5-f349=
+5734ed14"><link media=3D"screen" type=3D"text/css" rel=3D"stylesheet" href=
+=3D"blob:https://octodoodle.vercel.app/0dd76391-5b63-4ee7-ba49-deda45852ec2=
+"><link media=3D"screen" type=3D"text/css" rel=3D"stylesheet" href=3D"blob:=
+https://octodoodle.vercel.app/0be59003-8b61-4ba7-a343-2bcdbc5a98c9"><link m=
+edia=3D"screen" type=3D"text/css" rel=3D"stylesheet" href=3D"blob:https://o=
+ctodoodle.vercel.app/1e748775-5c25-4168-9b06-fc14290b76c6"></head><body dat=
+a-new-gr-c-s-check-loaded=3D"14.1220.0" data-gr-ext-installed=3D"" data-new=
+-gr-c-s-loaded=3D"14.1220.0"><div class=3D"container"><main><p class=3D"dev=
+info-container"><span class=3D"error-code"><strong>404</strong>: NOT_FOUND<=
+/span>
+<span class=3D"devinfo-line">Code: <code>NOT_FOUND</code></span>
+<span class=3D"devinfo-line">ID: <code>iad1:iad1::w59pr-1738614410965-a4569=
+44e3b89</code></span></p><a href=3D"https://vercel.com/docs/errors/platform=
+-error-codes#not_found" class=3D"owner-error"><div class=3D"note">Read our =
+documentation to learn more about this error.</div></a></main></div><iframe=
+ src=3D"cid:frame-BAAECAAAAFDFB3462CEA2144BF420A3F@mhtml.blink" allow=3D"ca=
+mera" style=3D"display: none;"></iframe><iframe src=3D"cid:frame-FE00FC5F59=
+FA8BFEC2416CE36E107CDF@mhtml.blink" allow=3D"microphone" style=3D"display: =
+none;"></iframe><iframe src=3D"cid:frame-40637ECBC1B990FB473A046AE3D54535@m=
+html.blink" style=3D"display: none;"></iframe><div id=3D"fa7b78f1-6772-4875=
+-be7c-77bcad9ea2ef" data-gg-chat-anchor=3D"true" style=3D"z-index: 21474836=
+47; position: relative; display: block; height: 0px; min-height: 0px; width=
+: 0px; min-width: 0px; margin: 0px; padding: 0px; border: 0px;"><div data-r=
+eactroot=3D""></div></div><div id=3D"gg-block-reason-modal" style=3D"
+    display: none !important;
+    position: fixed !important;
+    inset: 0 !important;
+    z-index: 2147483647 !important;
+    background-color: rgba(0, 0, 0, .55) !important;
+    padding: 10% 22% !important;
+    overflow: auto !important;"><div style=3D"
+    display: flex;
+    padding: 40px 40px 80px 40px;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 16px;
+    border-radius: 24px;
+    background: white;
+    box-shadow: 0px 0px 32px 0px rgba(0, 0, 0, 0.01);
+    font-family: 'system-ui';"><img style=3D"
+    align-self: end;
+    cursor: pointer;
+    width: 28px;
+    height: 28px;" src=3D"chrome-extension://haldlgldplgnggkjaafhelgiaglafa=
+nh/explicit-image-filter/close.svg"><img src=3D"chrome-extension://haldlgld=
+plgnggkjaafhelgiaglafanh/explicit-image-filter/blockedImageLock.png"><h2 st=
+yle=3D"
+    color: #737373;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;">Image Blocked by School Admin</h2><h1 id=3D"gg-bloc=
+k-trigger-message" style=3D"
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 36px;
+    max-width: 50%">This image has been blocked by your school.</h1><span s=
+tyle=3D"
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    overflow: hidden;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    color: #262626;
+    text-overflow: ellipsis;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;"><b>URL: </b><span id=3D"gg-block-url"></span></span=
+><div style=3D"
+    display: flex;
+    width: 400px;
+    padding: 24px 0px;
+    flex-direction: column;
+    font-size: 16px;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    border-radius: 8px;
+    background-color: #F7F8FA;"><span style=3D"color: #595959; font-size: 1=
+4px;">Why is this blocked?</span><b>Smart Alert</b><span><b>Trigger: </b><s=
+pan id=3D"gg-block-trigger-name"></span></span><span><b>Category: </b><span=
+>Explicit</span></span></div></div></div><div id=3D"a71726a4-a79d-43d9-bb17=
+-15b74dfbc323" data-gg-privacy-banner-anchor=3D"true" style=3D"z-index: 214=
+7483647; position: relative; display: block; height: 0px; min-height: 0px; =
+width: 0px; min-width: 0px; margin: 0px; padding: 0px; border: 0px;"><!-- r=
+eact-empty: 1 --></div><div id=3D"mote-extension-popup"><template shadowmod=
+e=3D"open"><div class=3D"inject-react-anywhere-mounted-into"><div id=3D"sha=
+dow-content" class=3D"sc-bSlUec"></div></div><div></div></template></div><v=
+ercel-live-feedback style=3D"position: absolute; top: 0px; left: 0px; z-ind=
+ex: 2147483647;"><template shadowmode=3D"closed"><div class=3D"xjpnuDEdtsph=
+eNmW752g"></div><div class=3D"rkEQJK5UMVeU3W3N5bFj"><svg height=3D"16" stro=
+ke-linejoin=3D"round" viewBox=3D"0 0 16 16" width=3D"16">  <path fill-rule=
+=3D"evenodd" clip-rule=3D"evenodd" d=3D"M12.4697 13.5303L13 14.0607L14.0607=
+ 13L13.5303 12.4697L9.06065 7.99999L13.5303 3.53032L14.0607 2.99999L13 1.93=
+933L12.4697 2.46966L7.99999 6.93933L3.53032 2.46966L2.99999 1.93933L1.93933=
+ 2.99999L2.46966 3.53032L6.93933 7.99999L2.46966 12.4697L1.93933 13L2.99999=
+ 14.0607L3.53032 13.5303L7.99999 9.06065L12.4697 13.5303Z" fill=3D"currentC=
+olor"></path></svg></div><div style=3D"--toolbar-x: 1; --toolbar-y: 0.5;"><=
+div><iframe src=3D"cid:frame-440414EB2027E16C7939EF5113F99C00@mhtml.blink" =
+width=3D"0" height=3D"0" title=3D"empty" style=3D"border: none;"></iframe><=
+/div></div><div class=3D"KgfssQl8RzJGwFogbANP" style=3D"--toolbar-x: 1; --t=
+oolbar-y: 0.5; --window-width: 1469.2467041015625px; --window-height: 731.8=
+469848632812px;"><div class=3D"oZlNLbvDgy4XTIKt1MgM"><div class=3D"cOOwjAdS=
+MSRiTHprPccD"></div></div><button class=3D"g_U3r8dd_7sgVHnNnVpT" aria-label=
+=3D"Vercel Toolbar"><svg width=3D"32" height=3D"32" viewBox=3D"0 0 32 32" f=
+ill=3D"none" xmlns=3D"http://www.w3.org/2000/svg" class=3D"sF5uu1wZYWXEZpfe=
+WyAr">  <g clip-path=3D"url(#clip0_7590_8914)"><circle cx=3D"23" cy=3D"20" =
+r=3D"3.65625" fill=3D"white" stroke=3D"white" stroke-width=3D"1.6875" strok=
+e-linecap=3D"round" stroke-linejoin=3D"round"></circle><path fill-rule=3D"e=
+venodd" clip-rule=3D"evenodd" d=3D"M23 17.5801L25.4844 21.9277H20.5156L23 1=
+7.5801Z" fill=3D"#1A1A1A"></path></g>  <path fill-rule=3D"evenodd" clip-rul=
+e=3D"evenodd" d=3D"M9.75 10H9V11.5H9.75H22.25H23V10H22.25H9.75ZM9.75 20H9V2=
+1.5H9.75H17.189C17.0656 21.0206 17 20.5179 17 20H9.75ZM18.126 16.5H9.75H9V1=
+5H9.75H19.6822C19.0774 15.4022 18.5497 15.9111 18.126 16.5Z" fill=3D"#EDEDE=
+D"></path>  <defs><clipPath id=3D"clip0_7590_8914"><rect width=3D"9" height=
+=3D"9" fill=3D"white" transform=3D"translate(18.5 15.5)"></rect></clipPath>=
+</defs></svg><div class=3D"UrncQQ9DDT5yb13q4rQ5 TOFYxsTuhd4WvePFJ5mA"><div =
+class=3D"_472I4HBgsrXA25rrRN7g"><div class=3D"cDmbUw8NpHadAxKa_6Ny"></div><=
+div class=3D"cDmbUw8NpHadAxKa_6Ny"></div><div class=3D"cDmbUw8NpHadAxKa_6Ny=
+"></div><div class=3D"cDmbUw8NpHadAxKa_6Ny"></div><div class=3D"cDmbUw8NpHa=
+dAxKa_6Ny"></div><div class=3D"cDmbUw8NpHadAxKa_6Ny"></div><div class=3D"cD=
+mbUw8NpHadAxKa_6Ny"></div><div class=3D"cDmbUw8NpHadAxKa_6Ny"></div><div cl=
+ass=3D"cDmbUw8NpHadAxKa_6Ny"></div><div class=3D"cDmbUw8NpHadAxKa_6Ny"></di=
+v><div class=3D"cDmbUw8NpHadAxKa_6Ny"></div><div class=3D"cDmbUw8NpHadAxKa_=
+6Ny"></div></div></div></button></div></template></vercel-live-feedback><di=
+v data-mote-read-aloud-ignore=3D"" id=3D"mote-floating-sidebar-root"><templ=
+ate shadowmode=3D"open"><div class=3D"inject-react-anywhere-mounted-into"><=
+div class=3D"sc-bSlUec shadow-content"></div></div><div></div></template></=
+div><div data-mote-read-aloud-ignore=3D"" id=3D"mote-read-aloud-floating-pl=
+ayer-root"><template shadowmode=3D"open"><div class=3D"inject-react-anywher=
+e-mounted-into"></div><div></div></template></div></body><grammarly-desktop=
+-integration data-grammarly-shadow-root=3D"true"><template shadowmode=3D"op=
+en"><div aria-label=3D"grammarly-integration" role=3D"group" tabindex=3D"-1=
+" class=3D"grammarly-desktop-integration" data-content=3D"{&quot;mode&quot;=
+:&quot;full&quot;,&quot;isActive&quot;:true,&quot;isUserDisabled&quot;:fals=
+e}"></div></template></grammarly-desktop-integration></html>
+------MultipartBoundary--vVLRoY6PHEa8g2rKwngdF4Z1QofAdXr8fXYaNvHes7----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-c7b326f0-c61b-46be-b751-b551fe5dd730@mhtml.blink
+
+@charset "utf-8";
+
+html { font-size: 62.5%; box-sizing: border-box; height: -webkit-fill-avail=
+able; }
+
+*, ::after, ::before { box-sizing: inherit; }
+
+body { font-family: "sf pro text", "sf pro icons", "helvetica neue", helvet=
+ica, arial, sans-serif; font-size: 1.6rem; line-height: 1.65; word-break: b=
+reak-word; font-kerning: auto; font-variant: normal; -webkit-font-smoothing=
+: antialiased; text-rendering: optimizelegibility; hyphens: auto; height: -=
+webkit-fill-available; max-height: -webkit-fill-available; margin: 0px; }
+
+::selection { background: rgb(121, 255, 225); }
+
+a { cursor: pointer; color: rgb(0, 112, 243); text-decoration: none; transi=
+tion: all 0.2s ease 0s; border-bottom: 1px solid rgba(0, 0, 0, 0); }
+
+a:hover { border-bottom: 1px solid rgb(0, 112, 243); }
+
+ul { padding: 0px; margin-left: 1.5em; list-style-type: none; }
+
+li { margin-bottom: 10px; }
+
+ul li::before { content: "=E2=80=93"; }
+
+li::before { display: inline-block; color: rgb(204, 204, 204); position: ab=
+solute; margin-left: -18px; transition: color 0.2s ease 0s; }
+
+code { font-family: Menlo, Monaco, "Lucida Console", "Liberation Mono", "De=
+jaVu Sans Mono", "Bitstream Vera Sans Mono", "Courier New", monospace, seri=
+f; font-size: 0.92em; }
+
+code::after, code::before { content: "`"; }
+
+.container { display: flex; justify-content: center; flex-direction: column=
+; min-height: 100%; }
+
+main { max-width: 80rem; padding: 4rem 6rem; margin: auto; }
+
+ul { margin-bottom: 32px; }
+
+.error-title { font-size: 2rem; padding-left: 22px; line-height: 1.5; margi=
+n-bottom: 24px; }
+
+.error-title-guilty { border-left: 2px solid rgb(237, 54, 127); }
+
+.error-title-innocent { border-left: 2px solid rgb(89, 184, 156); }
+
+@media (max-width: 500px) {
+  .owner-error { display: none; }
+}
+
+main p { color: rgb(51, 51, 51); }
+
+.devinfo-container { border: 1px solid rgb(221, 221, 221); border-radius: 4=
+px; padding: 2rem; display: flex; flex-direction: column; margin-bottom: 32=
+px; }
+
+.error-code { margin: 0px 0px 1.6rem; font-size: 1.6rem; color: rgb(0, 0, 0=
+); }
+
+.devinfo-line { color: rgb(51, 51, 51); }
+
+.devinfo-line code, code, li { color: rgb(0, 0, 0); }
+
+.devinfo-line:not(:last-child) { margin-bottom: 8px; }
+
+.docs-link, .contact-link { font-weight: 500; }
+
+header, footer, footer a { display: flex; justify-content: center; align-it=
+ems: center; }
+
+header, footer { min-height: 100px; height: 100px; }
+
+header { border-bottom: 1px solid rgb(234, 234, 234); }
+
+header h1 { font-size: 1.8rem; margin: 0px; font-weight: 500; }
+
+header p { font-size: 1.3rem; margin: 0px; font-weight: 500; }
+
+.header-item { display: flex; padding: 0px 2rem; margin: 2rem 0px; text-dec=
+oration: line-through; color: rgb(153, 153, 153); }
+
+.header-item.active { color: rgb(255, 0, 128); text-decoration: none; }
+
+.header-item.first { border-right: 1px solid rgb(234, 234, 234); }
+
+.header-item-content { display: flex; flex-direction: column; }
+
+.header-item-icon { margin-right: 1rem; margin-top: 0.6rem; }
+
+footer { border-top: 1px solid rgb(234, 234, 234); }
+
+footer a { color: rgb(0, 0, 0); }
+
+footer a:hover { border-bottom-color: rgba(0, 0, 0, 0); }
+
+footer svg { margin-left: 0.8rem; }
+
+.note { padding: 8pt 16pt; border-radius: 5px; border: 1px solid rgb(0, 112=
+, 243); font-size: 14px; line-height: 1.8; color: rgb(0, 112, 243); }
+
+@media (max-width: 500px) {
+  .devinfo-container .devinfo-line code { margin-top: 0.4rem; }
+  .devinfo-container .devinfo-line:not(:last-child) { margin-bottom: 1.6rem=
+; }
+  .devinfo-container { margin-bottom: 0px; }
+  header { flex-direction: column; height: auto; min-height: auto; align-it=
+ems: flex-start; }
+  .header-item.first { border-right: none; margin-bottom: 0px; }
+  main { padding: 1rem 2rem; }
+  body { font-size: 1.4rem; line-height: 1.55; }
+  footer { display: none; }
+  .note { margin-top: 16px; }
+}
+------MultipartBoundary--vVLRoY6PHEa8g2rKwngdF4Z1QofAdXr8fXYaNvHes7----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-202c578b-4627-4fa8-85ed-33846b3b2929@mhtml.blink
+
+@charset "utf-8";
+
+:where(html[dir=3D"ltr"]), :where([data-sonner-toaster][dir=3D"ltr"]) { --t=
+oast-icon-margin-start: -3px; --toast-icon-margin-end: 4px; --toast-svg-mar=
+gin-start: -1px; --toast-svg-margin-end: 0px; --toast-button-margin-start: =
+auto; --toast-button-margin-end: 0; --toast-close-button-start: 0; --toast-=
+close-button-end: unset; --toast-close-button-transform: translate(-35%, -3=
+5%); }
+
+:where(html[dir=3D"rtl"]), :where([data-sonner-toaster][dir=3D"rtl"]) { --t=
+oast-icon-margin-start: 4px; --toast-icon-margin-end: -3px; --toast-svg-mar=
+gin-start: 0px; --toast-svg-margin-end: -1px; --toast-button-margin-start: =
+0; --toast-button-margin-end: auto; --toast-close-button-start: unset; --to=
+ast-close-button-end: 0; --toast-close-button-transform: translate(35%, -35=
+%); }
+
+:where([data-sonner-toaster]) { position: fixed; width: var(--width); font-=
+family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe=
+ UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Colo=
+r Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; --gray1:=
+ hsl(0, 0%, 99%); --gray2: hsl(0, 0%, 97.3%); --gray3: hsl(0, 0%, 95.1%); -=
+-gray4: hsl(0, 0%, 93%); --gray5: hsl(0, 0%, 90.9%); --gray6: hsl(0, 0%, 88=
+.7%); --gray7: hsl(0, 0%, 85.8%); --gray8: hsl(0, 0%, 78%); --gray9: hsl(0,=
+ 0%, 56.1%); --gray10: hsl(0, 0%, 52.3%); --gray11: hsl(0, 0%, 43.5%); --gr=
+ay12: hsl(0, 0%, 9%); --border-radius: 8px; box-sizing: border-box; padding=
+: 0px; margin: 0px; list-style: none; outline: none; z-index: 999999999; }
+
+:where([data-sonner-toaster][data-x-position=3D"right"]) { right: max(var(-=
+-offset),env(safe-area-inset-right)); }
+
+:where([data-sonner-toaster][data-x-position=3D"left"]) { left: max(var(--o=
+ffset),env(safe-area-inset-left)); }
+
+:where([data-sonner-toaster][data-x-position=3D"center"]) { left: 50%; tran=
+sform: translate(-50%); }
+
+:where([data-sonner-toaster][data-y-position=3D"top"]) { top: max(var(--off=
+set),env(safe-area-inset-top)); }
+
+:where([data-sonner-toaster][data-y-position=3D"bottom"]) { bottom: max(var=
+(--offset),env(safe-area-inset-bottom)); }
+
+:where([data-sonner-toast]) { --y: translateY(100%); --lift-amount: calc(va=
+r(--lift) * var(--gap)); z-index: var(--z-index); position: absolute; opaci=
+ty: 0; transform: var(--y); filter: blur(0px); touch-action: none; transiti=
+on: transform 0.4s ease 0s, opacity 0.4s ease 0s, height 0.4s ease 0s, box-=
+shadow 0.2s ease 0s; box-sizing: border-box; outline: none; overflow-wrap: =
+anywhere; }
+
+:where([data-sonner-toast][data-styled=3D"true"]) { padding: 16px; backgrou=
+nd: var(--normal-bg); border: 1px solid var(--normal-border); color: var(--=
+normal-text); border-radius: var(--border-radius); box-shadow: rgba(0, 0, 0=
+, 0.1) 0px 4px 12px; width: var(--width); font-size: 13px; display: flex; a=
+lign-items: center; gap: 6px; }
+
+:where([data-sonner-toast]:focus-visible) { box-shadow: rgba(0, 0, 0, 0.1) =
+0px 4px 12px, rgba(0, 0, 0, 0.2) 0px 0px 0px 2px; }
+
+:where([data-sonner-toast][data-y-position=3D"top"]) { top: 0px; --y: trans=
+lateY(-100%); --lift: 1; --lift-amount: calc(1 * var(--gap)); }
+
+:where([data-sonner-toast][data-y-position=3D"bottom"]) { bottom: 0px; --y:=
+ translateY(100%); --lift: -1; --lift-amount: calc(var(--lift) * var(--gap)=
+); }
+
+:where([data-sonner-toast]) :where([data-description]) { font-weight: 400; =
+line-height: 1.4; color: inherit; }
+
+:where([data-sonner-toast]) :where([data-title]) { font-weight: 500; line-h=
+eight: 1.5; color: inherit; }
+
+:where([data-sonner-toast]) :where([data-icon]) { display: flex; height: 16=
+px; width: 16px; position: relative; justify-content: flex-start; align-ite=
+ms: center; flex-shrink: 0; margin-left: var(--toast-icon-margin-start); ma=
+rgin-right: var(--toast-icon-margin-end); }
+
+:where([data-sonner-toast][data-promise=3D"true"]) :where([data-icon]) > sv=
+g { opacity: 0; transform: scale(0.8); transform-origin: center center; ani=
+mation: 0.3s ease 0s 1 normal forwards running sonner-fade-in; }
+
+:where([data-sonner-toast]) :where([data-icon]) > * { flex-shrink: 0; }
+
+:where([data-sonner-toast]) :where([data-icon]) svg { margin-left: var(--to=
+ast-svg-margin-start); margin-right: var(--toast-svg-margin-end); }
+
+:where([data-sonner-toast]) :where([data-content]) { display: flex; flex-di=
+rection: column; gap: 2px; }
+
+[data-sonner-toast][data-styled=3D"true"] [data-button] { border-radius: 4p=
+x; padding-left: 8px; padding-right: 8px; height: 24px; font-size: 12px; co=
+lor: var(--normal-bg); background: var(--normal-text); margin-left: var(--t=
+oast-button-margin-start); margin-right: var(--toast-button-margin-end); bo=
+rder: none; cursor: pointer; outline: none; display: flex; align-items: cen=
+ter; flex-shrink: 0; transition: opacity 0.4s ease 0s, box-shadow 0.2s ease=
+ 0s; }
+
+:where([data-sonner-toast]) :where([data-button]):focus-visible { box-shado=
+w: rgba(0, 0, 0, 0.4) 0px 0px 0px 2px; }
+
+:where([data-sonner-toast]) :where([data-button]):first-of-type { margin-le=
+ft: var(--toast-button-margin-start); margin-right: var(--toast-button-marg=
+in-end); }
+
+:where([data-sonner-toast]) :where([data-cancel]) { color: var(--normal-tex=
+t); background: rgba(0, 0, 0, 0.08); }
+
+:where([data-sonner-toast][data-theme=3D"dark"]) :where([data-cancel]) { ba=
+ckground: rgba(255, 255, 255, 0.3); }
+
+:where([data-sonner-toast]) :where([data-close-button]) { position: absolut=
+e; left: var(--toast-close-button-start); right: var(--toast-close-button-e=
+nd); top: 0px; height: 20px; width: 20px; display: flex; justify-content: c=
+enter; align-items: center; padding: 0px; background: var(--gray1); color: =
+var(--gray12); border: 1px solid var(--gray4); transform: var(--toast-close=
+-button-transform); border-radius: 50%; cursor: pointer; z-index: 1; transi=
+tion: opacity 0.1s ease 0s, background 0.2s ease 0s, border-color 0.2s ease=
+ 0s; }
+
+:where([data-sonner-toast]) :where([data-close-button]):focus-visible { box=
+-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px, rgba(0, 0, 0, 0.2) 0px 0px 0px 2p=
+x; }
+
+:where([data-sonner-toast]) :where([data-disabled=3D"true"]) { cursor: not-=
+allowed; }
+
+:where([data-sonner-toast]):hover :where([data-close-button]):hover { backg=
+round: var(--gray2); border-color: var(--gray5); }
+
+:where([data-sonner-toast][data-swiping=3D"true"])::before { content: ""; p=
+osition: absolute; left: 0px; right: 0px; height: 100%; z-index: -1; }
+
+:where([data-sonner-toast][data-y-position=3D"top"][data-swiping=3D"true"])=
+::before { bottom: 50%; transform: scaleY(3) translateY(50%); }
+
+:where([data-sonner-toast][data-y-position=3D"bottom"][data-swiping=3D"true=
+"])::before { top: 50%; transform: scaleY(3) translateY(-50%); }
+
+:where([data-sonner-toast][data-swiping=3D"false"][data-removed=3D"true"]):=
+:before { content: ""; position: absolute; inset: 0px; transform: scaleY(2)=
+; }
+
+:where([data-sonner-toast])::after { content: ""; position: absolute; left:=
+ 0px; height: calc(var(--gap) + 1px); bottom: 100%; width: 100%; }
+
+:where([data-sonner-toast][data-mounted=3D"true"]) { --y: translateY(0); op=
+acity: 1; }
+
+:where([data-sonner-toast][data-expanded=3D"false"][data-front=3D"false"]) =
+{ --scale: var(--toasts-before) * .05 + 1; --y: translateY(calc(var(--lift-=
+amount) * var(--toasts-before))) scale(calc(-1 * var(--scale))); height: va=
+r(--front-toast-height); }
+
+:where([data-sonner-toast]) > * { transition: opacity 0.4s ease 0s; }
+
+:where([data-sonner-toast][data-expanded=3D"false"][data-front=3D"false"][d=
+ata-styled=3D"true"]) > * { opacity: 0; }
+
+:where([data-sonner-toast][data-visible=3D"false"]) { opacity: 0; pointer-e=
+vents: none; }
+
+:where([data-sonner-toast][data-mounted=3D"true"][data-expanded=3D"true"]) =
+{ --y: translateY(calc(var(--lift) * var(--offset))); height: var(--initial=
+-height); }
+
+:where([data-sonner-toast][data-removed=3D"true"][data-front=3D"true"][data=
+-swipe-out=3D"false"]) { --y: translateY(calc(var(--lift) * -100%)); opacit=
+y: 0; }
+
+:where([data-sonner-toast][data-removed=3D"true"][data-front=3D"false"][dat=
+a-swipe-out=3D"false"][data-expanded=3D"true"]) { --y: translateY(calc(var(=
+--lift) * var(--offset) + var(--lift) * -100%)); opacity: 0; }
+
+:where([data-sonner-toast][data-removed=3D"true"][data-front=3D"false"][dat=
+a-swipe-out=3D"false"][data-expanded=3D"false"]) { --y: translateY(40%); op=
+acity: 0; transition: transform 0.5s ease 0s, opacity 0.2s ease 0s; }
+
+:where([data-sonner-toast][data-removed=3D"true"][data-front=3D"false"])::b=
+efore { height: calc(var(--initial-height) + 20%); }
+
+[data-sonner-toast][data-swiping=3D"true"] { transform: var(--y) translateY=
+(var(--swipe-amount, 0px)); transition: none 0s ease 0s; }
+
+[data-sonner-toast][data-swipe-out=3D"true"][data-y-position=3D"bottom"], [=
+data-sonner-toast][data-swipe-out=3D"true"][data-y-position=3D"top"] { anim=
+ation: 0.2s ease-out 0s 1 normal forwards running swipe-out; }
+
+@keyframes swipe-out {=20
+  0% { transform: translateY(calc(var(--lift) * var(--offset) + var(--swipe=
+-amount))); opacity: 1; }
+  100% { transform: translateY(calc(var(--lift) * var(--offset) + var(--swi=
+pe-amount) + var(--lift) * -100%)); opacity: 0; }
+}
+
+@media (max-width: 600px) {
+  [data-sonner-toaster] { position: fixed; --mobile-offset: 16px; right: va=
+r(--mobile-offset); left: var(--mobile-offset); width: 100%; }
+  [data-sonner-toaster] [data-sonner-toast] { left: 0px; right: 0px; width:=
+ calc(100% - var(--mobile-offset) * 2); }
+  [data-sonner-toaster][data-x-position=3D"left"] { left: var(--mobile-offs=
+et); }
+  [data-sonner-toaster][data-y-position=3D"bottom"] { bottom: 20px; }
+  [data-sonner-toaster][data-y-position=3D"top"] { top: 20px; }
+  [data-sonner-toaster][data-x-position=3D"center"] { left: var(--mobile-of=
+fset); right: var(--mobile-offset); transform: none; }
+}
+
+[data-sonner-toaster][data-theme=3D"light"] { --normal-bg: #fff; --normal-b=
+order: var(--gray4); --normal-text: var(--gray12); --success-bg: hsl(143, 8=
+5%, 96%); --success-border: hsl(145, 92%, 91%); --success-text: hsl(140, 10=
+0%, 27%); --info-bg: hsl(208, 100%, 97%); --info-border: hsl(221, 91%, 91%)=
+; --info-text: hsl(210, 92%, 45%); --warning-bg: hsl(49, 100%, 97%); --warn=
+ing-border: hsl(49, 91%, 91%); --warning-text: hsl(31, 92%, 45%); --error-b=
+g: hsl(359, 100%, 97%); --error-border: hsl(359, 100%, 94%); --error-text: =
+hsl(360, 100%, 45%); }
+
+[data-sonner-toaster][data-theme=3D"light"] [data-sonner-toast][data-invert=
+=3D"true"] { --normal-bg: #000; --normal-border: hsl(0, 0%, 20%); --normal-=
+text: var(--gray1); }
+
+[data-sonner-toaster][data-theme=3D"dark"] [data-sonner-toast][data-invert=
+=3D"true"] { --normal-bg: #fff; --normal-border: var(--gray3); --normal-tex=
+t: var(--gray12); }
+
+[data-sonner-toaster][data-theme=3D"dark"] { --normal-bg: #000; --normal-bo=
+rder: hsl(0, 0%, 20%); --normal-text: var(--gray1); --success-bg: hsl(150, =
+100%, 6%); --success-border: hsl(147, 100%, 12%); --success-text: hsl(150, =
+86%, 65%); --info-bg: hsl(215, 100%, 6%); --info-border: hsl(223, 100%, 12%=
+); --info-text: hsl(216, 87%, 65%); --warning-bg: hsl(64, 100%, 6%); --warn=
+ing-border: hsl(60, 100%, 12%); --warning-text: hsl(46, 87%, 65%); --error-=
+bg: hsl(358, 76%, 10%); --error-border: hsl(357, 89%, 16%); --error-text: h=
+sl(358, 100%, 81%); }
+
+[data-rich-colors=3D"true"][data-sonner-toast][data-type=3D"success"], [dat=
+a-rich-colors=3D"true"][data-sonner-toast][data-type=3D"success"] [data-clo=
+se-button] { background: var(--success-bg); border-color: var(--success-bor=
+der); color: var(--success-text); }
+
+[data-rich-colors=3D"true"][data-sonner-toast][data-type=3D"info"], [data-r=
+ich-colors=3D"true"][data-sonner-toast][data-type=3D"info"] [data-close-but=
+ton] { background: var(--info-bg); border-color: var(--info-border); color:=
+ var(--info-text); }
+
+[data-rich-colors=3D"true"][data-sonner-toast][data-type=3D"warning"], [dat=
+a-rich-colors=3D"true"][data-sonner-toast][data-type=3D"warning"] [data-clo=
+se-button] { background: var(--warning-bg); border-color: var(--warning-bor=
+der); color: var(--warning-text); }
+
+[data-rich-colors=3D"true"][data-sonner-toast][data-type=3D"error"], [data-=
+rich-colors=3D"true"][data-sonner-toast][data-type=3D"error"] [data-close-b=
+utton] { background: var(--error-bg); border-color: var(--error-border); co=
+lor: var(--error-text); }
+
+.sonner-loading-wrapper { --size: 16px; height: var(--size); width: var(--s=
+ize); position: absolute; inset: 0px; z-index: 10; }
+
+.sonner-loading-wrapper[data-visible=3D"false"] { transform-origin: center =
+center; animation: 0.2s ease 0s 1 normal forwards running sonner-fade-out; =
+}
+
+.sonner-spinner { position: relative; top: 50%; left: 50%; height: var(--si=
+ze); width: var(--size); }
+
+.sonner-loading-bar { animation: 1.2s linear 0s infinite normal none runnin=
+g sonner-spin; background: var(--gray11); border-radius: 6px; height: 8%; l=
+eft: -10%; position: absolute; top: -3.9%; width: 24%; }
+
+.sonner-loading-bar:nth-child(1) { animation-delay: -1.2s; transform: rotat=
+e(0.0001deg) translate(146%); }
+
+.sonner-loading-bar:nth-child(2) { animation-delay: -1.1s; transform: rotat=
+e(30deg) translate(146%); }
+
+.sonner-loading-bar:nth-child(3) { animation-delay: -1s; transform: rotate(=
+60deg) translate(146%); }
+
+.sonner-loading-bar:nth-child(4) { animation-delay: -0.9s; transform: rotat=
+e(90deg) translate(146%); }
+
+.sonner-loading-bar:nth-child(5) { animation-delay: -0.8s; transform: rotat=
+e(120deg) translate(146%); }
+
+.sonner-loading-bar:nth-child(6) { animation-delay: -0.7s; transform: rotat=
+e(150deg) translate(146%); }
+
+.sonner-loading-bar:nth-child(7) { animation-delay: -0.6s; transform: rotat=
+e(180deg) translate(146%); }
+
+.sonner-loading-bar:nth-child(8) { animation-delay: -0.5s; transform: rotat=
+e(210deg) translate(146%); }
+
+.sonner-loading-bar:nth-child(9) { animation-delay: -0.4s; transform: rotat=
+e(240deg) translate(146%); }
+
+.sonner-loading-bar:nth-child(10) { animation-delay: -0.3s; transform: rota=
+te(270deg) translate(146%); }
+
+.sonner-loading-bar:nth-child(11) { animation-delay: -0.2s; transform: rota=
+te(300deg) translate(146%); }
+
+.sonner-loading-bar:nth-child(12) { animation-delay: -0.1s; transform: rota=
+te(330deg) translate(146%); }
+
+@keyframes sonner-fade-in {=20
+  0% { opacity: 0; transform: scale(0.8); }
+  100% { opacity: 1; transform: scale(1); }
+}
+
+@keyframes sonner-fade-out {=20
+  0% { opacity: 1; transform: scale(1); }
+  100% { opacity: 0; transform: scale(0.8); }
+}
+
+@keyframes sonner-spin {=20
+  0% { opacity: 1; }
+  100% { opacity: 0.15; }
+}
+
+@media (prefers-reduced-motion) {
+  [data-sonner-toast], [data-sonner-toast] > *, .sonner-loading-bar { trans=
+ition: none 0s ease 0s !important; animation: auto ease 0s 1 normal none ru=
+nning none !important; }
+}
+
+.sonner-loader { position: absolute; top: 50%; left: 50%; transform: transl=
+ate(-50%, -50%); transform-origin: center center; transition: opacity 0.2s =
+ease 0s, transform 0.2s ease 0s; }
+
+.sonner-loader[data-visible=3D"false"] { opacity: 0; transform: scale(0.8) =
+translate(-50%, -50%); }
+------MultipartBoundary--vVLRoY6PHEa8g2rKwngdF4Z1QofAdXr8fXYaNvHes7----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-64cdfbc5-ffea-4e8d-a160-48b564e72e2c@mhtml.blink
+
+@charset "utf-8";
+
+:where(html[dir=3D"ltr"]), :where([data-sonner-toaster][dir=3D"ltr"]) { --t=
+oast-icon-margin-start: -3px; --toast-icon-margin-end: 4px; --toast-svg-mar=
+gin-start: -1px; --toast-svg-margin-end: 0px; --toast-button-margin-start: =
+auto; --toast-button-margin-end: 0; --toast-close-button-start: 0; --toast-=
+close-button-end: unset; --toast-close-button-transform: translate(-35%, -3=
+5%); }
+
+:where(html[dir=3D"rtl"]), :where([data-sonner-toaster][dir=3D"rtl"]) { --t=
+oast-icon-margin-start: 4px; --toast-icon-margin-end: -3px; --toast-svg-mar=
+gin-start: 0px; --toast-svg-margin-end: -1px; --toast-button-margin-start: =
+0; --toast-button-margin-end: auto; --toast-close-button-start: unset; --to=
+ast-close-button-end: 0; --toast-close-button-transform: translate(35%, -35=
+%); }
+
+:where([data-sonner-toaster]) { position: fixed; width: var(--width); font-=
+family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe=
+ UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Colo=
+r Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; --gray1:=
+ hsl(0, 0%, 99%); --gray2: hsl(0, 0%, 97.3%); --gray3: hsl(0, 0%, 95.1%); -=
+-gray4: hsl(0, 0%, 93%); --gray5: hsl(0, 0%, 90.9%); --gray6: hsl(0, 0%, 88=
+.7%); --gray7: hsl(0, 0%, 85.8%); --gray8: hsl(0, 0%, 78%); --gray9: hsl(0,=
+ 0%, 56.1%); --gray10: hsl(0, 0%, 52.3%); --gray11: hsl(0, 0%, 43.5%); --gr=
+ay12: hsl(0, 0%, 9%); --border-radius: 8px; box-sizing: border-box; padding=
+: 0px; margin: 0px; list-style: none; outline: none; z-index: 999999999; }
+
+:where([data-sonner-toaster][data-x-position=3D"right"]) { right: max(var(-=
+-offset),env(safe-area-inset-right)); }
+
+:where([data-sonner-toaster][data-x-position=3D"left"]) { left: max(var(--o=
+ffset),env(safe-area-inset-left)); }
+
+:where([data-sonner-toaster][data-x-position=3D"center"]) { left: 50%; tran=
+sform: translate(-50%); }
+
+:where([data-sonner-toaster][data-y-position=3D"top"]) { top: max(var(--off=
+set),env(safe-area-inset-top)); }
+
+:where([data-sonner-toaster][data-y-position=3D"bottom"]) { bottom: max(var=
+(--offset),env(safe-area-inset-bottom)); }
+
+:where([data-sonner-toast]) { --y: translateY(100%); --lift-amount: calc(va=
+r(--lift) * var(--gap)); z-index: var(--z-index); position: absolute; opaci=
+ty: 0; transform: var(--y); filter: blur(0px); touch-action: none; transiti=
+on: transform 0.4s ease 0s, opacity 0.4s ease 0s, height 0.4s ease 0s, box-=
+shadow 0.2s ease 0s; box-sizing: border-box; outline: none; overflow-wrap: =
+anywhere; }
+
+:where([data-sonner-toast][data-styled=3D"true"]) { padding: 16px; backgrou=
+nd: var(--normal-bg); border: 1px solid var(--normal-border); color: var(--=
+normal-text); border-radius: var(--border-radius); box-shadow: rgba(0, 0, 0=
+, 0.1) 0px 4px 12px; width: var(--width); font-size: 13px; display: flex; a=
+lign-items: center; gap: 6px; }
+
+:where([data-sonner-toast]:focus-visible) { box-shadow: rgba(0, 0, 0, 0.1) =
+0px 4px 12px, rgba(0, 0, 0, 0.2) 0px 0px 0px 2px; }
+
+:where([data-sonner-toast][data-y-position=3D"top"]) { top: 0px; --y: trans=
+lateY(-100%); --lift: 1; --lift-amount: calc(1 * var(--gap)); }
+
+:where([data-sonner-toast][data-y-position=3D"bottom"]) { bottom: 0px; --y:=
+ translateY(100%); --lift: -1; --lift-amount: calc(var(--lift) * var(--gap)=
+); }
+
+:where([data-sonner-toast]) :where([data-description]) { font-weight: 400; =
+line-height: 1.4; color: inherit; }
+
+:where([data-sonner-toast]) :where([data-title]) { font-weight: 500; line-h=
+eight: 1.5; color: inherit; }
+
+:where([data-sonner-toast]) :where([data-icon]) { display: flex; height: 16=
+px; width: 16px; position: relative; justify-content: flex-start; align-ite=
+ms: center; flex-shrink: 0; margin-left: var(--toast-icon-margin-start); ma=
+rgin-right: var(--toast-icon-margin-end); }
+
+:where([data-sonner-toast][data-promise=3D"true"]) :where([data-icon]) > sv=
+g { opacity: 0; transform: scale(0.8); transform-origin: center center; ani=
+mation: 0.3s ease 0s 1 normal forwards running sonner-fade-in; }
+
+:where([data-sonner-toast]) :where([data-icon]) > * { flex-shrink: 0; }
+
+:where([data-sonner-toast]) :where([data-icon]) svg { margin-left: var(--to=
+ast-svg-margin-start); margin-right: var(--toast-svg-margin-end); }
+
+:where([data-sonner-toast]) :where([data-content]) { display: flex; flex-di=
+rection: column; gap: 2px; }
+
+[data-sonner-toast][data-styled=3D"true"] [data-button] { border-radius: 4p=
+x; padding-left: 8px; padding-right: 8px; height: 24px; font-size: 12px; co=
+lor: var(--normal-bg); background: var(--normal-text); margin-left: var(--t=
+oast-button-margin-start); margin-right: var(--toast-button-margin-end); bo=
+rder: none; cursor: pointer; outline: none; display: flex; align-items: cen=
+ter; flex-shrink: 0; transition: opacity 0.4s ease 0s, box-shadow 0.2s ease=
+ 0s; }
+
+:where([data-sonner-toast]) :where([data-button]):focus-visible { box-shado=
+w: rgba(0, 0, 0, 0.4) 0px 0px 0px 2px; }
+
+:where([data-sonner-toast]) :where([data-button]):first-of-type { margin-le=
+ft: var(--toast-button-margin-start); margin-right: var(--toast-button-marg=
+in-end); }
+
+:where([data-sonner-toast]) :where([data-cancel]) { color: var(--normal-tex=
+t); background: rgba(0, 0, 0, 0.08); }
+
+:where([data-sonner-toast][data-theme=3D"dark"]) :where([data-cancel]) { ba=
+ckground: rgba(255, 255, 255, 0.3); }
+
+:where([data-sonner-toast]) :where([data-close-button]) { position: absolut=
+e; left: var(--toast-close-button-start); right: var(--toast-close-button-e=
+nd); top: 0px; height: 20px; width: 20px; display: flex; justify-content: c=
+enter; align-items: center; padding: 0px; background: var(--gray1); color: =
+var(--gray12); border: 1px solid var(--gray4); transform: var(--toast-close=
+-button-transform); border-radius: 50%; cursor: pointer; z-index: 1; transi=
+tion: opacity 0.1s ease 0s, background 0.2s ease 0s, border-color 0.2s ease=
+ 0s; }
+
+:where([data-sonner-toast]) :where([data-close-button]):focus-visible { box=
+-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px, rgba(0, 0, 0, 0.2) 0px 0px 0px 2p=
+x; }
+
+:where([data-sonner-toast]) :where([data-disabled=3D"true"]) { cursor: not-=
+allowed; }
+
+:where([data-sonner-toast]):hover :where([data-close-button]):hover { backg=
+round: var(--gray2); border-color: var(--gray5); }
+
+:where([data-sonner-toast][data-swiping=3D"true"])::before { content: ""; p=
+osition: absolute; left: 0px; right: 0px; height: 100%; z-index: -1; }
+
+:where([data-sonner-toast][data-y-position=3D"top"][data-swiping=3D"true"])=
+::before { bottom: 50%; transform: scaleY(3) translateY(50%); }
+
+:where([data-sonner-toast][data-y-position=3D"bottom"][data-swiping=3D"true=
+"])::before { top: 50%; transform: scaleY(3) translateY(-50%); }
+
+:where([data-sonner-toast][data-swiping=3D"false"][data-removed=3D"true"]):=
+:before { content: ""; position: absolute; inset: 0px; transform: scaleY(2)=
+; }
+
+:where([data-sonner-toast])::after { content: ""; position: absolute; left:=
+ 0px; height: calc(var(--gap) + 1px); bottom: 100%; width: 100%; }
+
+:where([data-sonner-toast][data-mounted=3D"true"]) { --y: translateY(0); op=
+acity: 1; }
+
+:where([data-sonner-toast][data-expanded=3D"false"][data-front=3D"false"]) =
+{ --scale: var(--toasts-before) * .05 + 1; --y: translateY(calc(var(--lift-=
+amount) * var(--toasts-before))) scale(calc(-1 * var(--scale))); height: va=
+r(--front-toast-height); }
+
+:where([data-sonner-toast]) > * { transition: opacity 0.4s ease 0s; }
+
+:where([data-sonner-toast][data-expanded=3D"false"][data-front=3D"false"][d=
+ata-styled=3D"true"]) > * { opacity: 0; }
+
+:where([data-sonner-toast][data-visible=3D"false"]) { opacity: 0; pointer-e=
+vents: none; }
+
+:where([data-sonner-toast][data-mounted=3D"true"][data-expanded=3D"true"]) =
+{ --y: translateY(calc(var(--lift) * var(--offset))); height: var(--initial=
+-height); }
+
+:where([data-sonner-toast][data-removed=3D"true"][data-front=3D"true"][data=
+-swipe-out=3D"false"]) { --y: translateY(calc(var(--lift) * -100%)); opacit=
+y: 0; }
+
+:where([data-sonner-toast][data-removed=3D"true"][data-front=3D"false"][dat=
+a-swipe-out=3D"false"][data-expanded=3D"true"]) { --y: translateY(calc(var(=
+--lift) * var(--offset) + var(--lift) * -100%)); opacity: 0; }
+
+:where([data-sonner-toast][data-removed=3D"true"][data-front=3D"false"][dat=
+a-swipe-out=3D"false"][data-expanded=3D"false"]) { --y: translateY(40%); op=
+acity: 0; transition: transform 0.5s ease 0s, opacity 0.2s ease 0s; }
+
+:where([data-sonner-toast][data-removed=3D"true"][data-front=3D"false"])::b=
+efore { height: calc(var(--initial-height) + 20%); }
+
+[data-sonner-toast][data-swiping=3D"true"] { transform: var(--y) translateY=
+(var(--swipe-amount, 0px)); transition: none 0s ease 0s; }
+
+[data-sonner-toast][data-swipe-out=3D"true"][data-y-position=3D"bottom"], [=
+data-sonner-toast][data-swipe-out=3D"true"][data-y-position=3D"top"] { anim=
+ation: 0.2s ease-out 0s 1 normal forwards running swipe-out; }
+
+@keyframes swipe-out {=20
+  0% { transform: translateY(calc(var(--lift) * var(--offset) + var(--swipe=
+-amount))); opacity: 1; }
+  100% { transform: translateY(calc(var(--lift) * var(--offset) + var(--swi=
+pe-amount) + var(--lift) * -100%)); opacity: 0; }
+}
+
+@media (max-width: 600px) {
+  [data-sonner-toaster] { position: fixed; --mobile-offset: 16px; right: va=
+r(--mobile-offset); left: var(--mobile-offset); width: 100%; }
+  [data-sonner-toaster] [data-sonner-toast] { left: 0px; right: 0px; width:=
+ calc(100% - var(--mobile-offset) * 2); }
+  [data-sonner-toaster][data-x-position=3D"left"] { left: var(--mobile-offs=
+et); }
+  [data-sonner-toaster][data-y-position=3D"bottom"] { bottom: 20px; }
+  [data-sonner-toaster][data-y-position=3D"top"] { top: 20px; }
+  [data-sonner-toaster][data-x-position=3D"center"] { left: var(--mobile-of=
+fset); right: var(--mobile-offset); transform: none; }
+}
+
+[data-sonner-toaster][data-theme=3D"light"] { --normal-bg: #fff; --normal-b=
+order: var(--gray4); --normal-text: var(--gray12); --success-bg: hsl(143, 8=
+5%, 96%); --success-border: hsl(145, 92%, 91%); --success-text: hsl(140, 10=
+0%, 27%); --info-bg: hsl(208, 100%, 97%); --info-border: hsl(221, 91%, 91%)=
+; --info-text: hsl(210, 92%, 45%); --warning-bg: hsl(49, 100%, 97%); --warn=
+ing-border: hsl(49, 91%, 91%); --warning-text: hsl(31, 92%, 45%); --error-b=
+g: hsl(359, 100%, 97%); --error-border: hsl(359, 100%, 94%); --error-text: =
+hsl(360, 100%, 45%); }
+
+[data-sonner-toaster][data-theme=3D"light"] [data-sonner-toast][data-invert=
+=3D"true"] { --normal-bg: #000; --normal-border: hsl(0, 0%, 20%); --normal-=
+text: var(--gray1); }
+
+[data-sonner-toaster][data-theme=3D"dark"] [data-sonner-toast][data-invert=
+=3D"true"] { --normal-bg: #fff; --normal-border: var(--gray3); --normal-tex=
+t: var(--gray12); }
+
+[data-sonner-toaster][data-theme=3D"dark"] { --normal-bg: #000; --normal-bo=
+rder: hsl(0, 0%, 20%); --normal-text: var(--gray1); --success-bg: hsl(150, =
+100%, 6%); --success-border: hsl(147, 100%, 12%); --success-text: hsl(150, =
+86%, 65%); --info-bg: hsl(215, 100%, 6%); --info-border: hsl(223, 100%, 12%=
+); --info-text: hsl(216, 87%, 65%); --warning-bg: hsl(64, 100%, 6%); --warn=
+ing-border: hsl(60, 100%, 12%); --warning-text: hsl(46, 87%, 65%); --error-=
+bg: hsl(358, 76%, 10%); --error-border: hsl(357, 89%, 16%); --error-text: h=
+sl(358, 100%, 81%); }
+
+[data-rich-colors=3D"true"][data-sonner-toast][data-type=3D"success"], [dat=
+a-rich-colors=3D"true"][data-sonner-toast][data-type=3D"success"] [data-clo=
+se-button] { background: var(--success-bg); border-color: var(--success-bor=
+der); color: var(--success-text); }
+
+[data-rich-colors=3D"true"][data-sonner-toast][data-type=3D"info"], [data-r=
+ich-colors=3D"true"][data-sonner-toast][data-type=3D"info"] [data-close-but=
+ton] { background: var(--info-bg); border-color: var(--info-border); color:=
+ var(--info-text); }
+
+[data-rich-colors=3D"true"][data-sonner-toast][data-type=3D"warning"], [dat=
+a-rich-colors=3D"true"][data-sonner-toast][data-type=3D"warning"] [data-clo=
+se-button] { background: var(--warning-bg); border-color: var(--warning-bor=
+der); color: var(--warning-text); }
+
+[data-rich-colors=3D"true"][data-sonner-toast][data-type=3D"error"], [data-=
+rich-colors=3D"true"][data-sonner-toast][data-type=3D"error"] [data-close-b=
+utton] { background: var(--error-bg); border-color: var(--error-border); co=
+lor: var(--error-text); }
+
+.sonner-loading-wrapper { --size: 16px; height: var(--size); width: var(--s=
+ize); position: absolute; inset: 0px; z-index: 10; }
+
+.sonner-loading-wrapper[data-visible=3D"false"] { transform-origin: center =
+center; animation: 0.2s ease 0s 1 normal forwards running sonner-fade-out; =
+}
+
+.sonner-spinner { position: relative; top: 50%; left: 50%; height: var(--si=
+ze); width: var(--size); }
+
+.sonner-loading-bar { animation: 1.2s linear 0s infinite normal none runnin=
+g sonner-spin; background: var(--gray11); border-radius: 6px; height: 8%; l=
+eft: -10%; position: absolute; top: -3.9%; width: 24%; }
+
+.sonner-loading-bar:nth-child(1) { animation-delay: -1.2s; transform: rotat=
+e(0.0001deg) translate(146%); }
+
+.sonner-loading-bar:nth-child(2) { animation-delay: -1.1s; transform: rotat=
+e(30deg) translate(146%); }
+
+.sonner-loading-bar:nth-child(3) { animation-delay: -1s; transform: rotate(=
+60deg) translate(146%); }
+
+.sonner-loading-bar:nth-child(4) { animation-delay: -0.9s; transform: rotat=
+e(90deg) translate(146%); }
+
+.sonner-loading-bar:nth-child(5) { animation-delay: -0.8s; transform: rotat=
+e(120deg) translate(146%); }
+
+.sonner-loading-bar:nth-child(6) { animation-delay: -0.7s; transform: rotat=
+e(150deg) translate(146%); }
+
+.sonner-loading-bar:nth-child(7) { animation-delay: -0.6s; transform: rotat=
+e(180deg) translate(146%); }
+
+.sonner-loading-bar:nth-child(8) { animation-delay: -0.5s; transform: rotat=
+e(210deg) translate(146%); }
+
+.sonner-loading-bar:nth-child(9) { animation-delay: -0.4s; transform: rotat=
+e(240deg) translate(146%); }
+
+.sonner-loading-bar:nth-child(10) { animation-delay: -0.3s; transform: rota=
+te(270deg) translate(146%); }
+
+.sonner-loading-bar:nth-child(11) { animation-delay: -0.2s; transform: rota=
+te(300deg) translate(146%); }
+
+.sonner-loading-bar:nth-child(12) { animation-delay: -0.1s; transform: rota=
+te(330deg) translate(146%); }
+
+@keyframes sonner-fade-in {=20
+  0% { opacity: 0; transform: scale(0.8); }
+  100% { opacity: 1; transform: scale(1); }
+}
+
+@keyframes sonner-fade-out {=20
+  0% { opacity: 1; transform: scale(1); }
+  100% { opacity: 0; transform: scale(0.8); }
+}
+
+@keyframes sonner-spin {=20
+  0% { opacity: 1; }
+  100% { opacity: 0.15; }
+}
+
+@media (prefers-reduced-motion) {
+  [data-sonner-toast], [data-sonner-toast] > *, .sonner-loading-bar { trans=
+ition: none 0s ease 0s !important; animation: auto ease 0s 1 normal none ru=
+nning none !important; }
+}
+
+.sonner-loader { position: absolute; top: 50%; left: 50%; transform: transl=
+ate(-50%, -50%); transform-origin: center center; transition: opacity 0.2s =
+ease 0s, transform 0.2s ease 0s; }
+
+.sonner-loader[data-visible=3D"false"] { opacity: 0; transform: scale(0.8) =
+translate(-50%, -50%); }
+------MultipartBoundary--vVLRoY6PHEa8g2rKwngdF4Z1QofAdXr8fXYaNvHes7----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-499b422d-f7ca-48f1-9c73-dfbaa85ebfdc@mhtml.blink
+
+@charset "utf-8";
+
+@keyframes ggt-annotate-pulse {=20
+  0% { transform: scale(1); }
+  10% { transform: scale(0.91); }
+  17% { transform: scale(0.98); }
+  33% { transform: scale(0.87); }
+  45% { transform: scale(1); }
+}
+------MultipartBoundary--vVLRoY6PHEa8g2rKwngdF4Z1QofAdXr8fXYaNvHes7----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: blob:https://octodoodle.vercel.app/1415547a-bf5e-4c01-a64c-96ed046c7870
+
+@charset "utf-8";
+
+@media print {
+  ._2h_KVyxaj61YqtR-UBnwYR, ._2h_KVyxaj61YqtR-UBnwYR * { display: none !imp=
+ortant; }
+}
+------MultipartBoundary--vVLRoY6PHEa8g2rKwngdF4Z1QofAdXr8fXYaNvHes7----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: blob:https://octodoodle.vercel.app/c79618ef-0f76-45fb-9af5-f3495734ed14
+
+@charset "utf-8";
+
+._1ZP8gzXMQOi5NY1yW9M-A- { height: 1px; width: 1px; overflow: hidden; clip:=
+ rect(1px, 1px, 1px, 1px); position: absolute !important; }
+
+._1B98SpbinkmeniefKHOp2C { color-scheme: unset; forced-color-adjust: unset;=
+ mask: unset; math-depth: unset; position: absolute; position-anchor: unset=
+; appearance: unset; color: unset; font: unset; font-palette: unset; font-s=
+ynthesis: unset; inset-area: unset; text-orientation: unset; text-rendering=
+: unset; text-spacing-trim: unset; -webkit-font-smoothing: unset; -webkit-l=
+ocale: unset; -webkit-text-orientation: unset; -webkit-writing-mode: unset;=
+ writing-mode: unset; zoom: unset; accent-color: unset; place-content: unse=
+t; place-items: unset; place-self: unset; alignment-baseline: unset; anchor=
+-name: unset; animation-composition: unset; animation: unset; app-region: u=
+nset; aspect-ratio: unset; backdrop-filter: unset; backface-visibility: uns=
+et; background-attachment: unset; background-blend-mode: unset; background-=
+clip: unset; background-color: rgb(0, 189, 156); background-image: unset; b=
+ackground-origin: unset; background-position: unset; background-repeat: uns=
+et; background-size: unset; baseline-shift: unset; baseline-source: unset; =
+block-size: unset; border-block: unset; border: unset; border-radius: 50%; =
+border-collapse: unset; border-end-end-radius: unset; border-end-start-radi=
+us: unset; border-inline: unset; border-start-end-radius: unset; border-sta=
+rt-start-radius: unset; inset: unset; box-shadow: rgba(0, 0, 0, 0.5) 0px 1p=
+x 10px; box-sizing: unset; break-after: unset; break-before: unset; break-i=
+nside: unset; buffered-rendering: unset; caption-side: unset; caret-color: =
+unset; clear: unset; clip: unset; clip-path: unset; clip-rule: unset; color=
+-interpolation: unset; color-interpolation-filters: unset; color-rendering:=
+ unset; columns: unset; column-fill: unset; gap: unset; column-rule: unset;=
+ column-span: unset; contain: unset; contain-intrinsic-block-size: unset; c=
+ontain-intrinsic-size: unset; contain-intrinsic-inline-size: unset; contain=
+er: unset; content: unset; content-visibility: unset; counter-increment: un=
+set; counter-reset: unset; counter-set: unset; cursor: unset; cx: unset; cy=
+: unset; d: unset; display: block; dominant-baseline: unset; empty-cells: u=
+nset; field-sizing: unset; fill: unset; fill-opacity: unset; fill-rule: uns=
+et; filter: unset; flex: unset; flex-flow: unset; float: unset; flood-color=
+: unset; flood-opacity: unset; grid: unset; grid-area: unset; height: 50px;=
+ hyphenate-character: unset; hyphenate-limit-chars: unset; hyphens: unset; =
+image-orientation: unset; image-rendering: unset; initial-letter: unset; in=
+line-size: unset; inset-block: unset; inset-inline: unset; isolation: unset=
+; letter-spacing: unset; lighting-color: unset; line-break: unset; list-sty=
+le: unset; margin-block: unset; margin: unset; margin-inline: unset; marker=
+: unset; mask-type: unset; math-shift: unset; math-style: unset; max-block-=
+size: unset; max-height: unset; max-inline-size: unset; max-width: unset; m=
+in-block-size: unset; min-height: unset; min-inline-size: unset; min-width:=
+ unset; mix-blend-mode: unset; object-fit: unset; object-position: unset; o=
+bject-view-box: unset; offset: unset; opacity: unset; order: unset; orphans=
+: unset; outline: unset; outline-offset: unset; overflow-anchor: unset; ove=
+rflow-clip-margin: unset; overflow-wrap: unset; overflow: unset; overlay: u=
+nset; overscroll-behavior-block: unset; overscroll-behavior-inline: unset; =
+overscroll-behavior: unset; padding-block: unset; padding: unset; padding-i=
+nline: unset; page: unset; page-orientation: unset; paint-order: unset; per=
+spective: unset; perspective-origin: unset; pointer-events: unset; position=
+-try: unset; position-visibility: unset; quotes: unset; r: unset; resize: u=
+nset; rotate: unset; ruby-position: unset; rx: unset; ry: unset; scale: uns=
+et; scroll-behavior: unset; scroll-margin-block: unset; scroll-margin: unse=
+t; scroll-margin-inline: unset; scroll-padding-block: unset; scroll-padding=
+: unset; scroll-padding-inline: unset; scroll-snap-align: unset; scroll-sna=
+p-stop: unset; scroll-snap-type: unset; scroll-timeline: unset; scrollbar-c=
+olor: unset; scrollbar-gutter: unset; scrollbar-width: unset; shape-image-t=
+hreshold: unset; shape-margin: unset; shape-outside: unset; shape-rendering=
+: unset; size: unset; speak: unset; stop-color: unset; stop-opacity: unset;=
+ stroke: unset; stroke-dasharray: unset; stroke-dashoffset: unset; stroke-l=
+inecap: unset; stroke-linejoin: unset; stroke-miterlimit: unset; stroke-opa=
+city: unset; stroke-width: unset; tab-size: unset; table-layout: unset; tex=
+t-align: justify; text-align-last: unset; text-anchor: unset; text-combine-=
+upright: unset; text-decoration: unset; text-decoration-skip-ink: unset; te=
+xt-emphasis: unset; text-emphasis-position: unset; text-indent: unset; text=
+-overflow: unset; text-shadow: unset; text-size-adjust: unset; text-transfo=
+rm: unset; text-underline-offset: unset; text-underline-position: unset; wh=
+ite-space: unset; timeline-scope: unset; touch-action: unset; transform: un=
+set; transform-box: unset; transform-origin: unset; transform-style: unset;=
+ transition: all 0.5s ease-in-out 0s; translate: unset; user-select: unset;=
+ vector-effect: unset; vertical-align: unset; view-timeline: unset; view-tr=
+ansition-class: unset; view-transition-name: unset; visibility: unset; bord=
+er-spacing: unset; -webkit-box-align: unset; -webkit-box-decoration-break: =
+unset; -webkit-box-direction: unset; -webkit-box-flex: unset; -webkit-box-o=
+rdinal-group: unset; -webkit-box-orient: unset; -webkit-box-pack: unset; -w=
+ebkit-box-reflect: unset; -webkit-line-break: unset; -webkit-line-clamp: un=
+set; -webkit-mask-box-image: unset; -webkit-print-color-adjust: unset; -web=
+kit-rtl-ordering: unset; -webkit-ruby-position: unset; -webkit-tap-highligh=
+t-color: unset; -webkit-text-combine: unset; -webkit-text-decorations-in-ef=
+fect: unset; -webkit-text-fill-color: unset; -webkit-text-security: unset; =
+-webkit-text-stroke: unset; -webkit-user-drag: unset; widows: unset; width:=
+ 50px; will-change: unset; word-break: unset; word-spacing: unset; x: unset=
+; y: unset; z-index: unset; }
+
+._1B98SpbinkmeniefKHOp2C:hover { cursor: pointer; }
+
+._1B98SpbinkmeniefKHOp2C:focus { outline: rgb(0, 151, 207) auto 5px; }
+
+._1fDujTs5t6-0__pRoh3lTx { color-scheme: unset; forced-color-adjust: unset;=
+ mask: unset; math-depth: unset; position: unset; position-anchor: unset; a=
+ppearance: unset; color: rgb(255, 255, 255); font: unset; font-palette: uns=
+et; font-synthesis: unset; inset-area: unset; text-orientation: unset; text=
+-rendering: unset; text-spacing-trim: unset; -webkit-font-smoothing: unset;=
+ -webkit-locale: unset; -webkit-text-orientation: unset; -webkit-writing-mo=
+de: unset; writing-mode: unset; zoom: unset; accent-color: unset; place-con=
+tent: unset; place-items: unset; place-self: unset; alignment-baseline: uns=
+et; anchor-name: unset; animation-composition: unset; animation: unset; app=
+-region: unset; aspect-ratio: unset; backdrop-filter: unset; backface-visib=
+ility: unset; background: unset; background-blend-mode: unset; baseline-shi=
+ft: unset; baseline-source: unset; block-size: unset; border-block: unset; =
+border: unset; border-radius: unset; border-collapse: unset; border-end-end=
+-radius: unset; border-end-start-radius: unset; border-inline: unset; borde=
+r-start-end-radius: unset; border-start-start-radius: unset; inset: unset; =
+box-shadow: unset; box-sizing: unset; break-after: unset; break-before: uns=
+et; break-inside: unset; buffered-rendering: unset; caption-side: unset; ca=
+ret-color: unset; clear: unset; clip: unset; clip-path: unset; clip-rule: u=
+nset; color-interpolation: unset; color-interpolation-filters: unset; color=
+-rendering: unset; columns: unset; column-fill: unset; gap: unset; column-r=
+ule: unset; column-span: unset; contain: unset; contain-intrinsic-block-siz=
+e: unset; contain-intrinsic-size: unset; contain-intrinsic-inline-size: uns=
+et; container: unset; content: unset; content-visibility: unset; counter-in=
+crement: unset; counter-reset: unset; counter-set: unset; cursor: unset; cx=
+: unset; cy: unset; d: unset; display: inline-block; dominant-baseline: uns=
+et; empty-cells: unset; field-sizing: unset; fill: unset; fill-opacity: uns=
+et; fill-rule: unset; filter: unset; flex: unset; flex-flow: unset; float: =
+unset; flood-color: unset; flood-opacity: unset; grid: unset; grid-area: un=
+set; height: 32px; hyphenate-character: unset; hyphenate-limit-chars: unset=
+; hyphens: unset; image-orientation: unset; image-rendering: unset; initial=
+-letter: unset; inline-size: unset; inset-block: unset; inset-inline: unset=
+; isolation: unset; letter-spacing: unset; lighting-color: unset; line-brea=
+k: unset; list-style: unset; margin-block: unset; margin-bottom: unset; mar=
+gin-inline: unset; margin-left: 10px; margin-right: unset; margin-top: unse=
+t; marker: unset; mask-type: unset; math-shift: unset; math-style: unset; m=
+ax-block-size: unset; max-height: unset; max-inline-size: unset; max-width:=
+ unset; min-block-size: unset; min-height: unset; min-inline-size: unset; m=
+in-width: unset; mix-blend-mode: unset; object-fit: unset; object-position:=
+ unset; object-view-box: unset; offset: unset; opacity: unset; order: unset=
+; orphans: unset; outline: unset; outline-offset: unset; overflow-anchor: u=
+nset; overflow-clip-margin: unset; overflow-wrap: unset; overflow: unset; o=
+verlay: unset; overscroll-behavior-block: unset; overscroll-behavior-inline=
+: unset; overscroll-behavior: unset; padding-block: unset; padding: unset; =
+padding-inline: unset; page: unset; page-orientation: unset; paint-order: u=
+nset; perspective: unset; perspective-origin: unset; pointer-events: unset;=
+ position-try: unset; position-visibility: unset; quotes: unset; r: unset; =
+resize: unset; rotate: unset; ruby-position: unset; rx: unset; ry: unset; s=
+cale: unset; scroll-behavior: unset; scroll-margin-block: unset; scroll-mar=
+gin: unset; scroll-margin-inline: unset; scroll-padding-block: unset; scrol=
+l-padding: unset; scroll-padding-inline: unset; scroll-snap-align: unset; s=
+croll-snap-stop: unset; scroll-snap-type: unset; scroll-timeline: unset; sc=
+rollbar-color: unset; scrollbar-gutter: unset; scrollbar-width: unset; shap=
+e-image-threshold: unset; shape-margin: unset; shape-outside: unset; shape-=
+rendering: unset; size: unset; speak: unset; stop-color: unset; stop-opacit=
+y: unset; stroke: unset; stroke-dasharray: unset; stroke-dashoffset: unset;=
+ stroke-linecap: unset; stroke-linejoin: unset; stroke-miterlimit: unset; s=
+troke-opacity: unset; stroke-width: unset; tab-size: unset; table-layout: u=
+nset; text-align: unset; text-align-last: unset; text-anchor: unset; text-c=
+ombine-upright: unset; text-decoration: unset; text-decoration-skip-ink: un=
+set; text-emphasis: unset; text-emphasis-position: unset; text-indent: unse=
+t; text-overflow: unset; text-shadow: unset; text-size-adjust: unset; text-=
+transform: unset; text-underline-offset: unset; text-underline-position: un=
+set; white-space: unset; timeline-scope: unset; touch-action: unset; transf=
+orm: unset; transform-box: unset; transform-origin: unset; transform-style:=
+ unset; transition: all 0.3s ease-in-out 0s; translate: unset; user-select:=
+ unset; vector-effect: unset; vertical-align: unset; view-timeline: unset; =
+view-transition-class: unset; view-transition-name: unset; visibility: unse=
+t; border-spacing: unset; -webkit-box-align: unset; -webkit-box-decoration-=
+break: unset; -webkit-box-direction: unset; -webkit-box-flex: unset; -webki=
+t-box-ordinal-group: unset; -webkit-box-orient: unset; -webkit-box-pack: un=
+set; -webkit-box-reflect: unset; -webkit-line-break: unset; -webkit-line-cl=
+amp: unset; -webkit-mask-box-image: unset; -webkit-print-color-adjust: unse=
+t; -webkit-rtl-ordering: unset; -webkit-ruby-position: unset; -webkit-tap-h=
+ighlight-color: unset; -webkit-text-combine: unset; -webkit-text-decoration=
+s-in-effect: unset; -webkit-text-fill-color: unset; -webkit-text-security: =
+unset; -webkit-text-stroke: unset; -webkit-user-drag: unset; widows: unset;=
+ width: 32px; will-change: unset; word-break: unset; word-spacing: unset; x=
+: unset; y: unset; z-index: unset; }
+
+._1-94LbTSG7Pb4DBfxy6WCR { color-scheme: unset; forced-color-adjust: unset;=
+ mask: unset; math-depth: unset; position: absolute; position-anchor: unset=
+; appearance: unset; color: rgb(234, 234, 234); font-family: helvetica, ari=
+al, sans-serif; font-feature-settings: unset; font-kerning: unset; font-opt=
+ical-sizing: unset; font-palette: unset; font-size: unset; font-stretch: un=
+set; font-style: unset; font-synthesis: unset; font-variant: unset; font-va=
+riation-settings: unset; font-weight: unset; inset-area: unset; text-orient=
+ation: unset; text-rendering: unset; text-spacing-trim: unset; -webkit-font=
+-smoothing: unset; -webkit-locale: unset; -webkit-text-orientation: unset; =
+-webkit-writing-mode: unset; writing-mode: unset; zoom: unset; accent-color=
+: unset; align-content: unset; align-items: center; place-self: unset; alig=
+nment-baseline: unset; anchor-name: unset; animation-composition: unset; an=
+imation: unset; app-region: unset; aspect-ratio: unset; backdrop-filter: un=
+set; backface-visibility: unset; background-attachment: unset; background-b=
+lend-mode: unset; background-clip: unset; background-color: rgb(230, 75, 62=
+); background-image: unset; background-origin: unset; background-position: =
+unset; background-repeat: unset; background-size: unset; baseline-shift: un=
+set; baseline-source: unset; block-size: unset; border-block: unset; border=
+: unset; border-radius: 50%; border-collapse: unset; border-end-end-radius:=
+ unset; border-end-start-radius: unset; border-inline: unset; border-start-=
+end-radius: unset; border-start-start-radius: unset; bottom: unset; box-sha=
+dow: unset; box-sizing: unset; break-after: unset; break-before: unset; bre=
+ak-inside: unset; buffered-rendering: unset; caption-side: unset; caret-col=
+or: unset; clear: unset; clip: unset; clip-path: unset; clip-rule: unset; c=
+olor-interpolation: unset; color-interpolation-filters: unset; color-render=
+ing: unset; columns: unset; column-fill: unset; gap: unset; column-rule: un=
+set; column-span: unset; contain: unset; contain-intrinsic-block-size: unse=
+t; contain-intrinsic-size: unset; contain-intrinsic-inline-size: unset; con=
+tainer: unset; content: unset; content-visibility: unset; counter-increment=
+: unset; counter-reset: unset; counter-set: unset; cursor: unset; cx: unset=
+; cy: unset; d: unset; display: flex; dominant-baseline: unset; empty-cells=
+: unset; field-sizing: unset; fill: unset; fill-opacity: unset; fill-rule: =
+unset; filter: unset; flex: unset; flex-flow: unset; float: unset; flood-co=
+lor: unset; flood-opacity: unset; grid: unset; grid-area: unset; height: 22=
+px; hyphenate-character: unset; hyphenate-limit-chars: unset; hyphens: unse=
+t; image-orientation: unset; image-rendering: unset; initial-letter: unset;=
+ inline-size: unset; inset-block: unset; inset-inline: unset; isolation: un=
+set; justify-content: center; justify-items: unset; left: 38px; letter-spac=
+ing: unset; lighting-color: unset; line-break: unset; line-height: unset; l=
+ist-style: unset; margin-block: unset; margin: unset; margin-inline: unset;=
+ marker: unset; mask-type: unset; math-shift: unset; math-style: unset; max=
+-block-size: unset; max-height: unset; max-inline-size: unset; max-width: u=
+nset; min-block-size: unset; min-height: unset; min-inline-size: unset; min=
+-width: unset; mix-blend-mode: unset; object-fit: unset; object-position: u=
+nset; object-view-box: unset; offset: unset; opacity: unset; order: unset; =
+orphans: unset; outline: unset; outline-offset: unset; overflow-anchor: uns=
+et; overflow-clip-margin: unset; overflow-wrap: unset; overflow: unset; ove=
+rlay: unset; overscroll-behavior-block: unset; overscroll-behavior-inline: =
+unset; overscroll-behavior: unset; padding-block: unset; padding: unset; pa=
+dding-inline: unset; page: unset; page-orientation: unset; paint-order: uns=
+et; perspective: unset; perspective-origin: unset; pointer-events: unset; p=
+osition-try: unset; position-visibility: unset; quotes: unset; r: unset; re=
+size: unset; right: unset; rotate: unset; ruby-position: unset; rx: unset; =
+ry: unset; scale: unset; scroll-behavior: unset; scroll-margin-block: unset=
+; scroll-margin: unset; scroll-margin-inline: unset; scroll-padding-block: =
+unset; scroll-padding: unset; scroll-padding-inline: unset; scroll-snap-ali=
+gn: unset; scroll-snap-stop: unset; scroll-snap-type: unset; scroll-timelin=
+e: unset; scrollbar-color: unset; scrollbar-gutter: unset; scrollbar-width:=
+ unset; shape-image-threshold: unset; shape-margin: unset; shape-outside: u=
+nset; shape-rendering: unset; size: unset; speak: unset; stop-color: unset;=
+ stop-opacity: unset; stroke: unset; stroke-dasharray: unset; stroke-dashof=
+fset: unset; stroke-linecap: unset; stroke-linejoin: unset; stroke-miterlim=
+it: unset; stroke-opacity: unset; stroke-width: unset; tab-size: unset; tab=
+le-layout: unset; text-align: center; text-align-last: unset; text-anchor: =
+unset; text-combine-upright: unset; text-decoration: unset; text-decoration=
+-skip-ink: unset; text-emphasis: unset; text-emphasis-position: unset; text=
+-indent: unset; text-overflow: unset; text-shadow: unset; text-size-adjust:=
+ unset; text-transform: unset; text-underline-offset: unset; text-underline=
+-position: unset; white-space: unset; timeline-scope: unset; top: -5px; tou=
+ch-action: unset; transform: unset; transform-box: unset; transform-origin:=
+ unset; transform-style: unset; transition: color 0.3s ease-in-out 0s; tran=
+slate: unset; user-select: none; vector-effect: unset; vertical-align: unse=
+t; view-timeline: unset; view-transition-class: unset; view-transition-name=
+: unset; visibility: unset; border-spacing: unset; -webkit-box-align: unset=
+; -webkit-box-decoration-break: unset; -webkit-box-direction: unset; -webki=
+t-box-flex: unset; -webkit-box-ordinal-group: unset; -webkit-box-orient: un=
+set; -webkit-box-pack: unset; -webkit-box-reflect: unset; -webkit-line-brea=
+k: unset; -webkit-line-clamp: unset; -webkit-mask-box-image: unset; -webkit=
+-print-color-adjust: unset; -webkit-rtl-ordering: unset; -webkit-ruby-posit=
+ion: unset; -webkit-tap-highlight-color: unset; -webkit-text-combine: unset=
+; -webkit-text-decorations-in-effect: unset; -webkit-text-fill-color: unset=
+; -webkit-text-security: unset; -webkit-text-stroke: unset; -webkit-user-dr=
+ag: unset; widows: unset; width: 22px; will-change: unset; word-break: unse=
+t; word-spacing: unset; x: unset; y: unset; z-index: unset; }
+
+._1-94LbTSG7Pb4DBfxy6WCR span { color-scheme: unset; forced-color-adjust: u=
+nset; mask: unset; math-depth: unset; position: unset; position-anchor: uns=
+et; appearance: unset; color: rgb(234, 234, 234); font-family: helvetica, a=
+rial, sans-serif; font-feature-settings: unset; font-kerning: unset; font-o=
+ptical-sizing: unset; font-palette: unset; font-size: 11px; font-stretch: u=
+nset; font-style: unset; font-synthesis: unset; font-variant: unset; font-v=
+ariation-settings: unset; font-weight: unset; inset-area: unset; text-orien=
+tation: unset; text-rendering: unset; text-spacing-trim: unset; -webkit-fon=
+t-smoothing: unset; -webkit-locale: unset; -webkit-text-orientation: unset;=
+ -webkit-writing-mode: unset; writing-mode: unset; zoom: unset; accent-colo=
+r: unset; place-content: unset; place-items: unset; place-self: unset; alig=
+nment-baseline: unset; anchor-name: unset; animation-composition: unset; an=
+imation: unset; app-region: unset; aspect-ratio: unset; backdrop-filter: un=
+set; backface-visibility: unset; background: unset; background-blend-mode: =
+unset; baseline-shift: unset; baseline-source: unset; block-size: unset; bo=
+rder-block: unset; border: unset; border-radius: 50%; border-collapse: unse=
+t; border-end-end-radius: unset; border-end-start-radius: unset; border-inl=
+ine: unset; border-start-end-radius: unset; border-start-start-radius: unse=
+t; inset: unset; box-shadow: unset; box-sizing: unset; break-after: unset; =
+break-before: unset; break-inside: unset; buffered-rendering: unset; captio=
+n-side: unset; caret-color: unset; clear: unset; clip: unset; clip-path: un=
+set; clip-rule: unset; color-interpolation: unset; color-interpolation-filt=
+ers: unset; color-rendering: unset; columns: unset; column-fill: unset; gap=
+: unset; column-rule: unset; column-span: unset; contain: unset; contain-in=
+trinsic-block-size: unset; contain-intrinsic-size: unset; contain-intrinsic=
+-inline-size: unset; container: unset; content: unset; content-visibility: =
+unset; counter-increment: unset; counter-reset: unset; counter-set: unset; =
+cursor: unset; cx: unset; cy: unset; d: unset; display: unset; dominant-bas=
+eline: unset; empty-cells: unset; field-sizing: unset; fill: unset; fill-op=
+acity: unset; fill-rule: unset; filter: unset; flex: unset; flex-flow: unse=
+t; float: unset; flood-color: unset; flood-opacity: unset; grid: unset; gri=
+d-area: unset; height: unset; hyphenate-character: unset; hyphenate-limit-c=
+hars: unset; hyphens: unset; image-orientation: unset; image-rendering: uns=
+et; initial-letter: unset; inline-size: unset; inset-block: unset; inset-in=
+line: unset; isolation: unset; letter-spacing: unset; lighting-color: unset=
+; line-break: unset; line-height: normal; list-style: unset; margin-block: =
+unset; margin: unset; margin-inline: unset; marker: unset; mask-type: unset=
+; math-shift: unset; math-style: unset; max-block-size: unset; max-height: =
+unset; max-inline-size: unset; max-width: unset; min-block-size: unset; min=
+-height: unset; min-inline-size: unset; min-width: unset; mix-blend-mode: u=
+nset; object-fit: unset; object-position: unset; object-view-box: unset; of=
+fset: unset; opacity: unset; order: unset; orphans: unset; outline: unset; =
+outline-offset: unset; overflow-anchor: unset; overflow-clip-margin: unset;=
+ overflow-wrap: unset; overflow: unset; overlay: unset; overscroll-behavior=
+-block: unset; overscroll-behavior-inline: unset; overscroll-behavior: unse=
+t; padding-block: unset; padding: unset; padding-inline: unset; page: unset=
+; page-orientation: unset; paint-order: unset; perspective: unset; perspect=
+ive-origin: unset; pointer-events: unset; position-try: unset; position-vis=
+ibility: unset; quotes: unset; r: unset; resize: unset; rotate: unset; ruby=
+-position: unset; rx: unset; ry: unset; scale: unset; scroll-behavior: unse=
+t; scroll-margin-block: unset; scroll-margin: unset; scroll-margin-inline: =
+unset; scroll-padding-block: unset; scroll-padding: unset; scroll-padding-i=
+nline: unset; scroll-snap-align: unset; scroll-snap-stop: unset; scroll-sna=
+p-type: unset; scroll-timeline: unset; scrollbar-color: unset; scrollbar-gu=
+tter: unset; scrollbar-width: unset; shape-image-threshold: unset; shape-ma=
+rgin: unset; shape-outside: unset; shape-rendering: unset; size: unset; spe=
+ak: unset; stop-color: unset; stop-opacity: unset; stroke: unset; stroke-da=
+sharray: unset; stroke-dashoffset: unset; stroke-linecap: unset; stroke-lin=
+ejoin: unset; stroke-miterlimit: unset; stroke-opacity: unset; stroke-width=
+: unset; tab-size: unset; table-layout: unset; text-align: center; text-ali=
+gn-last: unset; text-anchor: unset; text-combine-upright: unset; text-decor=
+ation: unset; text-decoration-skip-ink: unset; text-emphasis: unset; text-e=
+mphasis-position: unset; text-indent: unset; text-overflow: unset; text-sha=
+dow: unset; text-size-adjust: unset; text-transform: unset; text-underline-=
+offset: unset; text-underline-position: unset; white-space: unset; timeline=
+-scope: unset; touch-action: unset; transform: unset; transform-box: unset;=
+ transform-origin: unset; transform-style: unset; transition: unset; transl=
+ate: unset; user-select: unset; vector-effect: unset; vertical-align: unset=
+; view-timeline: unset; view-transition-class: unset; view-transition-name:=
+ unset; visibility: unset; border-spacing: unset; -webkit-box-align: unset;=
+ -webkit-box-decoration-break: unset; -webkit-box-direction: unset; -webkit=
+-box-flex: unset; -webkit-box-ordinal-group: unset; -webkit-box-orient: uns=
+et; -webkit-box-pack: unset; -webkit-box-reflect: unset; -webkit-line-break=
+: unset; -webkit-line-clamp: unset; -webkit-mask-box-image: unset; -webkit-=
+print-color-adjust: unset; -webkit-rtl-ordering: unset; -webkit-ruby-positi=
+on: unset; -webkit-tap-highlight-color: unset; -webkit-text-combine: unset;=
+ -webkit-text-decorations-in-effect: unset; -webkit-text-fill-color: unset;=
+ -webkit-text-security: unset; -webkit-text-stroke: unset; -webkit-user-dra=
+g: unset; widows: unset; width: unset; will-change: unset; word-break: unse=
+t; word-spacing: unset; x: unset; y: unset; z-index: unset; }
+------MultipartBoundary--vVLRoY6PHEa8g2rKwngdF4Z1QofAdXr8fXYaNvHes7----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: blob:https://octodoodle.vercel.app/0dd76391-5b63-4ee7-ba49-deda45852ec2
+
+@charset "utf-8";
+
+._1z9AvYPkP6KZswvU82SD0y { height: 1px; width: 1px; overflow: hidden; clip:=
+ rect(1px, 1px, 1px, 1px); position: absolute !important; }
+
+._2kCJhEzGL-jJVoUjrZjxOk { color-scheme: unset; forced-color-adjust: unset;=
+ mask: unset; math-depth: unset; position: absolute; position-anchor: unset=
+; appearance: unset; color: unset; font: unset; font-palette: unset; font-s=
+ynthesis: unset; inset-area: unset; text-orientation: unset; text-rendering=
+: unset; text-spacing-trim: unset; -webkit-font-smoothing: unset; -webkit-l=
+ocale: unset; -webkit-text-orientation: unset; -webkit-writing-mode: unset;=
+ writing-mode: unset; zoom: unset; accent-color: unset; place-content: unse=
+t; place-items: unset; place-self: unset; alignment-baseline: unset; anchor=
+-name: unset; animation-composition: unset; animation: unset; app-region: u=
+nset; aspect-ratio: unset; backdrop-filter: unset; backface-visibility: uns=
+et; background-attachment: unset; background-blend-mode: unset; background-=
+clip: unset; background-color: rgb(255, 255, 255); background-image: unset;=
+ background-origin: unset; background-position: unset; background-repeat: u=
+nset; background-size: unset; baseline-shift: unset; baseline-source: unset=
+; block-size: unset; border-block: unset; border: unset; border-radius: 0.5=
+px; border-collapse: unset; border-end-end-radius: unset; border-end-start-=
+radius: unset; border-inline: unset; border-start-end-radius: unset; border=
+-start-start-radius: unset; bottom: unset; box-shadow: rgba(0, 0, 0, 0.5) 0=
+px 1px 10px; box-sizing: unset; break-after: unset; break-before: unset; br=
+eak-inside: unset; buffered-rendering: unset; caption-side: unset; caret-co=
+lor: unset; clear: unset; clip: unset; clip-path: unset; clip-rule: unset; =
+color-interpolation: unset; color-interpolation-filters: unset; color-rende=
+ring: unset; columns: unset; column-fill: unset; gap: unset; column-rule: u=
+nset; column-span: unset; contain: unset; contain-intrinsic-block-size: uns=
+et; contain-intrinsic-size: unset; contain-intrinsic-inline-size: unset; co=
+ntainer: unset; content: unset; content-visibility: unset; counter-incremen=
+t: unset; counter-reset: unset; counter-set: unset; cursor: unset; cx: unse=
+t; cy: unset; d: unset; display: block; dominant-baseline: unset; empty-cel=
+ls: unset; field-sizing: unset; fill: unset; fill-opacity: unset; fill-rule=
+: unset; filter: unset; flex: unset; flex-flow: unset; float: unset; flood-=
+color: unset; flood-opacity: unset; grid: unset; grid-area: unset; height: =
+unset; hyphenate-character: unset; hyphenate-limit-chars: unset; hyphens: u=
+nset; image-orientation: unset; image-rendering: unset; initial-letter: uns=
+et; inline-size: unset; inset-block: unset; inset-inline: unset; isolation:=
+ unset; left: unset; letter-spacing: unset; lighting-color: unset; line-bre=
+ak: unset; list-style: unset; margin-block: unset; margin: unset; margin-in=
+line: unset; marker: unset; mask-type: unset; math-shift: unset; math-style=
+: unset; max-block-size: unset; max-height: unset; max-inline-size: unset; =
+max-width: unset; min-block-size: unset; min-height: unset; min-inline-size=
+: unset; min-width: unset; mix-blend-mode: unset; object-fit: unset; object=
+-position: unset; object-view-box: unset; offset: unset; opacity: 0; order:=
+ unset; orphans: unset; outline: unset; outline-offset: unset; overflow-anc=
+hor: unset; overflow-clip-margin: unset; overflow-wrap: unset; overflow: un=
+set; overlay: unset; overscroll-behavior-block: unset; overscroll-behavior-=
+inline: unset; overscroll-behavior: unset; padding-block: unset; padding: 1=
+0px 10px 10px 15px; padding-inline: unset; page: unset; page-orientation: u=
+nset; paint-order: unset; perspective: unset; perspective-origin: unset; po=
+inter-events: unset; position-try: unset; position-visibility: unset; quote=
+s: unset; r: unset; resize: unset; right: unset; rotate: unset; ruby-positi=
+on: unset; rx: unset; ry: unset; scale: unset; scroll-behavior: unset; scro=
+ll-margin-block: unset; scroll-margin: unset; scroll-margin-inline: unset; =
+scroll-padding-block: unset; scroll-padding: unset; scroll-padding-inline: =
+unset; scroll-snap-align: unset; scroll-snap-stop: unset; scroll-snap-type:=
+ unset; scroll-timeline: unset; scrollbar-color: unset; scrollbar-gutter: u=
+nset; scrollbar-width: unset; shape-image-threshold: unset; shape-margin: u=
+nset; shape-outside: unset; shape-rendering: unset; size: unset; speak: uns=
+et; stop-color: unset; stop-opacity: unset; stroke: unset; stroke-dasharray=
+: unset; stroke-dashoffset: unset; stroke-linecap: unset; stroke-linejoin: =
+unset; stroke-miterlimit: unset; stroke-opacity: unset; stroke-width: unset=
+; tab-size: unset; table-layout: unset; text-align: justify; text-align-las=
+t: unset; text-anchor: unset; text-combine-upright: unset; text-decoration:=
+ unset; text-decoration-skip-ink: unset; text-emphasis: unset; text-emphasi=
+s-position: unset; text-indent: unset; text-overflow: unset; text-shadow: u=
+nset; text-size-adjust: unset; text-transform: unset; text-underline-offset=
+: unset; text-underline-position: unset; white-space: unset; timeline-scope=
+: unset; top: -14px; touch-action: unset; transform: unset; transform-box: =
+unset; transform-origin: unset; transform-style: unset; transition: all 0.5=
+s ease-in-out 0s; translate: unset; user-select: none; vector-effect: unset=
+; vertical-align: unset; view-timeline: unset; view-transition-class: unset=
+; view-transition-name: unset; visibility: unset; border-spacing: unset; -w=
+ebkit-box-align: unset; -webkit-box-decoration-break: unset; -webkit-box-di=
+rection: unset; -webkit-box-flex: unset; -webkit-box-ordinal-group: unset; =
+-webkit-box-orient: unset; -webkit-box-pack: unset; -webkit-box-reflect: un=
+set; -webkit-line-break: unset; -webkit-line-clamp: unset; -webkit-mask-box=
+-image: unset; -webkit-print-color-adjust: unset; -webkit-rtl-ordering: uns=
+et; -webkit-ruby-position: unset; -webkit-tap-highlight-color: unset; -webk=
+it-text-combine: unset; -webkit-text-decorations-in-effect: unset; -webkit-=
+text-fill-color: unset; -webkit-text-security: unset; -webkit-text-stroke: =
+unset; -webkit-user-drag: unset; widows: unset; width: 250px; will-change: =
+unset; word-break: unset; word-spacing: unset; x: unset; y: unset; z-index:=
+ unset; }
+
+._2kCJhEzGL-jJVoUjrZjxOk.pKXdrso86RIf0AmVYshSb { opacity: 1; }
+
+._2kCJhEzGL-jJVoUjrZjxOk ._1KoTZoECP-EzMAluUxBsxf { color-scheme: unset; fo=
+rced-color-adjust: unset; mask: unset; math-depth: unset; position: unset; =
+position-anchor: unset; appearance: unset; color: rgb(87, 86, 89); font-fam=
+ily: helvetica, arial, sans-serif; font-feature-settings: unset; font-kerni=
+ng: unset; font-optical-sizing: unset; font-palette: unset; font-size: 12px=
+; font-stretch: unset; font-style: unset; font-synthesis: unset; font-varia=
+nt: unset; font-variation-settings: unset; font-weight: unset; inset-area: =
+unset; text-orientation: unset; text-rendering: unset; text-spacing-trim: u=
+nset; -webkit-font-smoothing: unset; -webkit-locale: unset; -webkit-text-or=
+ientation: unset; -webkit-writing-mode: unset; writing-mode: unset; zoom: u=
+nset; accent-color: unset; place-content: unset; place-items: unset; place-=
+self: unset; alignment-baseline: unset; anchor-name: unset; animation-compo=
+sition: unset; animation: unset; app-region: unset; aspect-ratio: unset; ba=
+ckdrop-filter: unset; backface-visibility: unset; background: unset; backgr=
+ound-blend-mode: unset; baseline-shift: unset; baseline-source: unset; bloc=
+k-size: unset; border-block: unset; border: unset; border-radius: unset; bo=
+rder-collapse: unset; border-end-end-radius: unset; border-end-start-radius=
+: unset; border-inline: unset; border-start-end-radius: unset; border-start=
+-start-radius: unset; inset: unset; box-shadow: unset; box-sizing: unset; b=
+reak-after: unset; break-before: unset; break-inside: unset; buffered-rende=
+ring: unset; caption-side: unset; caret-color: unset; clear: unset; clip: u=
+nset; clip-path: unset; clip-rule: unset; color-interpolation: unset; color=
+-interpolation-filters: unset; color-rendering: unset; columns: unset; colu=
+mn-fill: unset; gap: unset; column-rule: unset; column-span: unset; contain=
+: unset; contain-intrinsic-block-size: unset; contain-intrinsic-size: unset=
+; contain-intrinsic-inline-size: unset; container: unset; content: unset; c=
+ontent-visibility: unset; counter-increment: unset; counter-reset: unset; c=
+ounter-set: unset; cursor: unset; cx: unset; cy: unset; d: unset; display: =
+block; dominant-baseline: unset; empty-cells: unset; field-sizing: unset; f=
+ill: unset; fill-opacity: unset; fill-rule: unset; filter: unset; flex: uns=
+et; flex-flow: unset; float: unset; flood-color: unset; flood-opacity: unse=
+t; grid: unset; grid-area: unset; height: unset; hyphenate-character: unset=
+; hyphenate-limit-chars: unset; hyphens: unset; image-orientation: unset; i=
+mage-rendering: unset; initial-letter: unset; inline-size: unset; inset-blo=
+ck: unset; inset-inline: unset; isolation: unset; letter-spacing: unset; li=
+ghting-color: unset; line-break: unset; line-height: normal; list-style: un=
+set; margin-block: unset; margin: unset; margin-inline: unset; marker: unse=
+t; mask-type: unset; math-shift: unset; math-style: unset; max-block-size: =
+unset; max-height: unset; max-inline-size: unset; max-width: unset; min-blo=
+ck-size: unset; min-height: unset; min-inline-size: unset; min-width: unset=
+; mix-blend-mode: unset; object-fit: unset; object-position: unset; object-=
+view-box: unset; offset: unset; opacity: 0.5; order: unset; orphans: unset;=
+ outline: unset; outline-offset: unset; overflow-anchor: unset; overflow-cl=
+ip-margin: unset; overflow-wrap: unset; overflow: unset; overlay: unset; ov=
+erscroll-behavior-block: unset; overscroll-behavior-inline: unset; overscro=
+ll-behavior: unset; padding-block: unset; padding: unset; padding-inline: u=
+nset; page: unset; page-orientation: unset; paint-order: unset; perspective=
+: unset; perspective-origin: unset; pointer-events: unset; position-try: un=
+set; position-visibility: unset; quotes: unset; r: unset; resize: unset; ro=
+tate: unset; ruby-position: unset; rx: unset; ry: unset; scale: unset; scro=
+ll-behavior: unset; scroll-margin-block: unset; scroll-margin: unset; scrol=
+l-margin-inline: unset; scroll-padding-block: unset; scroll-padding: unset;=
+ scroll-padding-inline: unset; scroll-snap-align: unset; scroll-snap-stop: =
+unset; scroll-snap-type: unset; scroll-timeline: unset; scrollbar-color: un=
+set; scrollbar-gutter: unset; scrollbar-width: unset; shape-image-threshold=
+: unset; shape-margin: unset; shape-outside: unset; shape-rendering: unset;=
+ size: unset; speak: unset; stop-color: unset; stop-opacity: unset; stroke:=
+ unset; stroke-dasharray: unset; stroke-dashoffset: unset; stroke-linecap: =
+unset; stroke-linejoin: unset; stroke-miterlimit: unset; stroke-opacity: un=
+set; stroke-width: unset; tab-size: unset; table-layout: unset; text-align:=
+ unset; text-align-last: unset; text-anchor: unset; text-combine-upright: u=
+nset; text-decoration: unset; text-decoration-skip-ink: unset; text-emphasi=
+s: unset; text-emphasis-position: unset; text-indent: unset; text-overflow:=
+ unset; text-shadow: unset; text-size-adjust: unset; text-transform: unset;=
+ text-underline-offset: unset; text-underline-position: unset; white-space:=
+ unset; timeline-scope: unset; touch-action: unset; transform: unset; trans=
+form-box: unset; transform-origin: unset; transform-style: unset; transitio=
+n: unset; translate: unset; user-select: unset; vector-effect: unset; verti=
+cal-align: unset; view-timeline: unset; view-transition-class: unset; view-=
+transition-name: unset; visibility: unset; border-spacing: unset; -webkit-b=
+ox-align: unset; -webkit-box-decoration-break: unset; -webkit-box-direction=
+: unset; -webkit-box-flex: unset; -webkit-box-ordinal-group: unset; -webkit=
+-box-orient: unset; -webkit-box-pack: unset; -webkit-box-reflect: unset; -w=
+ebkit-line-break: unset; -webkit-line-clamp: unset; -webkit-mask-box-image:=
+ unset; -webkit-print-color-adjust: unset; -webkit-rtl-ordering: unset; -we=
+bkit-ruby-position: unset; -webkit-tap-highlight-color: unset; -webkit-text=
+-combine: unset; -webkit-text-decorations-in-effect: unset; -webkit-text-fi=
+ll-color: unset; -webkit-text-security: unset; -webkit-text-stroke: unset; =
+-webkit-user-drag: unset; widows: unset; width: unset; will-change: unset; =
+word-break: unset; word-spacing: unset; x: unset; y: unset; z-index: unset;=
+ }
+
+._2kCJhEzGL-jJVoUjrZjxOk ._206c9QkukGW9ACQ_aRIfMv { color-scheme: unset; fo=
+rced-color-adjust: unset; mask: unset; math-depth: unset; position: unset; =
+position-anchor: unset; appearance: unset; color: rgb(87, 86, 89); font-fam=
+ily: helvetica, arial, sans-serif; font-feature-settings: unset; font-kerni=
+ng: unset; font-optical-sizing: unset; font-palette: unset; font-size: 14px=
+; font-stretch: unset; font-style: unset; font-synthesis: unset; font-varia=
+nt: unset; font-variation-settings: unset; font-weight: unset; inset-area: =
+unset; text-orientation: unset; text-rendering: unset; text-spacing-trim: u=
+nset; -webkit-font-smoothing: unset; -webkit-locale: unset; -webkit-text-or=
+ientation: unset; -webkit-writing-mode: unset; writing-mode: unset; zoom: u=
+nset; accent-color: unset; place-content: unset; place-items: unset; place-=
+self: unset; alignment-baseline: unset; anchor-name: unset; animation-compo=
+sition: unset; animation: unset; app-region: unset; aspect-ratio: unset; ba=
+ckdrop-filter: unset; backface-visibility: unset; background: unset; backgr=
+ound-blend-mode: unset; baseline-shift: unset; baseline-source: unset; bloc=
+k-size: unset; border-block: unset; border: unset; border-radius: unset; bo=
+rder-collapse: unset; border-end-end-radius: unset; border-end-start-radius=
+: unset; border-inline: unset; border-start-end-radius: unset; border-start=
+-start-radius: unset; inset: unset; box-shadow: unset; box-sizing: unset; b=
+reak-after: unset; break-before: unset; break-inside: unset; buffered-rende=
+ring: unset; caption-side: unset; caret-color: unset; clear: unset; clip: u=
+nset; clip-path: unset; clip-rule: unset; color-interpolation: unset; color=
+-interpolation-filters: unset; color-rendering: unset; columns: unset; colu=
+mn-fill: unset; gap: unset; column-rule: unset; column-span: unset; contain=
+: unset; contain-intrinsic-block-size: unset; contain-intrinsic-size: unset=
+; contain-intrinsic-inline-size: unset; container: unset; content: unset; c=
+ontent-visibility: unset; counter-increment: unset; counter-reset: unset; c=
+ounter-set: unset; cursor: unset; cx: unset; cy: unset; d: unset; display: =
+block; dominant-baseline: unset; empty-cells: unset; field-sizing: unset; f=
+ill: unset; fill-opacity: unset; fill-rule: unset; filter: unset; flex: uns=
+et; flex-flow: unset; float: unset; flood-color: unset; flood-opacity: unse=
+t; grid: unset; grid-area: unset; height: unset; hyphenate-character: unset=
+; hyphenate-limit-chars: unset; hyphens: unset; image-orientation: unset; i=
+mage-rendering: unset; initial-letter: unset; inline-size: unset; inset-blo=
+ck: unset; inset-inline: unset; isolation: unset; letter-spacing: unset; li=
+ghting-color: unset; line-break: unset; line-height: normal; list-style: un=
+set; margin-block: unset; margin: unset; margin-inline: unset; marker: unse=
+t; mask-type: unset; math-shift: unset; math-style: unset; max-block-size: =
+unset; max-height: unset; max-inline-size: unset; max-width: 200px; min-blo=
+ck-size: unset; min-height: unset; min-inline-size: unset; min-width: unset=
+; mix-blend-mode: unset; object-fit: unset; object-position: unset; object-=
+view-box: unset; offset: unset; opacity: unset; order: unset; orphans: unse=
+t; outline: unset; outline-offset: unset; overflow-anchor: unset; overflow-=
+clip-margin: unset; overflow-wrap: unset; overflow: hidden; overlay: unset;=
+ overscroll-behavior-block: unset; overscroll-behavior-inline: unset; overs=
+croll-behavior: unset; padding-block: unset; padding: unset; padding-inline=
+: unset; page: unset; page-orientation: unset; paint-order: unset; perspect=
+ive: unset; perspective-origin: unset; pointer-events: unset; position-try:=
+ unset; position-visibility: unset; quotes: unset; r: unset; resize: unset;=
+ rotate: unset; ruby-position: unset; rx: unset; ry: unset; scale: unset; s=
+croll-behavior: unset; scroll-margin-block: unset; scroll-margin: unset; sc=
+roll-margin-inline: unset; scroll-padding-block: unset; scroll-padding: uns=
+et; scroll-padding-inline: unset; scroll-snap-align: unset; scroll-snap-sto=
+p: unset; scroll-snap-type: unset; scroll-timeline: unset; scrollbar-color:=
+ unset; scrollbar-gutter: unset; scrollbar-width: unset; shape-image-thresh=
+old: unset; shape-margin: unset; shape-outside: unset; shape-rendering: uns=
+et; size: unset; speak: unset; stop-color: unset; stop-opacity: unset; stro=
+ke: unset; stroke-dasharray: unset; stroke-dashoffset: unset; stroke-lineca=
+p: unset; stroke-linejoin: unset; stroke-miterlimit: unset; stroke-opacity:=
+ unset; stroke-width: unset; tab-size: unset; table-layout: unset; text-ali=
+gn: unset; text-align-last: unset; text-anchor: unset; text-combine-upright=
+: unset; text-decoration: unset; text-decoration-skip-ink: unset; text-emph=
+asis: unset; text-emphasis-position: unset; text-indent: unset; text-overfl=
+ow: ellipsis; text-shadow: unset; text-size-adjust: unset; text-transform: =
+unset; text-underline-offset: unset; text-underline-position: unset; white-=
+space: nowrap; timeline-scope: unset; touch-action: unset; transform: unset=
+; transform-box: unset; transform-origin: unset; transform-style: unset; tr=
+ansition: unset; translate: unset; user-select: unset; vector-effect: unset=
+; vertical-align: unset; view-timeline: unset; view-transition-class: unset=
+; view-transition-name: unset; visibility: unset; border-spacing: unset; -w=
+ebkit-box-align: unset; -webkit-box-decoration-break: unset; -webkit-box-di=
+rection: unset; -webkit-box-flex: unset; -webkit-box-ordinal-group: unset; =
+-webkit-box-orient: unset; -webkit-box-pack: unset; -webkit-box-reflect: un=
+set; -webkit-line-break: unset; -webkit-line-clamp: unset; -webkit-mask-box=
+-image: unset; -webkit-print-color-adjust: unset; -webkit-rtl-ordering: uns=
+et; -webkit-ruby-position: unset; -webkit-tap-highlight-color: unset; -webk=
+it-text-combine: unset; -webkit-text-decorations-in-effect: unset; -webkit-=
+text-fill-color: unset; -webkit-text-security: unset; -webkit-text-stroke: =
+unset; -webkit-user-drag: unset; widows: unset; width: unset; will-change: =
+unset; word-break: unset; word-spacing: unset; x: unset; y: unset; z-index:=
+ unset; }
+
+._2olasz-2x0DR4jXfJZN05k { right: -87px; }
+
+._2olasz-2x0DR4jXfJZN05k.pKXdrso86RIf0AmVYshSb { right: -57px; }
+
+._2olasz-2x0DR4jXfJZN05k ._1KoTZoECP-EzMAluUxBsxf { margin: 6px 0px 0px; }
+
+._2olasz-2x0DR4jXfJZN05k ._206c9QkukGW9ACQ_aRIfMv { margin: 6px 0px; }
+
+._3UljwNYZyBBUJrSo7Cf0Wc { left: -38px; }
+
+._3UljwNYZyBBUJrSo7Cf0Wc.pKXdrso86RIf0AmVYshSb { left: -8px; }
+
+._3UljwNYZyBBUJrSo7Cf0Wc ._1KoTZoECP-EzMAluUxBsxf { margin: 6px 0px 0px 55p=
+x; }
+
+._3UljwNYZyBBUJrSo7Cf0Wc ._206c9QkukGW9ACQ_aRIfMv { margin: 6px 0px 5px 55p=
+x; }
+------MultipartBoundary--vVLRoY6PHEa8g2rKwngdF4Z1QofAdXr8fXYaNvHes7----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: blob:https://octodoodle.vercel.app/0be59003-8b61-4ba7-a343-2bcdbc5a98c9
+
+@charset "utf-8";
+
+._2DBTEUx2xNnJmRsYC-p5Mi { height: 1px; width: 1px; overflow: hidden; clip:=
+ rect(1px, 1px, 1px, 1px); position: absolute !important; }
+
+._317zVnpIz8cTijNvSsCkbc { color-scheme: unset; forced-color-adjust: unset;=
+ mask: unset; math-depth: unset; position: fixed; position-anchor: unset; a=
+ppearance: unset; color: unset; font: unset; font-palette: unset; font-synt=
+hesis: unset; inset-area: unset; text-orientation: unset; text-rendering: u=
+nset; text-spacing-trim: unset; -webkit-font-smoothing: unset; -webkit-loca=
+le: unset; -webkit-text-orientation: unset; -webkit-writing-mode: unset; wr=
+iting-mode: unset; zoom: unset; accent-color: unset; place-content: unset; =
+place-items: unset; place-self: unset; alignment-baseline: unset; anchor-na=
+me: unset; animation-composition: unset; animation: unset; app-region: unse=
+t; aspect-ratio: unset; backdrop-filter: unset; backface-visibility: unset;=
+ background: unset; background-blend-mode: unset; baseline-shift: unset; ba=
+seline-source: unset; block-size: unset; border-block: unset; border: unset=
+; border-radius: unset; border-collapse: unset; border-end-end-radius: unse=
+t; border-end-start-radius: unset; border-inline: unset; border-start-end-r=
+adius: unset; border-start-start-radius: unset; bottom: unset; box-shadow: =
+unset; box-sizing: unset; break-after: unset; break-before: unset; break-in=
+side: unset; buffered-rendering: unset; caption-side: unset; caret-color: u=
+nset; clear: unset; clip: unset; clip-path: unset; clip-rule: unset; color-=
+interpolation: unset; color-interpolation-filters: unset; color-rendering: =
+unset; columns: unset; column-fill: unset; gap: unset; column-rule: unset; =
+column-span: unset; contain: unset; contain-intrinsic-block-size: unset; co=
+ntain-intrinsic-size: unset; contain-intrinsic-inline-size: unset; containe=
+r: unset; content: unset; content-visibility: unset; counter-increment: uns=
+et; counter-reset: unset; counter-set: unset; cursor: unset; cx: unset; cy:=
+ unset; d: unset; display: unset; dominant-baseline: unset; empty-cells: un=
+set; field-sizing: unset; fill: unset; fill-opacity: unset; fill-rule: unse=
+t; filter: unset; flex: unset; flex-flow: unset; float: unset; flood-color:=
+ unset; flood-opacity: unset; grid: unset; grid-area: unset; height: 0px; h=
+yphenate-character: unset; hyphenate-limit-chars: unset; hyphens: unset; im=
+age-orientation: unset; image-rendering: unset; initial-letter: unset; inli=
+ne-size: unset; inset-block: unset; inset-inline: unset; isolation: unset; =
+left: 0px; letter-spacing: unset; lighting-color: unset; line-break: unset;=
+ list-style: unset; margin-block: unset; margin: unset; margin-inline: unse=
+t; marker: unset; mask-type: unset; math-shift: unset; math-style: unset; m=
+ax-block-size: unset; max-height: unset; max-inline-size: unset; max-width:=
+ unset; min-block-size: unset; min-height: unset; min-inline-size: unset; m=
+in-width: unset; mix-blend-mode: unset; object-fit: unset; object-position:=
+ unset; object-view-box: unset; offset: unset; opacity: unset; order: unset=
+; orphans: unset; outline: unset; outline-offset: unset; overflow-anchor: u=
+nset; overflow-clip-margin: unset; overflow-wrap: unset; overflow: hidden; =
+overlay: unset; overscroll-behavior-block: unset; overscroll-behavior-inlin=
+e: unset; overscroll-behavior: unset; padding-block: unset; padding: unset;=
+ padding-inline: unset; page: unset; page-orientation: unset; paint-order: =
+unset; perspective: unset; perspective-origin: unset; pointer-events: unset=
+; position-try: unset; position-visibility: unset; quotes: unset; r: unset;=
+ resize: unset; right: unset; rotate: unset; ruby-position: unset; rx: unse=
+t; ry: unset; scale: unset; scroll-behavior: unset; scroll-margin-block: un=
+set; scroll-margin: unset; scroll-margin-inline: unset; scroll-padding-bloc=
+k: unset; scroll-padding: unset; scroll-padding-inline: unset; scroll-snap-=
+align: unset; scroll-snap-stop: unset; scroll-snap-type: unset; scroll-time=
+line: unset; scrollbar-color: unset; scrollbar-gutter: unset; scrollbar-wid=
+th: unset; shape-image-threshold: unset; shape-margin: unset; shape-outside=
+: unset; shape-rendering: unset; size: unset; speak: unset; stop-color: uns=
+et; stop-opacity: unset; stroke: unset; stroke-dasharray: unset; stroke-das=
+hoffset: unset; stroke-linecap: unset; stroke-linejoin: unset; stroke-miter=
+limit: unset; stroke-opacity: unset; stroke-width: unset; tab-size: unset; =
+table-layout: unset; text-align: unset; text-align-last: unset; text-anchor=
+: unset; text-combine-upright: unset; text-decoration: unset; text-decorati=
+on-skip-ink: unset; text-emphasis: unset; text-emphasis-position: unset; te=
+xt-indent: unset; text-overflow: unset; text-shadow: unset; text-size-adjus=
+t: unset; text-transform: unset; text-underline-offset: unset; text-underli=
+ne-position: unset; white-space: unset; timeline-scope: unset; top: 0px; to=
+uch-action: unset; transform: unset; transform-box: unset; transform-origin=
+: unset; transform-style: unset; transition-behavior: unset; transition-del=
+ay: 0.5s; transition-duration: unset; transition-property: height, width; t=
+ransition-timing-function: unset; translate: unset; user-select: unset; vec=
+tor-effect: unset; vertical-align: unset; view-timeline: unset; view-transi=
+tion-class: unset; view-transition-name: unset; visibility: unset; border-s=
+pacing: unset; -webkit-box-align: unset; -webkit-box-decoration-break: unse=
+t; -webkit-box-direction: unset; -webkit-box-flex: unset; -webkit-box-ordin=
+al-group: unset; -webkit-box-orient: unset; -webkit-box-pack: unset; -webki=
+t-box-reflect: unset; -webkit-line-break: unset; -webkit-line-clamp: unset;=
+ -webkit-mask-box-image: unset; -webkit-print-color-adjust: unset; -webkit-=
+rtl-ordering: unset; -webkit-ruby-position: unset; -webkit-tap-highlight-co=
+lor: unset; -webkit-text-combine: unset; -webkit-text-decorations-in-effect=
+: unset; -webkit-text-fill-color: unset; -webkit-text-security: unset; -web=
+kit-text-stroke: unset; -webkit-user-drag: unset; widows: unset; width: 0px=
+; will-change: unset; word-break: unset; word-spacing: unset; x: unset; y: =
+unset; z-index: unset; }
+
+._3Bduo2QYVuqBMNtJg9X9Vl { transition-delay: 0s; height: 100%; width: 100%;=
+ }
+
+._30_fsEF9__C2Xr5wuihOyH { color-scheme: unset; forced-color-adjust: unset;=
+ mask: unset; math-depth: unset; position: absolute; position-anchor: unset=
+; appearance: unset; color: unset; font: unset; font-palette: unset; font-s=
+ynthesis: unset; inset-area: unset; text-orientation: unset; text-rendering=
+: unset; text-spacing-trim: unset; -webkit-font-smoothing: unset; -webkit-l=
+ocale: unset; -webkit-text-orientation: unset; -webkit-writing-mode: unset;=
+ writing-mode: unset; zoom: unset; accent-color: unset; place-content: unse=
+t; place-items: unset; place-self: unset; alignment-baseline: unset; anchor=
+-name: unset; animation-composition: unset; animation: unset; app-region: u=
+nset; aspect-ratio: unset; backdrop-filter: unset; backface-visibility: uns=
+et; background-attachment: unset; background-blend-mode: unset; background-=
+clip: unset; background-color: rgba(255, 255, 255, 0.95); background-image:=
+ unset; background-origin: unset; background-position: unset; background-re=
+peat: unset; background-size: unset; baseline-shift: unset; baseline-source=
+: unset; block-size: unset; border-block: unset; border: unset; border-radi=
+us: unset; border-collapse: unset; border-end-end-radius: unset; border-end=
+-start-radius: unset; border-inline: unset; border-start-end-radius: unset;=
+ border-start-start-radius: unset; inset: 0px; box-shadow: unset; box-sizin=
+g: unset; break-after: unset; break-before: unset; break-inside: unset; buf=
+fered-rendering: unset; caption-side: unset; caret-color: unset; clear: uns=
+et; clip: unset; clip-path: unset; clip-rule: unset; color-interpolation: u=
+nset; color-interpolation-filters: unset; color-rendering: unset; columns: =
+unset; column-fill: unset; gap: unset; column-rule: unset; column-span: uns=
+et; contain: unset; contain-intrinsic-block-size: unset; contain-intrinsic-=
+size: unset; contain-intrinsic-inline-size: unset; container: unset; conten=
+t: unset; content-visibility: unset; counter-increment: unset; counter-rese=
+t: unset; counter-set: unset; cursor: unset; cx: unset; cy: unset; d: unset=
+; display: unset; dominant-baseline: unset; empty-cells: unset; field-sizin=
+g: unset; fill: unset; fill-opacity: unset; fill-rule: unset; filter: unset=
+; flex: unset; flex-flow: unset; float: unset; flood-color: unset; flood-op=
+acity: unset; grid: unset; grid-area: unset; height: unset; hyphenate-chara=
+cter: unset; hyphenate-limit-chars: unset; hyphens: unset; image-orientatio=
+n: unset; image-rendering: unset; initial-letter: unset; inline-size: unset=
+; inset-block: unset; inset-inline: unset; isolation: unset; letter-spacing=
+: unset; lighting-color: unset; line-break: unset; list-style: unset; margi=
+n-block: unset; margin: unset; margin-inline: unset; marker: unset; mask-ty=
+pe: unset; math-shift: unset; math-style: unset; max-block-size: unset; max=
+-height: unset; max-inline-size: unset; max-width: unset; min-block-size: u=
+nset; min-height: unset; min-inline-size: unset; min-width: unset; mix-blen=
+d-mode: unset; object-fit: unset; object-position: unset; object-view-box: =
+unset; offset: unset; opacity: 0; order: unset; orphans: unset; outline: un=
+set; outline-offset: unset; overflow-anchor: unset; overflow-clip-margin: u=
+nset; overflow-wrap: unset; overflow: unset; overlay: unset; overscroll-beh=
+avior-block: unset; overscroll-behavior-inline: unset; overscroll-behavior:=
+ unset; padding-block: unset; padding: unset; padding-inline: unset; page: =
+unset; page-orientation: unset; paint-order: unset; perspective: unset; per=
+spective-origin: unset; pointer-events: unset; position-try: unset; positio=
+n-visibility: unset; quotes: unset; r: unset; resize: unset; rotate: unset;=
+ ruby-position: unset; rx: unset; ry: unset; scale: unset; scroll-behavior:=
+ unset; scroll-margin-block: unset; scroll-margin: unset; scroll-margin-inl=
+ine: unset; scroll-padding-block: unset; scroll-padding: unset; scroll-padd=
+ing-inline: unset; scroll-snap-align: unset; scroll-snap-stop: unset; scrol=
+l-snap-type: unset; scroll-timeline: unset; scrollbar-color: unset; scrollb=
+ar-gutter: unset; scrollbar-width: unset; shape-image-threshold: unset; sha=
+pe-margin: unset; shape-outside: unset; shape-rendering: unset; size: unset=
+; speak: unset; stop-color: unset; stop-opacity: unset; stroke: unset; stro=
+ke-dasharray: unset; stroke-dashoffset: unset; stroke-linecap: unset; strok=
+e-linejoin: unset; stroke-miterlimit: unset; stroke-opacity: unset; stroke-=
+width: unset; tab-size: unset; table-layout: unset; text-align: unset; text=
+-align-last: unset; text-anchor: unset; text-combine-upright: unset; text-d=
+ecoration: unset; text-decoration-skip-ink: unset; text-emphasis: unset; te=
+xt-emphasis-position: unset; text-indent: unset; text-overflow: unset; text=
+-shadow: unset; text-size-adjust: unset; text-transform: unset; text-underl=
+ine-offset: unset; text-underline-position: unset; white-space: unset; time=
+line-scope: unset; touch-action: unset; transform: unset; transform-box: un=
+set; transform-origin: unset; transform-style: unset; transition-behavior: =
+unset; transition-delay: unset; transition-duration: 0.35s; transition-prop=
+erty: opacity; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); tr=
+anslate: unset; user-select: unset; vector-effect: unset; vertical-align: u=
+nset; view-timeline: unset; view-transition-class: unset; view-transition-n=
+ame: unset; visibility: unset; border-spacing: unset; -webkit-box-align: un=
+set; -webkit-box-decoration-break: unset; -webkit-box-direction: unset; -we=
+bkit-box-flex: unset; -webkit-box-ordinal-group: unset; -webkit-box-orient:=
+ unset; -webkit-box-pack: unset; -webkit-box-reflect: unset; -webkit-line-b=
+reak: unset; -webkit-line-clamp: unset; -webkit-mask-box-image: unset; -web=
+kit-print-color-adjust: unset; -webkit-rtl-ordering: unset; -webkit-ruby-po=
+sition: unset; -webkit-tap-highlight-color: unset; -webkit-text-combine: un=
+set; -webkit-text-decorations-in-effect: unset; -webkit-text-fill-color: un=
+set; -webkit-text-security: unset; -webkit-text-stroke: unset; -webkit-user=
+-drag: unset; widows: unset; width: unset; will-change: unset; word-break: =
+unset; word-spacing: unset; x: unset; y: unset; z-index: 100; }
+
+._3LDfv5nrJUdFH-BOjdAE42 { opacity: 1; }
+
+._3ApgnOTpu2GpPcaTn9AehH { color-scheme: unset; forced-color-adjust: unset;=
+ mask: unset; math-depth: unset; position: absolute; position-anchor: unset=
+; appearance: unset; color: unset; font: unset; font-palette: unset; font-s=
+ynthesis: unset; inset-area: unset; text-orientation: unset; text-rendering=
+: unset; text-spacing-trim: unset; -webkit-font-smoothing: unset; -webkit-l=
+ocale: unset; -webkit-text-orientation: unset; -webkit-writing-mode: unset;=
+ writing-mode: unset; zoom: unset; accent-color: unset; place-content: unse=
+t; place-items: unset; place-self: unset; alignment-baseline: unset; anchor=
+-name: unset; animation-composition: unset; animation: unset; app-region: u=
+nset; aspect-ratio: unset; backdrop-filter: unset; backface-visibility: uns=
+et; background-attachment: unset; background-blend-mode: unset; background-=
+clip: unset; background-color: white; background-image: unset; background-o=
+rigin: unset; background-position: unset; background-repeat: unset; backgro=
+und-size: unset; baseline-shift: unset; baseline-source: unset; block-size:=
+ unset; border-block: unset; border: unset; border-radius: unset; border-co=
+llapse: unset; border-end-end-radius: unset; border-end-start-radius: unset=
+; border-inline: unset; border-start-end-radius: unset; border-start-start-=
+radius: unset; bottom: unset; box-shadow: rgba(0, 0, 0, 0.28) 2px 2px 6px 0=
+px; box-sizing: unset; break-after: unset; break-before: unset; break-insid=
+e: unset; buffered-rendering: unset; caption-side: unset; caret-color: unse=
+t; clear: unset; clip: unset; clip-path: unset; clip-rule: unset; color-int=
+erpolation: unset; color-interpolation-filters: unset; color-rendering: uns=
+et; columns: unset; column-fill: unset; gap: unset; column-rule: unset; col=
+umn-span: unset; contain: unset; contain-intrinsic-block-size: unset; conta=
+in-intrinsic-size: unset; contain-intrinsic-inline-size: unset; container: =
+unset; content: unset; content-visibility: unset; counter-increment: unset;=
+ counter-reset: unset; counter-set: unset; cursor: unset; cx: unset; cy: un=
+set; d: unset; display: unset; dominant-baseline: unset; empty-cells: unset=
+; field-sizing: unset; fill: unset; fill-opacity: unset; fill-rule: unset; =
+filter: unset; flex: unset; flex-flow: unset; float: unset; flood-color: un=
+set; flood-opacity: unset; grid: unset; grid-area: unset; height: unset; hy=
+phenate-character: unset; hyphenate-limit-chars: unset; hyphens: unset; ima=
+ge-orientation: unset; image-rendering: unset; initial-letter: unset; inlin=
+e-size: unset; inset-block: unset; inset-inline: unset; isolation: unset; l=
+eft: 50%; letter-spacing: unset; lighting-color: unset; line-break: unset; =
+list-style: unset; margin-block: unset; margin: unset; margin-inline: unset=
+; marker: unset; mask-type: unset; math-shift: unset; math-style: unset; ma=
+x-block-size: unset; max-height: unset; max-inline-size: unset; max-width: =
+unset; min-block-size: unset; min-height: unset; min-inline-size: unset; mi=
+n-width: unset; mix-blend-mode: unset; object-fit: unset; object-position: =
+unset; object-view-box: unset; offset: unset; opacity: 0; order: unset; orp=
+hans: unset; outline: unset; outline-offset: unset; overflow-anchor: unset;=
+ overflow-clip-margin: unset; overflow-wrap: unset; overflow: unset; overla=
+y: unset; overscroll-behavior-block: unset; overscroll-behavior-inline: uns=
+et; overscroll-behavior: unset; padding-block: unset; padding: 40px 40px 20=
+px; padding-inline: unset; page: unset; page-orientation: unset; paint-orde=
+r: unset; perspective: unset; perspective-origin: unset; pointer-events: un=
+set; position-try: unset; position-visibility: unset; quotes: unset; r: uns=
+et; resize: unset; right: unset; rotate: unset; ruby-position: unset; rx: u=
+nset; ry: unset; scale: unset; scroll-behavior: unset; scroll-margin-block:=
+ unset; scroll-margin: unset; scroll-margin-inline: unset; scroll-padding-b=
+lock: unset; scroll-padding: unset; scroll-padding-inline: unset; scroll-sn=
+ap-align: unset; scroll-snap-stop: unset; scroll-snap-type: unset; scroll-t=
+imeline: unset; scrollbar-color: unset; scrollbar-gutter: unset; scrollbar-=
+width: unset; shape-image-threshold: unset; shape-margin: unset; shape-outs=
+ide: unset; shape-rendering: unset; size: unset; speak: unset; stop-color: =
+unset; stop-opacity: unset; stroke: unset; stroke-dasharray: unset; stroke-=
+dashoffset: unset; stroke-linecap: unset; stroke-linejoin: unset; stroke-mi=
+terlimit: unset; stroke-opacity: unset; stroke-width: unset; tab-size: unse=
+t; table-layout: unset; text-align: unset; text-align-last: unset; text-anc=
+hor: unset; text-combine-upright: unset; text-decoration: unset; text-decor=
+ation-skip-ink: unset; text-emphasis: unset; text-emphasis-position: unset;=
+ text-indent: unset; text-overflow: unset; text-shadow: unset; text-size-ad=
+just: unset; text-transform: unset; text-underline-offset: unset; text-unde=
+rline-position: unset; white-space: unset; timeline-scope: unset; top: 50%;=
+ touch-action: unset; transform: translate(-50%, -70%); transform-box: unse=
+t; transform-origin: unset; transform-style: unset; transition-behavior: un=
+set; transition-delay: 0.05s; transition-duration: 0.35s; transition-proper=
+ty: opacity, transform; transition-timing-function: cubic-bezier(0.4, 0, 0.=
+2, 1); translate: unset; user-select: unset; vector-effect: unset; vertical=
+-align: unset; view-timeline: unset; view-transition-class: unset; view-tra=
+nsition-name: unset; visibility: unset; border-spacing: unset; -webkit-box-=
+align: unset; -webkit-box-decoration-break: unset; -webkit-box-direction: u=
+nset; -webkit-box-flex: unset; -webkit-box-ordinal-group: unset; -webkit-bo=
+x-orient: unset; -webkit-box-pack: unset; -webkit-box-reflect: unset; -webk=
+it-line-break: unset; -webkit-line-clamp: unset; -webkit-mask-box-image: un=
+set; -webkit-print-color-adjust: unset; -webkit-rtl-ordering: unset; -webki=
+t-ruby-position: unset; -webkit-tap-highlight-color: unset; -webkit-text-co=
+mbine: unset; -webkit-text-decorations-in-effect: unset; -webkit-text-fill-=
+color: unset; -webkit-text-security: unset; -webkit-text-stroke: unset; -we=
+bkit-user-drag: unset; widows: unset; width: 460px; will-change: unset; wor=
+d-break: unset; word-spacing: unset; x: unset; y: unset; z-index: 101; }
+
+.vPR8b322uH7Tu1PXXEjs4 { transform: translate(-50%, -50%); opacity: 1; }
+
+._22mTIWS8G3HyBlz6Ccyvp { color-scheme: unset; forced-color-adjust: unset; =
+mask: unset; math-depth: unset; position: unset; position-anchor: unset; ap=
+pearance: unset; color: rgb(87, 86, 89); font-family: helvetica, arial, san=
+s-serif; font-feature-settings: unset; font-kerning: unset; font-optical-si=
+zing: unset; font-palette: unset; font-size: 24px; font-stretch: unset; fon=
+t-style: unset; font-synthesis: unset; font-variant: unset; font-variation-=
+settings: unset; font-weight: 600; inset-area: unset; text-orientation: uns=
+et; text-rendering: unset; text-spacing-trim: unset; -webkit-font-smoothing=
+: unset; -webkit-locale: unset; -webkit-text-orientation: unset; -webkit-wr=
+iting-mode: unset; writing-mode: unset; zoom: unset; accent-color: unset; p=
+lace-content: unset; place-items: unset; place-self: unset; alignment-basel=
+ine: unset; anchor-name: unset; animation-composition: unset; animation: un=
+set; app-region: unset; aspect-ratio: unset; backdrop-filter: unset; backfa=
+ce-visibility: unset; background: unset; background-blend-mode: unset; base=
+line-shift: unset; baseline-source: unset; block-size: unset; border-block:=
+ unset; border: unset; border-radius: unset; border-collapse: unset; border=
+-end-end-radius: unset; border-end-start-radius: unset; border-inline: unse=
+t; border-start-end-radius: unset; border-start-start-radius: unset; inset:=
+ unset; box-shadow: unset; box-sizing: unset; break-after: unset; break-bef=
+ore: unset; break-inside: unset; buffered-rendering: unset; caption-side: u=
+nset; caret-color: unset; clear: unset; clip: unset; clip-path: unset; clip=
+-rule: unset; color-interpolation: unset; color-interpolation-filters: unse=
+t; color-rendering: unset; columns: unset; column-fill: unset; gap: unset; =
+column-rule: unset; column-span: unset; contain: unset; contain-intrinsic-b=
+lock-size: unset; contain-intrinsic-size: unset; contain-intrinsic-inline-s=
+ize: unset; container: unset; content: unset; content-visibility: unset; co=
+unter-increment: unset; counter-reset: unset; counter-set: unset; cursor: u=
+nset; cx: unset; cy: unset; d: unset; display: block; dominant-baseline: un=
+set; empty-cells: unset; field-sizing: unset; fill: unset; fill-opacity: un=
+set; fill-rule: unset; filter: unset; flex: unset; flex-flow: unset; float:=
+ unset; flood-color: unset; flood-opacity: unset; grid: unset; grid-area: u=
+nset; height: unset; hyphenate-character: unset; hyphenate-limit-chars: uns=
+et; hyphens: unset; image-orientation: unset; image-rendering: unset; initi=
+al-letter: unset; inline-size: unset; inset-block: unset; inset-inline: uns=
+et; isolation: unset; letter-spacing: unset; lighting-color: unset; line-br=
+eak: unset; line-height: normal; list-style: unset; margin-block: unset; ma=
+rgin: 0px; margin-inline: unset; marker: unset; mask-type: unset; math-shif=
+t: unset; math-style: unset; max-block-size: unset; max-height: unset; max-=
+inline-size: unset; max-width: unset; min-block-size: unset; min-height: un=
+set; min-inline-size: unset; min-width: unset; mix-blend-mode: unset; objec=
+t-fit: unset; object-position: unset; object-view-box: unset; offset: unset=
+; opacity: unset; order: unset; orphans: unset; outline: unset; outline-off=
+set: unset; overflow-anchor: unset; overflow-clip-margin: unset; overflow-w=
+rap: unset; overflow: unset; overlay: unset; overscroll-behavior-block: uns=
+et; overscroll-behavior-inline: unset; overscroll-behavior: unset; padding-=
+block: unset; padding-bottom: 14px; padding-inline: unset; padding-left: un=
+set; padding-right: unset; padding-top: unset; page: unset; page-orientatio=
+n: unset; paint-order: unset; perspective: unset; perspective-origin: unset=
+; pointer-events: unset; position-try: unset; position-visibility: unset; q=
+uotes: unset; r: unset; resize: unset; rotate: unset; ruby-position: unset;=
+ rx: unset; ry: unset; scale: unset; scroll-behavior: unset; scroll-margin-=
+block: unset; scroll-margin: unset; scroll-margin-inline: unset; scroll-pad=
+ding-block: unset; scroll-padding: unset; scroll-padding-inline: unset; scr=
+oll-snap-align: unset; scroll-snap-stop: unset; scroll-snap-type: unset; sc=
+roll-timeline: unset; scrollbar-color: unset; scrollbar-gutter: unset; scro=
+llbar-width: unset; shape-image-threshold: unset; shape-margin: unset; shap=
+e-outside: unset; shape-rendering: unset; size: unset; speak: unset; stop-c=
+olor: unset; stop-opacity: unset; stroke: unset; stroke-dasharray: unset; s=
+troke-dashoffset: unset; stroke-linecap: unset; stroke-linejoin: unset; str=
+oke-miterlimit: unset; stroke-opacity: unset; stroke-width: unset; tab-size=
+: unset; table-layout: unset; text-align: left; text-align-last: unset; tex=
+t-anchor: unset; text-combine-upright: unset; text-decoration: unset; text-=
+decoration-skip-ink: unset; text-emphasis: unset; text-emphasis-position: u=
+nset; text-indent: unset; text-overflow: unset; text-shadow: unset; text-si=
+ze-adjust: unset; text-transform: unset; text-underline-offset: unset; text=
+-underline-position: unset; white-space: unset; timeline-scope: unset; touc=
+h-action: unset; transform: unset; transform-box: unset; transform-origin: =
+unset; transform-style: unset; transition: unset; translate: unset; user-se=
+lect: unset; vector-effect: unset; vertical-align: unset; view-timeline: un=
+set; view-transition-class: unset; view-transition-name: unset; visibility:=
+ unset; border-spacing: unset; -webkit-box-align: unset; -webkit-box-decora=
+tion-break: unset; -webkit-box-direction: unset; -webkit-box-flex: unset; -=
+webkit-box-ordinal-group: unset; -webkit-box-orient: unset; -webkit-box-pac=
+k: unset; -webkit-box-reflect: unset; -webkit-line-break: unset; -webkit-li=
+ne-clamp: unset; -webkit-mask-box-image: unset; -webkit-print-color-adjust:=
+ unset; -webkit-rtl-ordering: unset; -webkit-ruby-position: unset; -webkit-=
+tap-highlight-color: unset; -webkit-text-combine: unset; -webkit-text-decor=
+ations-in-effect: unset; -webkit-text-fill-color: unset; -webkit-text-secur=
+ity: unset; -webkit-text-stroke: unset; -webkit-user-drag: unset; widows: u=
+nset; width: unset; will-change: unset; word-break: break-all; word-spacing=
+: unset; x: unset; y: unset; z-index: unset; }
+
+._16elc3Tjq8tC_4OmNYalV0 { color-scheme: unset; forced-color-adjust: unset;=
+ mask: unset; math-depth: unset; position: unset; position-anchor: unset; a=
+ppearance: unset; color: rgb(87, 86, 89); font-family: helvetica, arial, sa=
+ns-serif; font-feature-settings: unset; font-kerning: unset; font-optical-s=
+izing: unset; font-palette: unset; font-size: 14px; font-stretch: unset; fo=
+nt-style: unset; font-synthesis: unset; font-variant: unset; font-variation=
+-settings: unset; font-weight: unset; inset-area: unset; text-orientation: =
+unset; text-rendering: unset; text-spacing-trim: unset; -webkit-font-smooth=
+ing: unset; -webkit-locale: unset; -webkit-text-orientation: unset; -webkit=
+-writing-mode: unset; writing-mode: unset; zoom: unset; accent-color: unset=
+; place-content: unset; place-items: unset; place-self: unset; alignment-ba=
+seline: unset; anchor-name: unset; animation-composition: unset; animation:=
+ unset; app-region: unset; aspect-ratio: unset; backdrop-filter: unset; bac=
+kface-visibility: unset; background: unset; background-blend-mode: unset; b=
+aseline-shift: unset; baseline-source: unset; block-size: unset; border-blo=
+ck: unset; border: unset; border-radius: unset; border-collapse: unset; bor=
+der-end-end-radius: unset; border-end-start-radius: unset; border-inline: u=
+nset; border-start-end-radius: unset; border-start-start-radius: unset; ins=
+et: unset; box-shadow: unset; box-sizing: unset; break-after: unset; break-=
+before: unset; break-inside: unset; buffered-rendering: unset; caption-side=
+: unset; caret-color: unset; clear: unset; clip: unset; clip-path: unset; c=
+lip-rule: unset; color-interpolation: unset; color-interpolation-filters: u=
+nset; color-rendering: unset; columns: unset; column-fill: unset; gap: unse=
+t; column-rule: unset; column-span: unset; contain: unset; contain-intrinsi=
+c-block-size: unset; contain-intrinsic-size: unset; contain-intrinsic-inlin=
+e-size: unset; container: unset; content: unset; content-visibility: unset;=
+ counter-increment: unset; counter-reset: unset; counter-set: unset; cursor=
+: unset; cx: unset; cy: unset; d: unset; display: block; dominant-baseline:=
+ unset; empty-cells: unset; field-sizing: unset; fill: unset; fill-opacity:=
+ unset; fill-rule: unset; filter: unset; flex: unset; flex-flow: unset; flo=
+at: unset; flood-color: unset; flood-opacity: unset; grid: unset; grid-area=
+: unset; height: unset; hyphenate-character: unset; hyphenate-limit-chars: =
+unset; hyphens: unset; image-orientation: unset; image-rendering: unset; in=
+itial-letter: unset; inline-size: unset; inset-block: unset; inset-inline: =
+unset; isolation: unset; letter-spacing: unset; lighting-color: unset; line=
+-break: unset; line-height: normal; list-style: unset; margin-block: unset;=
+ margin: 0px 0px 40px; margin-inline: unset; marker: unset; mask-type: unse=
+t; math-shift: unset; math-style: unset; max-block-size: unset; max-height:=
+ 65vh; max-inline-size: unset; max-width: unset; min-block-size: unset; min=
+-height: unset; min-inline-size: unset; min-width: unset; mix-blend-mode: u=
+nset; object-fit: unset; object-position: unset; object-view-box: unset; of=
+fset: unset; opacity: unset; order: unset; orphans: unset; outline: unset; =
+outline-offset: unset; overflow-anchor: unset; overflow-clip-margin: unset;=
+ overflow-wrap: unset; overflow-x: unset; overflow-y: auto; overlay: unset;=
+ overscroll-behavior-block: unset; overscroll-behavior-inline: unset; overs=
+croll-behavior: unset; padding-block: unset; padding: unset; padding-inline=
+: unset; page: unset; page-orientation: unset; paint-order: unset; perspect=
+ive: unset; perspective-origin: unset; pointer-events: unset; position-try:=
+ unset; position-visibility: unset; quotes: unset; r: unset; resize: unset;=
+ rotate: unset; ruby-position: unset; rx: unset; ry: unset; scale: unset; s=
+croll-behavior: unset; scroll-margin-block: unset; scroll-margin: unset; sc=
+roll-margin-inline: unset; scroll-padding-block: unset; scroll-padding: uns=
+et; scroll-padding-inline: unset; scroll-snap-align: unset; scroll-snap-sto=
+p: unset; scroll-snap-type: unset; scroll-timeline: unset; scrollbar-color:=
+ unset; scrollbar-gutter: unset; scrollbar-width: unset; shape-image-thresh=
+old: unset; shape-margin: unset; shape-outside: unset; shape-rendering: uns=
+et; size: unset; speak: unset; stop-color: unset; stop-opacity: unset; stro=
+ke: unset; stroke-dasharray: unset; stroke-dashoffset: unset; stroke-lineca=
+p: unset; stroke-linejoin: unset; stroke-miterlimit: unset; stroke-opacity:=
+ unset; stroke-width: unset; tab-size: unset; table-layout: unset; text-ali=
+gn: left; text-align-last: unset; text-anchor: unset; text-combine-upright:=
+ unset; text-decoration: unset; text-decoration-skip-ink: unset; text-empha=
+sis: unset; text-emphasis-position: unset; text-indent: unset; text-overflo=
+w: unset; text-shadow: unset; text-size-adjust: unset; text-transform: unse=
+t; text-underline-offset: unset; text-underline-position: unset; white-spac=
+e: unset; timeline-scope: unset; touch-action: unset; transform: unset; tra=
+nsform-box: unset; transform-origin: unset; transform-style: unset; transit=
+ion: unset; translate: unset; user-select: unset; vector-effect: unset; ver=
+tical-align: unset; view-timeline: unset; view-transition-class: unset; vie=
+w-transition-name: unset; visibility: unset; border-spacing: unset; -webkit=
+-box-align: unset; -webkit-box-decoration-break: unset; -webkit-box-directi=
+on: unset; -webkit-box-flex: unset; -webkit-box-ordinal-group: unset; -webk=
+it-box-orient: unset; -webkit-box-pack: unset; -webkit-box-reflect: unset; =
+-webkit-line-break: unset; -webkit-line-clamp: unset; -webkit-mask-box-imag=
+e: unset; -webkit-print-color-adjust: unset; -webkit-rtl-ordering: unset; -=
+webkit-ruby-position: unset; -webkit-tap-highlight-color: unset; -webkit-te=
+xt-combine: unset; -webkit-text-decorations-in-effect: unset; -webkit-text-=
+fill-color: unset; -webkit-text-security: unset; -webkit-text-stroke: unset=
+; -webkit-user-drag: unset; widows: unset; width: unset; will-change: unset=
+; word-break: unset; word-spacing: unset; x: unset; y: unset; z-index: unse=
+t; }
+
+._3lALuFW1OzDHKaJn4OGrSd { color-scheme: unset; forced-color-adjust: unset;=
+ mask: unset; math-depth: unset; position: unset; position-anchor: unset; a=
+ppearance: unset; color: white; font: unset; font-palette: unset; font-synt=
+hesis: unset; inset-area: unset; text-orientation: unset; text-rendering: u=
+nset; text-spacing-trim: unset; -webkit-font-smoothing: unset; -webkit-loca=
+le: unset; -webkit-text-orientation: unset; -webkit-writing-mode: unset; wr=
+iting-mode: unset; zoom: unset; accent-color: unset; place-content: unset; =
+place-items: unset; place-self: unset; alignment-baseline: unset; anchor-na=
+me: unset; animation-composition: unset; animation: unset; app-region: unse=
+t; aspect-ratio: unset; backdrop-filter: unset; backface-visibility: unset;=
+ background: unset; background-blend-mode: unset; baseline-shift: unset; ba=
+seline-source: unset; block-size: unset; border-block: unset; border: unset=
+; border-radius: unset; border-collapse: unset; border-end-end-radius: unse=
+t; border-end-start-radius: unset; border-inline: unset; border-start-end-r=
+adius: unset; border-start-start-radius: unset; inset: unset; box-shadow: u=
+nset; box-sizing: unset; break-after: unset; break-before: unset; break-ins=
+ide: unset; buffered-rendering: unset; caption-side: unset; caret-color: un=
+set; clear: unset; clip: unset; clip-path: unset; clip-rule: unset; color-i=
+nterpolation: unset; color-interpolation-filters: unset; color-rendering: u=
+nset; columns: unset; column-fill: unset; gap: unset; column-rule: unset; c=
+olumn-span: unset; contain: unset; contain-intrinsic-block-size: unset; con=
+tain-intrinsic-size: unset; contain-intrinsic-inline-size: unset; container=
+: unset; content: unset; content-visibility: unset; counter-increment: unse=
+t; counter-reset: unset; counter-set: unset; cursor: unset; cx: unset; cy: =
+unset; d: unset; display: block; dominant-baseline: unset; empty-cells: uns=
+et; field-sizing: unset; fill: unset; fill-opacity: unset; fill-rule: unset=
+; filter: unset; flex: unset; flex-flow: unset; float: unset; flood-color: =
+unset; flood-opacity: unset; grid: unset; grid-area: unset; height: unset; =
+hyphenate-character: unset; hyphenate-limit-chars: unset; hyphens: unset; i=
+mage-orientation: unset; image-rendering: unset; initial-letter: unset; inl=
+ine-size: unset; inset-block: unset; inset-inline: unset; isolation: unset;=
+ letter-spacing: unset; lighting-color: unset; line-break: unset; list-styl=
+e: unset; margin-block: unset; margin: unset; margin-inline: unset; marker:=
+ unset; mask-type: unset; math-shift: unset; math-style: unset; max-block-s=
+ize: unset; max-height: unset; max-inline-size: unset; max-width: unset; mi=
+n-block-size: unset; min-height: unset; min-inline-size: unset; min-width: =
+unset; mix-blend-mode: unset; object-fit: unset; object-position: unset; ob=
+ject-view-box: unset; offset: unset; opacity: unset; order: unset; orphans:=
+ unset; outline: unset; outline-offset: unset; overflow-anchor: unset; over=
+flow-clip-margin: unset; overflow-wrap: unset; overflow: unset; overlay: un=
+set; overscroll-behavior-block: unset; overscroll-behavior-inline: unset; o=
+verscroll-behavior: unset; padding-block: unset; padding: unset; padding-in=
+line: unset; page: unset; page-orientation: unset; paint-order: unset; pers=
+pective: unset; perspective-origin: unset; pointer-events: unset; position-=
+try: unset; position-visibility: unset; quotes: unset; r: unset; resize: un=
+set; rotate: unset; ruby-position: unset; rx: unset; ry: unset; scale: unse=
+t; scroll-behavior: unset; scroll-margin-block: unset; scroll-margin: unset=
+; scroll-margin-inline: unset; scroll-padding-block: unset; scroll-padding:=
+ unset; scroll-padding-inline: unset; scroll-snap-align: unset; scroll-snap=
+-stop: unset; scroll-snap-type: unset; scroll-timeline: unset; scrollbar-co=
+lor: unset; scrollbar-gutter: unset; scrollbar-width: unset; shape-image-th=
+reshold: unset; shape-margin: unset; shape-outside: unset; shape-rendering:=
+ unset; size: unset; speak: unset; stop-color: unset; stop-opacity: unset; =
+stroke: unset; stroke-dasharray: unset; stroke-dashoffset: unset; stroke-li=
+necap: unset; stroke-linejoin: unset; stroke-miterlimit: unset; stroke-opac=
+ity: unset; stroke-width: unset; tab-size: unset; table-layout: unset; text=
+-align: right; text-align-last: unset; text-anchor: unset; text-combine-upr=
+ight: unset; text-decoration: unset; text-decoration-skip-ink: unset; text-=
+emphasis: unset; text-emphasis-position: unset; text-indent: unset; text-ov=
+erflow: unset; text-shadow: unset; text-size-adjust: unset; text-transform:=
+ unset; text-underline-offset: unset; text-underline-position: unset; white=
+-space: unset; timeline-scope: unset; touch-action: unset; transform: unset=
+; transform-box: unset; transform-origin: unset; transform-style: unset; tr=
+ansition: unset; translate: unset; user-select: unset; vector-effect: unset=
+; vertical-align: unset; view-timeline: unset; view-transition-class: unset=
+; view-transition-name: unset; visibility: unset; border-spacing: unset; -w=
+ebkit-box-align: unset; -webkit-box-decoration-break: unset; -webkit-box-di=
+rection: unset; -webkit-box-flex: unset; -webkit-box-ordinal-group: unset; =
+-webkit-box-orient: unset; -webkit-box-pack: unset; -webkit-box-reflect: un=
+set; -webkit-line-break: unset; -webkit-line-clamp: unset; -webkit-mask-box=
+-image: unset; -webkit-print-color-adjust: unset; -webkit-rtl-ordering: uns=
+et; -webkit-ruby-position: unset; -webkit-tap-highlight-color: unset; -webk=
+it-text-combine: unset; -webkit-text-decorations-in-effect: unset; -webkit-=
+text-fill-color: unset; -webkit-text-security: unset; -webkit-text-stroke: =
+unset; -webkit-user-drag: unset; widows: unset; width: unset; will-change: =
+unset; word-break: unset; word-spacing: unset; x: unset; y: unset; z-index:=
+ unset; }
+
+._3ZtVD5Ncf0L80JuZWXvdJZ { color-scheme: initial; forced-color-adjust: init=
+ial; mask: initial; math-depth: initial; position: relative; position-ancho=
+r: initial; appearance: initial; color: rgb(255, 255, 255); font-family: he=
+lvetica, arial, sans-serif; font-feature-settings: initial; font-kerning: i=
+nitial; font-optical-sizing: initial; font-palette: initial; font-size: 14p=
+x; font-stretch: initial; font-style: initial; font-synthesis: initial; fon=
+t-variant: initial; font-variation-settings: initial; font-weight: 400; ins=
+et-area: initial; text-orientation: initial; text-rendering: initial; text-=
+spacing-trim: initial; -webkit-font-smoothing: initial; -webkit-locale: ini=
+tial; -webkit-text-orientation: initial; -webkit-writing-mode: initial; wri=
+ting-mode: initial; zoom: initial; accent-color: initial; place-content: ce=
+nter; align-items: center; place-self: initial; alignment-baseline: initial=
+; anchor-name: initial; animation-composition: initial; animation: initial;=
+ app-region: initial; aspect-ratio: initial; backdrop-filter: initial; back=
+face-visibility: initial; background: rgb(0, 151, 207); background-blend-mo=
+de: initial; baseline-shift: initial; baseline-source: initial; block-size:=
+ initial; border-block: initial; border: 0px; border-radius: 2px; border-co=
+llapse: initial; border-end-end-radius: initial; border-end-start-radius: i=
+nitial; border-inline: initial; border-start-end-radius: initial; border-st=
+art-start-radius: initial; inset: initial; box-shadow: initial; box-sizing:=
+ initial; break-after: initial; break-before: initial; break-inside: initia=
+l; buffered-rendering: initial; caption-side: initial; caret-color: initial=
+; clear: initial; clip: initial; clip-path: initial; clip-rule: initial; co=
+lor-interpolation: initial; color-interpolation-filters: initial; color-ren=
+dering: initial; columns: initial; column-fill: initial; gap: initial; colu=
+mn-rule: initial; column-span: initial; contain: initial; contain-intrinsic=
+-block-size: initial; contain-intrinsic-size: initial; contain-intrinsic-in=
+line-size: initial; container: initial; content: initial; content-visibilit=
+y: initial; counter-increment: initial; counter-reset: initial; counter-set=
+: initial; cursor: pointer; cx: initial; cy: initial; d: initial; display: =
+inline-block; dominant-baseline: initial; empty-cells: initial; field-sizin=
+g: initial; fill: initial; fill-opacity: initial; fill-rule: initial; filte=
+r: initial; flex: initial; flex-direction: row; flex-wrap: initial; float: =
+initial; flood-color: initial; flood-opacity: initial; grid: initial; grid-=
+area: initial; height: 40px; hyphenate-character: initial; hyphenate-limit-=
+chars: initial; hyphens: initial; image-orientation: initial; image-renderi=
+ng: initial; initial-letter: initial; inline-size: initial; inset-block: in=
+itial; inset-inline: initial; isolation: initial; justify-items: initial; l=
+etter-spacing: initial; lighting-color: initial; line-break: initial; line-=
+height: 40px; list-style: initial; margin-block: initial; margin-bottom: 0p=
+x; margin-inline: initial; margin-left: initial; margin-right: initial; mar=
+gin-top: initial; marker: initial; mask-type: initial; math-shift: initial;=
+ math-style: initial; max-block-size: initial; max-height: initial; max-inl=
+ine-size: initial; max-width: initial; min-block-size: initial; min-height:=
+ initial; min-inline-size: initial; min-width: initial; mix-blend-mode: ini=
+tial; object-fit: initial; object-position: initial; object-view-box: initi=
+al; offset: initial; opacity: initial; order: initial; orphans: initial; ou=
+tline: initial; outline-offset: initial; overflow-anchor: initial; overflow=
+-clip-margin: initial; overflow-wrap: initial; overflow: hidden; overlay: i=
+nitial; overscroll-behavior-block: initial; overscroll-behavior-inline: ini=
+tial; overscroll-behavior: initial; padding-block: initial; padding: 0px 30=
+px; padding-inline: initial; page: initial; page-orientation: initial; pain=
+t-order: initial; perspective: initial; perspective-origin: initial; pointe=
+r-events: initial; position-try: initial; position-visibility: initial; quo=
+tes: initial; r: initial; resize: initial; rotate: initial; ruby-position: =
+initial; rx: initial; ry: initial; scale: initial; scroll-behavior: initial=
+; scroll-margin-block: initial; scroll-margin: initial; scroll-margin-inlin=
+e: initial; scroll-padding-block: initial; scroll-padding: initial; scroll-=
+padding-inline: initial; scroll-snap-align: initial; scroll-snap-stop: init=
+ial; scroll-snap-type: initial; scroll-timeline: initial; scrollbar-color: =
+initial; scrollbar-gutter: initial; scrollbar-width: initial; shape-image-t=
+hreshold: initial; shape-margin: initial; shape-outside: initial; shape-ren=
+dering: initial; size: initial; speak: initial; stop-color: initial; stop-o=
+pacity: initial; stroke: initial; stroke-dasharray: initial; stroke-dashoff=
+set: initial; stroke-linecap: initial; stroke-linejoin: initial; stroke-mit=
+erlimit: initial; stroke-opacity: initial; stroke-width: initial; tab-size:=
+ initial; table-layout: initial; text-align: center; text-align-last: initi=
+al; text-anchor: initial; text-combine-upright: initial; text-decoration: n=
+one; text-decoration-skip-ink: initial; text-emphasis: initial; text-emphas=
+is-position: initial; text-indent: initial; text-overflow: initial; text-sh=
+adow: initial; text-size-adjust: initial; text-transform: initial; text-und=
+erline-offset: initial; text-underline-position: initial; white-space: nowr=
+ap; timeline-scope: initial; touch-action: initial; transform: initial; tra=
+nsform-box: initial; transform-origin: initial; transform-style: initial; t=
+ransition: background-color 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0s; translate=
+: initial; user-select: none; vector-effect: initial; vertical-align: middl=
+e; view-timeline: initial; view-transition-class: initial; view-transition-=
+name: initial; visibility: initial; border-spacing: initial; -webkit-box-al=
+ign: initial; -webkit-box-decoration-break: initial; -webkit-box-direction:=
+ initial; -webkit-box-flex: initial; -webkit-box-ordinal-group: initial; -w=
+ebkit-box-orient: initial; -webkit-box-pack: initial; -webkit-box-reflect: =
+initial; -webkit-line-break: initial; -webkit-line-clamp: initial; -webkit-=
+mask-box-image: initial; -webkit-print-color-adjust: initial; -webkit-rtl-o=
+rdering: initial; -webkit-ruby-position: initial; -webkit-tap-highlight-col=
+or: initial; -webkit-text-combine: initial; -webkit-text-decorations-in-eff=
+ect: initial; -webkit-text-fill-color: initial; -webkit-text-security: init=
+ial; -webkit-text-stroke: initial; -webkit-user-drag: initial; widows: init=
+ial; width: initial; will-change: initial; word-break: initial; word-spacin=
+g: initial; x: initial; y: initial; z-index: initial; }
+
+._3ZtVD5Ncf0L80JuZWXvdJZ:active { background-color: rgb(3, 187, 255); }
+
+._3ZtVD5Ncf0L80JuZWXvdJZ:focus { outline: rgb(0, 151, 207) solid 1px; outli=
+ne-offset: 2px; }
+------MultipartBoundary--vVLRoY6PHEa8g2rKwngdF4Z1QofAdXr8fXYaNvHes7----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: blob:https://octodoodle.vercel.app/1e748775-5c25-4168-9b06-fc14290b76c6
+
+@charset "utf-8";
+
+._28iyuGPZ2h-aEVPD3i6lpi { font-size: 14px; font-weight: 400; line-height: =
+18px; -webkit-font-smoothing: antialiased; font-family: helvetica, arial, s=
+ans-serif !important; }
+
+.EQ62PnpB1DDRrPwRT3AKj { background: rgb(255, 255, 255); box-sizing: border=
+-box; box-shadow: rgba(0, 0, 0, 0.1) 4px 4px 15px; border: 1px solid rgb(11=
+3, 113, 113); padding: 24px; color: rgb(111, 111, 111); font-size: 12px; wi=
+dth: 380px; height: 100%; position: absolute; }
+
+.EQ62PnpB1DDRrPwRT3AKj ._3toxf5ctxSmg9abopuqAKJ { font-size: 12px; font-wei=
+ght: 400; color: rgb(111, 111, 111); margin-top: 0px; margin-bottom: 16px; =
+}
+
+.EQ62PnpB1DDRrPwRT3AKj ._3toxf5ctxSmg9abopuqAKJ strong { color: rgb(0, 0, 0=
+); font-weight: 700; font-size: 15px; line-height: 1.5; -webkit-font-smooth=
+ing: antialiased; font-family: helvetica, arial, sans-serif !important; }
+
+.EQ62PnpB1DDRrPwRT3AKj p { font-size: 12px; margin: 0px 0px 16px; line-heig=
+ht: 18px; padding: 0px; }
+
+._20Whiarh1uNWgED8vjBTfF { color-scheme: unset; forced-color-adjust: unset;=
+ mask: unset; math-depth: unset; position: absolute; position-anchor: unset=
+; appearance: unset; color: unset; font: unset; font-palette: unset; font-s=
+ynthesis: unset; inset-area: unset; text-orientation: unset; text-rendering=
+: unset; text-spacing-trim: unset; -webkit-font-smoothing: unset; -webkit-l=
+ocale: unset; -webkit-text-orientation: unset; -webkit-writing-mode: unset;=
+ writing-mode: unset; zoom: unset; accent-color: unset; place-content: unse=
+t; place-items: unset; place-self: unset; alignment-baseline: unset; anchor=
+-name: unset; animation-composition: unset; animation: unset; app-region: u=
+nset; aspect-ratio: unset; backdrop-filter: unset; backface-visibility: uns=
+et; background-attachment: unset; background-blend-mode: unset; background-=
+clip: unset; background-color: rgb(7, 138, 171); background-image: unset; b=
+ackground-origin: unset; background-position: unset; background-repeat: uns=
+et; background-size: unset; baseline-shift: unset; baseline-source: unset; =
+block-size: unset; border-block: unset; border: unset; border-radius: 50%; =
+border-collapse: unset; border-end-end-radius: unset; border-end-start-radi=
+us: unset; border-inline: unset; border-start-end-radius: unset; border-sta=
+rt-start-radius: unset; bottom: unset; box-shadow: rgba(0, 0, 0, 0.5) 0px 1=
+px 10px; box-sizing: unset; break-after: unset; break-before: unset; break-=
+inside: unset; buffered-rendering: unset; caption-side: unset; caret-color:=
+ unset; clear: unset; clip: unset; clip-path: unset; clip-rule: unset; colo=
+r-interpolation: unset; color-interpolation-filters: unset; color-rendering=
+: unset; columns: unset; column-fill: unset; gap: unset; column-rule: unset=
+; column-span: unset; contain: unset; contain-intrinsic-block-size: unset; =
+contain-intrinsic-size: unset; contain-intrinsic-inline-size: unset; contai=
+ner: unset; content: unset; content-visibility: unset; counter-increment: u=
+nset; counter-reset: unset; counter-set: unset; cursor: unset; cx: unset; c=
+y: unset; d: unset; display: block; dominant-baseline: unset; empty-cells: =
+unset; field-sizing: unset; fill: unset; fill-opacity: unset; fill-rule: un=
+set; filter: unset; flex: unset; flex-flow: unset; float: unset; flood-colo=
+r: unset; flood-opacity: unset; grid: unset; grid-area: unset; height: 42px=
+; hyphenate-character: unset; hyphenate-limit-chars: unset; hyphens: unset;=
+ image-orientation: unset; image-rendering: unset; initial-letter: unset; i=
+nline-size: unset; inset-block: unset; inset-inline: unset; isolation: unse=
+t; left: unset; letter-spacing: unset; lighting-color: unset; line-break: u=
+nset; list-style: unset; margin-block: unset; margin: unset; margin-inline:=
+ unset; marker: unset; mask-type: unset; math-shift: unset; math-style: uns=
+et; max-block-size: unset; max-height: unset; max-inline-size: unset; max-w=
+idth: unset; min-block-size: unset; min-height: unset; min-inline-size: uns=
+et; min-width: unset; mix-blend-mode: unset; object-fit: unset; object-posi=
+tion: unset; object-view-box: unset; offset: unset; opacity: unset; order: =
+unset; orphans: unset; outline: unset; outline-offset: unset; overflow-anch=
+or: unset; overflow-clip-margin: unset; overflow-wrap: unset; overflow: uns=
+et; overlay: unset; overscroll-behavior-block: unset; overscroll-behavior-i=
+nline: unset; overscroll-behavior: unset; padding-block: unset; padding: un=
+set; padding-inline: unset; page: unset; page-orientation: unset; paint-ord=
+er: unset; perspective: unset; perspective-origin: unset; pointer-events: u=
+nset; position-try: unset; position-visibility: unset; quotes: unset; r: un=
+set; resize: unset; right: unset; rotate: unset; ruby-position: unset; rx: =
+unset; ry: unset; scale: unset; scroll-behavior: unset; scroll-margin-block=
+: unset; scroll-margin: unset; scroll-margin-inline: unset; scroll-padding-=
+block: unset; scroll-padding: unset; scroll-padding-inline: unset; scroll-s=
+nap-align: unset; scroll-snap-stop: unset; scroll-snap-type: unset; scroll-=
+timeline: unset; scrollbar-color: unset; scrollbar-gutter: unset; scrollbar=
+-width: unset; shape-image-threshold: unset; shape-margin: unset; shape-out=
+side: unset; shape-rendering: unset; size: unset; speak: unset; stop-color:=
+ unset; stop-opacity: unset; stroke: unset; stroke-dasharray: unset; stroke=
+-dashoffset: unset; stroke-linecap: unset; stroke-linejoin: unset; stroke-m=
+iterlimit: unset; stroke-opacity: unset; stroke-width: unset; tab-size: uns=
+et; table-layout: unset; text-align: unset; text-align-last: unset; text-an=
+chor: unset; text-combine-upright: unset; text-decoration: unset; text-deco=
+ration-skip-ink: unset; text-emphasis: unset; text-emphasis-position: unset=
+; text-indent: unset; text-overflow: unset; text-shadow: unset; text-size-a=
+djust: unset; text-transform: unset; text-underline-offset: unset; text-und=
+erline-position: unset; white-space: unset; timeline-scope: unset; top: 16p=
+x; touch-action: unset; transform: unset; transform-box: unset; transform-o=
+rigin: unset; transform-style: unset; transition: unset; translate: unset; =
+user-select: unset; vector-effect: unset; vertical-align: unset; view-timel=
+ine: unset; view-transition-class: unset; view-transition-name: unset; visi=
+bility: unset; border-spacing: unset; -webkit-box-align: unset; -webkit-box=
+-decoration-break: unset; -webkit-box-direction: unset; -webkit-box-flex: u=
+nset; -webkit-box-ordinal-group: unset; -webkit-box-orient: unset; -webkit-=
+box-pack: unset; -webkit-box-reflect: unset; -webkit-line-break: unset; -we=
+bkit-line-clamp: unset; -webkit-mask-box-image: unset; -webkit-print-color-=
+adjust: unset; -webkit-rtl-ordering: unset; -webkit-ruby-position: unset; -=
+webkit-tap-highlight-color: unset; -webkit-text-combine: unset; -webkit-tex=
+t-decorations-in-effect: unset; -webkit-text-fill-color: unset; -webkit-tex=
+t-security: unset; -webkit-text-stroke: unset; -webkit-user-drag: unset; wi=
+dows: unset; width: 42px; will-change: unset; word-break: unset; word-spaci=
+ng: unset; x: unset; y: unset; z-index: unset; }
+
+._20Whiarh1uNWgED8vjBTfF:hover { cursor: pointer; }
+
+._20Whiarh1uNWgED8vjBTfF:focus { outline: rgb(0, 151, 207) auto 5px; }
+
+._9WNyytrxsL-LjJgw6Cydk { background-color: rgb(217, 217, 217); border-radi=
+us: 2px; float: right; font-size: 12px; text-transform: uppercase; border: =
+1px solid rgb(217, 217, 217); color: rgb(0, 0, 0); cursor: pointer; font-we=
+ight: 600; padding: 4px 16px; line-height: 1.5; letter-spacing: 0.5px; -web=
+kit-font-smoothing: antialiased; font-family: helvetica, arial, sans-serif =
+!important; }
+
+.blP1Oc4LUJ2bB_Xs7lbfH { color-scheme: unset; forced-color-adjust: unset; m=
+ask: unset; math-depth: unset; position: unset; position-anchor: unset; app=
+earance: unset; color: rgb(255, 255, 255); font: unset; font-palette: unset=
+; font-synthesis: unset; inset-area: unset; text-orientation: unset; text-r=
+endering: unset; text-spacing-trim: unset; -webkit-font-smoothing: unset; -=
+webkit-locale: unset; -webkit-text-orientation: unset; -webkit-writing-mode=
+: unset; writing-mode: unset; zoom: unset; accent-color: unset; place-conte=
+nt: unset; place-items: unset; place-self: unset; alignment-baseline: unset=
+; anchor-name: unset; animation-composition: unset; animation: unset; app-r=
+egion: unset; aspect-ratio: unset; backdrop-filter: unset; backface-visibil=
+ity: unset; background: unset; background-blend-mode: unset; baseline-shift=
+: unset; baseline-source: unset; block-size: unset; border-block: unset; bo=
+rder: unset; border-radius: unset; border-collapse: unset; border-end-end-r=
+adius: unset; border-end-start-radius: unset; border-inline: unset; border-=
+start-end-radius: unset; border-start-start-radius: unset; inset: unset; bo=
+x-shadow: unset; box-sizing: unset; break-after: unset; break-before: unset=
+; break-inside: unset; buffered-rendering: unset; caption-side: unset; care=
+t-color: unset; clear: unset; clip: unset; clip-path: unset; clip-rule: uns=
+et; color-interpolation: unset; color-interpolation-filters: unset; color-r=
+endering: unset; columns: unset; column-fill: unset; gap: unset; column-rul=
+e: unset; column-span: unset; contain: unset; contain-intrinsic-block-size:=
+ unset; contain-intrinsic-size: unset; contain-intrinsic-inline-size: unset=
+; container: unset; content: unset; content-visibility: unset; counter-incr=
+ement: unset; counter-reset: unset; counter-set: unset; cursor: unset; cx: =
+unset; cy: unset; d: unset; display: inline-block; dominant-baseline: unset=
+; empty-cells: unset; field-sizing: unset; fill: unset; fill-opacity: unset=
+; fill-rule: unset; filter: unset; flex: unset; flex-flow: unset; float: un=
+set; flood-color: unset; flood-opacity: unset; grid: unset; grid-area: unse=
+t; height: 42px; hyphenate-character: unset; hyphenate-limit-chars: unset; =
+hyphens: unset; image-orientation: unset; image-rendering: unset; initial-l=
+etter: unset; inline-size: unset; inset-block: unset; inset-inline: unset; =
+isolation: unset; letter-spacing: unset; lighting-color: unset; line-break:=
+ unset; list-style: unset; margin-block: unset; margin: unset; margin-inlin=
+e: unset; marker: unset; mask-type: unset; math-shift: unset; math-style: u=
+nset; max-block-size: unset; max-height: unset; max-inline-size: unset; max=
+-width: unset; min-block-size: unset; min-height: unset; min-inline-size: u=
+nset; min-width: unset; mix-blend-mode: unset; object-fit: unset; object-po=
+sition: unset; object-view-box: unset; offset: unset; opacity: unset; order=
+: unset; orphans: unset; outline: unset; outline-offset: unset; overflow-an=
+chor: unset; overflow-clip-margin: unset; overflow-wrap: unset; overflow: u=
+nset; overlay: unset; overscroll-behavior-block: unset; overscroll-behavior=
+-inline: unset; overscroll-behavior: unset; padding-block: unset; padding: =
+unset; padding-inline: unset; page: unset; page-orientation: unset; paint-o=
+rder: unset; perspective: unset; perspective-origin: unset; pointer-events:=
+ unset; position-try: unset; position-visibility: unset; quotes: unset; r: =
+unset; resize: unset; rotate: unset; ruby-position: unset; rx: unset; ry: u=
+nset; scale: unset; scroll-behavior: unset; scroll-margin-block: unset; scr=
+oll-margin: unset; scroll-margin-inline: unset; scroll-padding-block: unset=
+; scroll-padding: unset; scroll-padding-inline: unset; scroll-snap-align: u=
+nset; scroll-snap-stop: unset; scroll-snap-type: unset; scroll-timeline: un=
+set; scrollbar-color: unset; scrollbar-gutter: unset; scrollbar-width: unse=
+t; shape-image-threshold: unset; shape-margin: unset; shape-outside: unset;=
+ shape-rendering: unset; size: unset; speak: unset; stop-color: unset; stop=
+-opacity: unset; stroke: unset; stroke-dasharray: unset; stroke-dashoffset:=
+ unset; stroke-linecap: unset; stroke-linejoin: unset; stroke-miterlimit: u=
+nset; stroke-opacity: unset; stroke-width: unset; tab-size: unset; table-la=
+yout: unset; text-align: unset; text-align-last: unset; text-anchor: unset;=
+ text-combine-upright: unset; text-decoration: unset; text-decoration-skip-=
+ink: unset; text-emphasis: unset; text-emphasis-position: unset; text-inden=
+t: unset; text-overflow: unset; text-shadow: unset; text-size-adjust: unset=
+; text-transform: unset; text-underline-offset: unset; text-underline-posit=
+ion: unset; white-space: unset; timeline-scope: unset; touch-action: unset;=
+ transform: unset; transform-box: unset; transform-origin: unset; transform=
+-style: unset; transition: unset; translate: unset; user-select: unset; vec=
+tor-effect: unset; vertical-align: unset; view-timeline: unset; view-transi=
+tion-class: unset; view-transition-name: unset; visibility: unset; border-s=
+pacing: unset; -webkit-box-align: unset; -webkit-box-decoration-break: unse=
+t; -webkit-box-direction: unset; -webkit-box-flex: unset; -webkit-box-ordin=
+al-group: unset; -webkit-box-orient: unset; -webkit-box-pack: unset; -webki=
+t-box-reflect: unset; -webkit-line-break: unset; -webkit-line-clamp: unset;=
+ -webkit-mask-box-image: unset; -webkit-print-color-adjust: unset; -webkit-=
+rtl-ordering: unset; -webkit-ruby-position: unset; -webkit-tap-highlight-co=
+lor: unset; -webkit-text-combine: unset; -webkit-text-decorations-in-effect=
+: unset; -webkit-text-fill-color: unset; -webkit-text-security: unset; -web=
+kit-text-stroke: unset; -webkit-user-drag: unset; widows: unset; width: 42p=
+x; will-change: unset; word-break: unset; word-spacing: unset; x: unset; y:=
+ unset; z-index: unset; }
+
+._2XGTs9dJM7_S5_SDX_7_3u { color-scheme: unset; forced-color-adjust: unset;=
+ mask: unset; math-depth: unset; position: unset; position-anchor: unset; a=
+ppearance: unset; color: rgb(255, 255, 255); font: unset; font-palette: uns=
+et; font-synthesis: unset; inset-area: unset; text-orientation: unset; text=
+-rendering: unset; text-spacing-trim: unset; -webkit-font-smoothing: unset;=
+ -webkit-locale: unset; -webkit-text-orientation: unset; -webkit-writing-mo=
+de: unset; writing-mode: unset; zoom: unset; accent-color: unset; place-con=
+tent: unset; place-items: unset; place-self: unset; alignment-baseline: uns=
+et; anchor-name: unset; animation-composition: unset; animation: unset; app=
+-region: unset; aspect-ratio: unset; backdrop-filter: unset; backface-visib=
+ility: unset; background: unset; background-blend-mode: unset; baseline-shi=
+ft: unset; baseline-source: unset; block-size: unset; border-block: unset; =
+border: unset; border-radius: unset; border-collapse: unset; border-end-end=
+-radius: unset; border-end-start-radius: unset; border-inline: unset; borde=
+r-start-end-radius: unset; border-start-start-radius: unset; inset: unset; =
+box-shadow: unset; box-sizing: unset; break-after: unset; break-before: uns=
+et; break-inside: unset; buffered-rendering: unset; caption-side: unset; ca=
+ret-color: unset; clear: unset; clip: unset; clip-path: unset; clip-rule: u=
+nset; color-interpolation: unset; color-interpolation-filters: unset; color=
+-rendering: unset; columns: unset; column-fill: unset; gap: unset; column-r=
+ule: unset; column-span: unset; contain: unset; contain-intrinsic-block-siz=
+e: unset; contain-intrinsic-size: unset; contain-intrinsic-inline-size: uns=
+et; container: unset; content: unset; content-visibility: unset; counter-in=
+crement: unset; counter-reset: unset; counter-set: unset; cursor: unset; cx=
+: unset; cy: unset; d: unset; display: inline-block; dominant-baseline: uns=
+et; empty-cells: unset; field-sizing: unset; fill: unset; fill-opacity: uns=
+et; fill-rule: unset; filter: unset; flex: unset; flex-flow: unset; float: =
+unset; flood-color: unset; flood-opacity: unset; grid: unset; grid-area: un=
+set; height: unset; hyphenate-character: unset; hyphenate-limit-chars: unse=
+t; hyphens: unset; image-orientation: unset; image-rendering: unset; initia=
+l-letter: unset; inline-size: unset; inset-block: unset; inset-inline: unse=
+t; isolation: unset; letter-spacing: unset; lighting-color: unset; line-bre=
+ak: unset; list-style: unset; margin-block: unset; margin: unset; margin-in=
+line: unset; marker: unset; mask-type: unset; math-shift: unset; math-style=
+: unset; max-block-size: unset; max-height: unset; max-inline-size: unset; =
+max-width: unset; min-block-size: unset; min-height: unset; min-inline-size=
+: unset; min-width: unset; mix-blend-mode: unset; object-fit: unset; object=
+-position: unset; object-view-box: unset; offset: unset; opacity: unset; or=
+der: unset; orphans: unset; outline: unset; outline-offset: unset; overflow=
+-anchor: unset; overflow-clip-margin: unset; overflow-wrap: unset; overflow=
+: unset; overlay: unset; overscroll-behavior-block: unset; overscroll-behav=
+ior-inline: unset; overscroll-behavior: unset; padding-block: unset; paddin=
+g: unset; padding-inline: unset; page: unset; page-orientation: unset; pain=
+t-order: unset; perspective: unset; perspective-origin: unset; pointer-even=
+ts: unset; position-try: unset; position-visibility: unset; quotes: unset; =
+r: unset; resize: unset; rotate: unset; ruby-position: unset; rx: unset; ry=
+: unset; scale: unset; scroll-behavior: unset; scroll-margin-block: unset; =
+scroll-margin: unset; scroll-margin-inline: unset; scroll-padding-block: un=
+set; scroll-padding: unset; scroll-padding-inline: unset; scroll-snap-align=
+: unset; scroll-snap-stop: unset; scroll-snap-type: unset; scroll-timeline:=
+ unset; scrollbar-color: unset; scrollbar-gutter: unset; scrollbar-width: u=
+nset; shape-image-threshold: unset; shape-margin: unset; shape-outside: uns=
+et; shape-rendering: unset; size: unset; speak: unset; stop-color: unset; s=
+top-opacity: unset; stroke: unset; stroke-dasharray: unset; stroke-dashoffs=
+et: unset; stroke-linecap: unset; stroke-linejoin: unset; stroke-miterlimit=
+: unset; stroke-opacity: unset; stroke-width: unset; tab-size: unset; table=
+-layout: unset; text-align: unset; text-align-last: unset; text-anchor: uns=
+et; text-combine-upright: unset; text-decoration: unset; text-decoration-sk=
+ip-ink: unset; text-emphasis: unset; text-emphasis-position: unset; text-in=
+dent: unset; text-overflow: unset; text-shadow: unset; text-size-adjust: un=
+set; text-transform: unset; text-underline-offset: unset; text-underline-po=
+sition: unset; white-space: unset; timeline-scope: unset; touch-action: uns=
+et; transform: unset; transform-box: unset; transform-origin: unset; transf=
+orm-style: unset; transition: unset; translate: unset; user-select: unset; =
+vector-effect: unset; vertical-align: unset; view-timeline: unset; view-tra=
+nsition-class: unset; view-transition-name: unset; visibility: unset; borde=
+r-spacing: unset; -webkit-box-align: unset; -webkit-box-decoration-break: u=
+nset; -webkit-box-direction: unset; -webkit-box-flex: unset; -webkit-box-or=
+dinal-group: unset; -webkit-box-orient: unset; -webkit-box-pack: unset; -we=
+bkit-box-reflect: unset; -webkit-line-break: unset; -webkit-line-clamp: uns=
+et; -webkit-mask-box-image: unset; -webkit-print-color-adjust: unset; -webk=
+it-rtl-ordering: unset; -webkit-ruby-position: unset; -webkit-tap-highlight=
+-color: unset; -webkit-text-combine: unset; -webkit-text-decorations-in-eff=
+ect: unset; -webkit-text-fill-color: unset; -webkit-text-security: unset; -=
+webkit-text-stroke: unset; -webkit-user-drag: unset; widows: unset; width: =
+unset; will-change: unset; word-break: unset; word-spacing: unset; x: unset=
+; y: unset; z-index: unset; }
+
+.p9okYJYBvulLcues8eVw { margin-right: 21px; padding-right: 36px; right: 0px=
+; }
+
+._2t2jpyP_mh92mTgNUil6Ay { margin-left: 21px; padding-left: 36px; left: 0px=
+; }
+------MultipartBoundary--vVLRoY6PHEa8g2rKwngdF4Z1QofAdXr8fXYaNvHes7----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome-extension://haldlgldplgnggkjaafhelgiaglafanh/explicit-image-filter/close.svg
+
+<svg width=3D"24" height=3D"25" viewBox=3D"0 0 24 25" fill=3D"none" xmlns=
+=3D"http://www.w3.org/2000/svg">
+<path d=3D"M19 6.91L17.59 5.5L12 11.09L6.41 5.5L5 6.91L10.59 12.5L5 18.09L6=
+.41 19.5L12 13.91L17.59 19.5L19 18.09L13.41 12.5L19 6.91Z" fill=3D"#595959"=
+/>
+</svg>=0A
+------MultipartBoundary--vVLRoY6PHEa8g2rKwngdF4Z1QofAdXr8fXYaNvHes7----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: chrome-extension://haldlgldplgnggkjaafhelgiaglafanh/explicit-image-filter/blockedImageLock.png
+
+iVBORw0KGgoAAAANSUhEUgAAADYAAABRCAYAAACZtFU/AAAACXBIWXMAAAsTAAALEwEAmpwYAAAA
+AXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAWlSURBVHgB3ZzPb9xEFMe/4w00SySyQaBAUVTD
+kVZqotwQEssNJBDh0h7bE9e0BxRupHABLlQc4UB6RBzgP0gOwA1lK8EVuQqCIhBxKtH8Ynd4z2tv
+vdm1ZzyeWe/uR3Ls9c7a/s6beTPzZhwBB/ibu43TE/in/8H3PDT4VOrrgLf7H6/swCECJWERR0dY
+lh3ahLhMF2yiX0gmEtjyhLzjQqSRsGff3/VJyBqEeJs+LtPWQAligbdIYABLFBJGgppSig/QtYpt
+AiHka7bEaQmLLCTFV3AjKI01cZ4qwTPv7S6TqF24F8UkGViaXGFsKc8T36JkHSpIk+57HSXJFUa5
+9xk0PZxN4npcikxh7Chot4Zq8OP7GzOT9UVHimtF2wIhEEiJFu1Dyvd7dCrodBBSIx3SvkH7NbLG
+q9AoBbHVdmBI5rMvbrTYYSxD5yKCHyBqh3ZUabseFjfoV+uKpGG9Ll8INldCGDCT852WKMram/c/
+WbkNTWJXfmNxg/MtVxz3aLgqbMGAoXWMXTw0oDbn1p+f6otKc3yMTdoprBEVWyOGCqvVtNw7d2Q3
+YUh4m4uYvJOXhopsE4ZkeUUfSuRdlITqZkuRxOdONgwwFqbxUDoEqgQnx2ZWU3apqqbdNusglCiK
+6ty2cQ3hicswoIzFfIwAKeUCDMgSFmAE6A1PxAUYUMJiZjccgqpnYdUrBhgdIxWmhBpPvS6XmrGz
+mK3BZ6BKYNJIlxFm3CtIQ/3NA1Ua6gzbEUYX0hoqmNxwCAEcMFRYt4Oq8WNRvp5RfFJ5r5pXPAPz
+xmMBFI1wR5pbjAecvJfSuxCFTHNod+wKU+akyjPyw1NIYFlwWK0b/vYRb7KnJV9U9z5ina6FIqFw
+lcVyH1wIMc97diIPH6KZEsC/44dviDj4UHKSgGMlaxSu4IAqhyC2VD/IvB/l0BZd7BrySaw6yrij
+Vqw/r4EOoKaBEYtiyBrXKdO3k3o6jExhVKn3Md5wOHw7qy0dqGPxBARFgGVVwdIi+IeHHscfb579
+oq+OcXSKYvXbqKB4lSGeodlJn+sVxVgUB/smShRD3negdEXCUrMqE8qg946Edbpxch+TS+Osh/T4
+BLtPTD7N9AcvmiSfAs5272bimX9nvPziHC6dr+PJ2Rp+/v0QP/76Lx4cteEAP/1hBo7qFgv5/MoS
+Xn9pvu/83v4JvvzhL3zx/d+wS3/8kZ2HDwd89Nb5AVHM0sLj+PDN5/HuK0/DMn0jehZmNLGWBz/8
+1dWnctOwuEvP1WGT9IjeibCrq3rB2yurRkHeTNIjeieTEhc1LfHGxXnYJD2idyJsvl7TSsdFlp2M
+RfzkoPJpJN1M0ONR2N2JsIND/XaKrWaL9MwMCwtgmSIN8NLCY7DHo7ascovZLYqOncdv4Yl2WsvO
+w62wquoYkwxfPBpW34NluD+oi+Wi2AuHO7JYRzutbYvR8MXnvRNhRbyi5TrW6304cfdVFkXAocUY
+XavZtljS+/B05qdMqNAz+vzHE54bYUWKo02cOg+miDDLFnPnPIpit7+IBocIxsJituEQgTOLFevh
+222kCd+ZxYp4Rdsun2IfDU93TUdRqmykuffh6a7pKMre/qlWOi6yv/xxBMv4yYwmi7M6L8YP/PVP
+/0THXCz5M4t9QMd7NF7jc64cDK9WcCaMH3z9mz1UAS/TSJyHk+JYFRzUmUphU2yxuB3TWTM4YXS7
+VKRwqizGxBabtjqG77oW60yVsIBf0ovaMR5sSvWywXEk5NKWvD4pO/Ju/Qls8VuCSQO9g/EjjKtI
+wBu1TQeQtI+OEczNIch7zbG3lmpxo8VrqJoYEfyiKpBsfS+qtmZnEZq+m5nQW/12fCzfOXcuemu8
+zLqPpGj0cjvJaS7u7TZatRpCm/8sIYuBFabRP0rgdbz9K6eDs8f0kCE/JB/byGHb/A8SVyr0u8MU
+6AAAAABJRU5ErkJggg==
+
+------MultipartBoundary--vVLRoY6PHEa8g2rKwngdF4Z1QofAdXr8fXYaNvHes7----
+Content-Type: text/html
+Content-ID: <frame-BAAECAAAAFDFB3462CEA2144BF420A3F@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome-extension://bhmibpbadaengbikmoglphhlhioajdjn/html/camerapermiss.html
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3Dwindows-1252"></head><body style=3D"margin:0"></body></ht=
+ml>
+------MultipartBoundary--vVLRoY6PHEa8g2rKwngdF4Z1QofAdXr8fXYaNvHes7----
+Content-Type: text/html
+Content-ID: <frame-FE00FC5F59FA8BFEC2416CE36E107CDF@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome-extension://bhmibpbadaengbikmoglphhlhioajdjn/html/audiopermiss.html
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3Dwindows-1252"></head><body style=3D"margin:0"></body></ht=
+ml>
+------MultipartBoundary--vVLRoY6PHEa8g2rKwngdF4Z1QofAdXr8fXYaNvHes7----
+Content-Type: text/html
+Content-ID: <frame-40637ECBC1B990FB473A046AE3D54535@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome-extension://bhmibpbadaengbikmoglphhlhioajdjn/html/widget/slideHandle.html
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3Dwindows-1252"></head><body style=3D"margin:0"></body></ht=
+ml>
+------MultipartBoundary--vVLRoY6PHEa8g2rKwngdF4Z1QofAdXr8fXYaNvHes7----
+Content-Type: text/html
+Content-ID: <frame-440414EB2027E16C7939EF5113F99C00@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://vercel.live/_next-live/feedback/feedback.html?dpl=dpl_EH5AfZ5YL2Vkfc74Zb9ZSfJ8Ks8A
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D=
+"cid:css-bb515b93-40d1-46c3-8005-638eaa3c9ea0@mhtml.blink" /><link rel=3D"s=
+tylesheet" type=3D"text/css" href=3D"cid:css-1ac182d1-038d-4906-b91c-536023=
+4ef520@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"ci=
+d:css-dc7a0c30-b5c6-4c58-829f-616a5a8be347@mhtml.blink" /><link rel=3D"styl=
+esheet" type=3D"text/css" href=3D"cid:css-f0da0839-ad3e-4da0-ad39-abdfbb73e=
+ced@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:c=
+ss-375bd7e1-ce02-4e31-a8d2-cb46f24b933a@mhtml.blink" />
+  <meta name=3D"color-scheme" content=3D"dark light">
+</head>
+<body data-new-gr-c-s-check-loaded=3D"14.1220.0" data-gr-ext-installed=3D""=
+ data-new-gr-c-s-loaded=3D"14.1220.0">
+
+</body><grammarly-desktop-integration data-grammarly-shadow-root=3D"true"><=
+template shadowmode=3D"open"><div aria-label=3D"grammarly-integration" role=
+=3D"group" tabindex=3D"-1" class=3D"grammarly-desktop-integration" data-con=
+tent=3D"{&quot;mode&quot;:&quot;full&quot;,&quot;isActive&quot;:true,&quot;=
+isUserDisabled&quot;:false}"></div></template></grammarly-desktop-integrati=
+on></html>
+------MultipartBoundary--vVLRoY6PHEa8g2rKwngdF4Z1QofAdXr8fXYaNvHes7----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-bb515b93-40d1-46c3-8005-638eaa3c9ea0@mhtml.blink
+
+@charset "utf-8";
+
+html { box-sizing: border-box; height: 100%; overflow: hidden; width: 100%;=
+ }
+
+*, ::after, ::before { box-sizing: inherit; }
+
+body { display: flex; height: 100%; justify-content: center; margin: 0px; m=
+in-height: 100%; position: relative; width: 100%; }
+
+body, html { font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe =
+UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helveti=
+ca Neue", sans-serif; text-rendering: optimizelegibility; -webkit-font-smoo=
+thing: antialiased; }
+
+button { appearance: unset; background: unset; border: unset; font: unset; =
+margin: unset; padding: unset; text-align: unset; }
+------MultipartBoundary--vVLRoY6PHEa8g2rKwngdF4Z1QofAdXr8fXYaNvHes7----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-1ac182d1-038d-4906-b91c-5360234ef520@mhtml.blink
+
+@charset "utf-8";
+
+.OktqAameZQ0jpjuDRT7k { font-family: Inter, -apple-system, BlinkMacSystemFo=
+nt, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans=
+", "Helvetica Neue", sans-serif; height: 100%; width: 100%; --background-rg=
+b: 255,255,255; --foreground-rgb: 0,0,0; --background: rgb(var(--background=
+-rgb)); --foreground: rgb(var(--foreground-rgb)); --hover: #ebebeb; --borde=
+r: #e6e6e6; background: var(--background); color: var(--foreground); }
+
+@media (prefers-color-scheme: dark) {
+  .OktqAameZQ0jpjuDRT7k { --background-rgb: 0,0,0; --foreground-rgb: 255,25=
+5,255; --hover: #1f1f1f; --border: #2e2e2e; }
+}
+
+.OktqAameZQ0jpjuDRT7k button { font-family: inherit; font-size: 14px; }
+
+.OktqAameZQ0jpjuDRT7k hr { background: var(--border); border: none; bottom:=
+ 0px; height: 1px; left: 0px; margin: 0px; position: absolute; width: 100%;=
+ }
+
+.OktqAameZQ0jpjuDRT7k .jsfPbf9cfxS9gjzyFszn { display: flex; flex-direction=
+: column; justify-content: space-between; overflow: hidden; padding: 24px 8=
+px 8px; position: relative; }
+
+.OktqAameZQ0jpjuDRT7k .uqpe5gWm3ERdz1Ey94jg { --icon-size: 16px; align-item=
+s: center; display: flex; flex-direction: row; justify-content: center; gap=
+: 16px; }
+
+.OktqAameZQ0jpjuDRT7k .uqpe5gWm3ERdz1Ey94jg svg { height: var(--icon-size);=
+ width: var(--icon-size); }
+
+.OktqAameZQ0jpjuDRT7k .uqpe5gWm3ERdz1Ey94jg .DWeDVNerlm9JTRHnk3q6 { opacity=
+: 0.3; }
+
+.OktqAameZQ0jpjuDRT7k .uqpe5gWm3ERdz1Ey94jg .ZEtW3DDpNO8Y7mHlQwdy { opacity=
+: 0.6; }
+
+.OktqAameZQ0jpjuDRT7k .uqpe5gWm3ERdz1Ey94jg .kUyDPAZU1jHAL4UFZHFM { opacity=
+: 0.87; }
+
+.OktqAameZQ0jpjuDRT7k .uqpe5gWm3ERdz1Ey94jg .h2DqYwk2YL6qs6AZegzk { --size:=
+ calc(var(--icon-size) + 16px); background: var(--foreground); border-radiu=
+s: 50%; color: var(--background); display: grid; height: var(--size); place=
+-content: center; width: var(--size); }
+
+.OktqAameZQ0jpjuDRT7k .uqpe5gWm3ERdz1Ey94jg .h2DqYwk2YL6qs6AZegzk svg { pos=
+ition: relative; top: -1px; }
+
+.OktqAameZQ0jpjuDRT7k .SDTQfmdjUgAfTLSuWLmx { font-size: 14px; font-weight:=
+ 500; line-height: 20px; padding: 12px 12px 0px; text-align: center; }
+
+.OktqAameZQ0jpjuDRT7k .GvH6d_AqPw1Vk_Htj4VB { color: rgba(var(--foreground-=
+rgb),.61); font-size: 14px; line-height: 21px; padding: 2px 12px 16px; posi=
+tion: relative; text-align: center; z-index: 3; }
+
+@media (prefers-color-scheme: dark) and (hover: hover) {
+  .OktqAameZQ0jpjuDRT7k:not(.p3wjRUC_vtn1eDso8xLu) .GvH6d_AqPw1Vk_Htj4VB { =
+mix-blend-mode: plus-lighter; }
+  .OktqAameZQ0jpjuDRT7k.p3wjRUC_vtn1eDso8xLu:has(.XyomOcjC_VZXSAwrJ_Rr:focu=
+s-visible) .GvH6d_AqPw1Vk_Htj4VB, .OktqAameZQ0jpjuDRT7k.p3wjRUC_vtn1eDso8xL=
+u:has(.XyomOcjC_VZXSAwrJ_Rr:hover) .GvH6d_AqPw1Vk_Htj4VB { backdrop-filter:=
+ blur(0px) brightness(9.5) saturate(0.8); mask: linear-gradient(rgb(0, 0, 0=
+) 0px, rgb(0, 0, 0) 0px) border-box text; text-shadow: rgba(0, 0, 0, 0.54) =
+0px 1px; }
+}
+
+.OktqAameZQ0jpjuDRT7k .XyomOcjC_VZXSAwrJ_Rr { background: var(--foreground)=
+; border: 1px solid transparent; border-radius: 6px; color: var(--backgroun=
+d); cursor: pointer; display: grid; font-weight: 500; height: 32px; place-c=
+ontent: center; position: relative; z-index: 999; }
+
+.OktqAameZQ0jpjuDRT7k .XyomOcjC_VZXSAwrJ_Rr .qZtAJw8fD1FNCZUiR1Oc { positio=
+n: relative; z-index: 1; }
+
+.OktqAameZQ0jpjuDRT7k .XyomOcjC_VZXSAwrJ_Rr:focus-visible { outline: 2px so=
+lid var(--foreground); }
+
+@media (hover: hover) {
+  .OktqAameZQ0jpjuDRT7k .XyomOcjC_VZXSAwrJ_Rr:focus-visible, .OktqAameZQ0jp=
+juDRT7k .XyomOcjC_VZXSAwrJ_Rr:hover { background: transparent; border-color=
+: rgba(var(--foreground-rgb),.1); color: var(--foreground); }
+  .OktqAameZQ0jpjuDRT7k .XyomOcjC_VZXSAwrJ_Rr:focus-visible::after, .OktqAa=
+meZQ0jpjuDRT7k .XyomOcjC_VZXSAwrJ_Rr:focus-visible::before, .OktqAameZQ0jpj=
+uDRT7k .XyomOcjC_VZXSAwrJ_Rr:hover::after, .OktqAameZQ0jpjuDRT7k .XyomOcjC_=
+VZXSAwrJ_Rr:hover::before { content: ""; pointer-events: none; position: ab=
+solute; }
+  @media (prefers-color-scheme: dark) {
+  .OktqAameZQ0jpjuDRT7k .XyomOcjC_VZXSAwrJ_Rr:focus-visible, .OktqAameZQ0jp=
+juDRT7k .XyomOcjC_VZXSAwrJ_Rr:hover { border-color: rgba(var(--foreground-r=
+gb),.3); }
+  .OktqAameZQ0jpjuDRT7k .XyomOcjC_VZXSAwrJ_Rr:focus-visible::before, .OktqA=
+ameZQ0jpjuDRT7k .XyomOcjC_VZXSAwrJ_Rr:hover::before { backdrop-filter: blur=
+(20px) brightness(1.3) saturate(1.5); background: rgba(0, 0, 0, 0); border:=
+ 1px solid transparent; border-radius: inherit; inset: -1px; mask: linear-g=
+radient(rgb(255, 255, 255) 0px, rgb(255, 255, 255) 0px) padding-box exclude=
+, linear-gradient(rgb(255, 255, 255) 0px, rgb(255, 255, 255) 0px); opacity:=
+ 0.7; }
+}
+  .OktqAameZQ0jpjuDRT7k .XyomOcjC_VZXSAwrJ_Rr:focus-visible::after, .OktqAa=
+meZQ0jpjuDRT7k .XyomOcjC_VZXSAwrJ_Rr:hover::after { backdrop-filter: blur(3=
+0px); background: rgba(var(--background-rgb),.4); border-radius: 5px; conte=
+nt: ""; inset: 0px; }
+  @media (prefers-color-scheme: dark) {
+  .OktqAameZQ0jpjuDRT7k .XyomOcjC_VZXSAwrJ_Rr:focus-visible::after, .OktqAa=
+meZQ0jpjuDRT7k .XyomOcjC_VZXSAwrJ_Rr:hover::after { backdrop-filter: blur(1=
+6px); background: none; }
+}
+  .OktqAameZQ0jpjuDRT7k .XyomOcjC_VZXSAwrJ_Rr:focus-visible ~ hr, .OktqAame=
+ZQ0jpjuDRT7k .XyomOcjC_VZXSAwrJ_Rr:hover ~ hr { background: rgba(var(--fore=
+ground-rgb),.1); }
+  .OktqAameZQ0jpjuDRT7k .XyomOcjC_VZXSAwrJ_Rr:active::after { background: r=
+gba(var(--foreground-rgb),.1); }
+}
+
+.OktqAameZQ0jpjuDRT7k.yqu95o3KKWlk1LRdfD4P .XyomOcjC_VZXSAwrJ_Rr { height: =
+40px; }
+
+.OktqAameZQ0jpjuDRT7k .l66Y40FHei_ERhc05rZL { display: flex; flex-direction=
+: column; background: rgb(250, 250, 250); gap: 4px; padding: 8px; }
+
+@media (prefers-color-scheme: dark) {
+  .OktqAameZQ0jpjuDRT7k .l66Y40FHei_ERhc05rZL { background: rgb(10, 10, 10)=
+; }
+}
+
+.OktqAameZQ0jpjuDRT7k .PA2hxcLw65MBGJt7vQCh { align-items: center; backgrou=
+nd-color: transparent; border: none; border-radius: 6px; color: var(--foreg=
+round); cursor: pointer; display: flex; font-size: 14px; justify-content: s=
+pace-between; line-height: 20px; padding: 10px 8px; }
+
+.OktqAameZQ0jpjuDRT7k .PA2hxcLw65MBGJt7vQCh:focus-visible { background-colo=
+r: var(--hover); }
+
+@media (hover: hover) {
+  .OktqAameZQ0jpjuDRT7k .PA2hxcLw65MBGJt7vQCh:hover { background-color: var=
+(--hover); }
+}
+
+.OktqAameZQ0jpjuDRT7k .PA2hxcLw65MBGJt7vQCh svg { color: rgba(var(--foregro=
+und-rgb),.6); height: 16px; width: 16px; }
+
+.OktqAameZQ0jpjuDRT7k .sYRoU9Q_9Q4mTcqNwZW8 { display: flex; align-items: c=
+enter; gap: 12px; }
+
+.OktqAameZQ0jpjuDRT7k .gAQY3g9rkxZiz_J0dmAG { display: flex; gap: 4px; }
+
+@media (any-pointer: coarse) {
+  .OktqAameZQ0jpjuDRT7k .gAQY3g9rkxZiz_J0dmAG { display: none; }
+}
+
+.OktqAameZQ0jpjuDRT7k .y1JSJOYeI9rUjfTHB38V { align-items: center; box-sizi=
+ng: border-box; display: flex; flex-direction: row; justify-content: center=
+; padding: 2px; background: var(--background); border: 1px solid var(--bord=
+er); border-radius: 3px; color: var(--foreground); font-size: 14px; gap: 16=
+px; height: 20px; min-width: 20px; }
+
+.OktqAameZQ0jpjuDRT7k .y1JSJOYeI9rUjfTHB38V svg { color: inherit; height: 1=
+2px; width: 12px; }
+
+.OktqAameZQ0jpjuDRT7k .Zni1rlyTuZWMsJGVOxQR { height: 0.8em; width: 0.8em; =
+}
+
+.IOVR7ZAozdj2wDsLH2FT { bottom: 0px; left: 0px; opacity: 0; pointer-events:=
+ none; position: absolute; transition: opacity 0.5s ease 0s; width: 100%; -=
+-ds-teal-500: #86ead9; --ds-blue-700: #0072f5; --ds-purple-700: #8e4ec6; --=
+ds-pink-700: #ea3e83; --ds-amber-700: #ffb224; height: 64px; }
+
+@media (prefers-color-scheme: dark) {
+  .IOVR7ZAozdj2wDsLH2FT { --ds-teal-500: #085e53; --ds-blue-700: #0072f5; -=
+-ds-purple-700: #8e4ec6; --ds-pink-700: #ea3e83; --ds-amber-700: #ffb224; h=
+eight: 80px; }
+}
+
+.IOVR7ZAozdj2wDsLH2FT .JZ_ruIRtnpRwOfy71NAU { inset: 0px -32px; mask: radia=
+l-gradient(at 50% 82%, rgb(0, 0, 0) 27%, transparent 70%); position: absolu=
+te; }
+
+.IOVR7ZAozdj2wDsLH2FT ._bDe62u0BYgA1uSc9CnL { inset: 0px; }
+
+.IOVR7ZAozdj2wDsLH2FT .iExCBfK176qb5CLTR88r, .IOVR7ZAozdj2wDsLH2FT ._bDe62u=
+0BYgA1uSc9CnL { overflow: hidden; position: absolute; }
+
+.IOVR7ZAozdj2wDsLH2FT .iExCBfK176qb5CLTR88r { --duration: 23s; --gaps: repe=
+ating-linear-gradient(110deg,var(--background) 0%,var(--background) 7%,tran=
+sparent 10%,transparent 12%,var(--background) 19%); --lights: repeating-lin=
+ear-gradient(110deg,var(--ds-teal-500) 10%,var(--ds-blue-700) 15%,var(--ds-=
+purple-700) 20%,var(--ds-pink-700) 25%,var(--ds-amber-700) 30%); background=
+-image: var(--gaps),var(--lights); background-position: 50% 50%, 50% 50%; b=
+ackground-size: 120%, 200%; inset: -10px -200px -10px -40px; filter: blur(1=
+2px) invert(var(--invert)); opacity: 0.7; transform: translateZ(0px); --inv=
+ert: 100%; }
+
+@media (prefers-color-scheme: dark) {
+  .IOVR7ZAozdj2wDsLH2FT .iExCBfK176qb5CLTR88r { --invert: 0; }
+}
+
+.IOVR7ZAozdj2wDsLH2FT .bC9zpZMtu89tYoH672c2 { animation: 23s cubic-bezier(0=
+.15, 0, 0.85, 1) 0s infinite alternate none paused HY3qJ9V3afarO_vdFb31; ba=
+ckground-image: var(--gaps),var(--lights); background-position: 50% 50%, 50=
+% 50%; background-size: 100%, 100%; height: 100%; left: 0px; mix-blend-mode=
+: difference; position: absolute; top: 0px; width: 300%; }
+
+@keyframes HY3qJ9V3afarO_vdFb31 {=20
+  0% { transform: translateX(0px); }
+  100% { transform: translateX(-50%); }
+}
+
+@media (hover: hover) {
+  .XyomOcjC_VZXSAwrJ_Rr:focus-visible ~ .IOVR7ZAozdj2wDsLH2FT, .XyomOcjC_VZ=
+XSAwrJ_Rr:hover ~ .IOVR7ZAozdj2wDsLH2FT { opacity: 1; transform: none; }
+  .XyomOcjC_VZXSAwrJ_Rr:focus-visible ~ .IOVR7ZAozdj2wDsLH2FT .bC9zpZMtu89t=
+YoH672c2, .XyomOcjC_VZXSAwrJ_Rr:hover ~ .IOVR7ZAozdj2wDsLH2FT .bC9zpZMtu89t=
+YoH672c2 { animation-play-state: running; }
+}
+------MultipartBoundary--vVLRoY6PHEa8g2rKwngdF4Z1QofAdXr8fXYaNvHes7----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-dc7a0c30-b5c6-4c58-829f-616a5a8be347@mhtml.blink
+
+@charset "utf-8";
+
+.gz0uaErRoX5lIFdf0CDC { display: none; }
+------MultipartBoundary--vVLRoY6PHEa8g2rKwngdF4Z1QofAdXr8fXYaNvHes7----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-f0da0839-ad3e-4da0-ad39-abdfbb73eced@mhtml.blink
+
+@charset "utf-8";
+
+.DDuZjhKo70em4662HZAz { align-items: center; backdrop-filter: blur(10px); c=
+olor: rgb(0, 0, 0); display: flex; height: 100%; justify-content: center; l=
+eft: 0px; position: fixed; top: 0px; width: 100%; }
+
+@keyframes OE0O3ooYFU4cSkbE5ZcT {=20
+  0% { opacity: 0; pointer-events: none; transform: translate3d(0px, -40px,=
+ 0px); }
+  100% { opacity: 1; pointer-events: all; transform: translateZ(0px); }
+}
+
+.SqHhCGt2Af7j0aVx6Fc6 { animation: 0.35s cubic-bezier(0.4, 0, 0.2, 1) 0s 1 =
+normal none running OE0O3ooYFU4cSkbE5ZcT; background: rgb(255, 255, 255); b=
+order: 1px solid rgba(0, 0, 0, 0.08); border-radius: 12px; box-shadow: rgba=
+(0, 0, 0, 0.04) 0px 1px 2px 0px; height: 492px; max-width: calc(-32px + 100=
+vw); min-width: min(-32px + 100vw, 482px); overflow: hidden; }
+
+.SqHhCGt2Af7j0aVx6Fc6 iframe { height: 100%; user-select: none; width: 100%=
+; }
+------MultipartBoundary--vVLRoY6PHEa8g2rKwngdF4Z1QofAdXr8fXYaNvHes7----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-375bd7e1-ce02-4e31-a8d2-cb46f24b933a@mhtml.blink
+
+@charset "utf-8";
+
+.mwsTkBpmAKjnuF4w3l6Q { background: rgb(255, 255, 255); box-sizing: border-=
+box; height: 100%; padding: 12px; width: 100%; }
+
+.mwsTkBpmAKjnuF4w3l6Q, .mwsTkBpmAKjnuF4w3l6Q .nOxLMKPYvViDh_GwFZKy { displa=
+y: flex; flex-direction: column; align-items: center; gap: 24px; }
+
+.mwsTkBpmAKjnuF4w3l6Q .nOxLMKPYvViDh_GwFZKy { box-sizing: content-box; colo=
+r: rgb(0, 0, 0); max-width: 100%; padding: 52px 68px; width: 320px; }
+
+.mwsTkBpmAKjnuF4w3l6Q .nOxLMKPYvViDh_GwFZKy p { color: rgb(23, 23, 23); fon=
+t-size: 16px; line-height: 24px; margin: -16px 0px 0px; text-align: center;=
+ }
+
+.mwsTkBpmAKjnuF4w3l6Q button { align-items: center; border-radius: 8px; cur=
+sor: pointer; display: flex; font-size: 16px; font-weight: 500; height: 48p=
+x; justify-content: center; line-height: 20px; width: 100%; }
+
+.mwsTkBpmAKjnuF4w3l6Q .YNY2m5ty2Z_scRhkGq9D { background: rgb(23, 23, 23); =
+color: rgb(255, 255, 255); }
+
+@media (hover: hover) {
+  .mwsTkBpmAKjnuF4w3l6Q .YNY2m5ty2Z_scRhkGq9D:hover { background: rgb(56, 5=
+6, 56); }
+}
+
+.mwsTkBpmAKjnuF4w3l6Q .A3YL1RlsgeOArj2ZAXEi { background: rgb(255, 255, 255=
+); color: rgb(0, 0, 0); margin-top: -12px; }
+
+@media (hover: hover) {
+  .mwsTkBpmAKjnuF4w3l6Q .A3YL1RlsgeOArj2ZAXEi:hover { background: rgba(0, 0=
+, 0, 0.08); }
+}
+------MultipartBoundary--vVLRoY6PHEa8g2rKwngdF4Z1QofAdXr8fXYaNvHes7------
