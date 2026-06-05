@@ -80,19 +80,22 @@
     </div>
   </div>
 -->
+	<script src="https://cdn.jsdelivr.net/npm/eruda"></script>
+<script>eruda.init();</script>
+
+
 	<script>
+		const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 		function coins(amounted) {
 			dogeminer.player.coins = amounted
 		}
 		function diamonds(amounted) {
 			dogeminer.player.diamonds = amounted
 		}
+		sleep(2000)
 		console.log("use coins() to set coins")
 		console.log("use diamonds() to set diamonds")
 	</script>
-
-	<script src="https://cdn.jsdelivr.net/npm/eruda"></script>
-<script>eruda.init();</script>
 
   <!--<script>
     const consoleWrapper = document.getElementById("consoleWrapper");
